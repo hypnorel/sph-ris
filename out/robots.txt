@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+Sitemap: https://spherislab.com/sitemap.xml

@@ -1,23 +1,44 @@
+'use client'
+
 import { HTMLAttributes } from 'react'
 import { cn } from '@/lib/utils/cn'
+import { motion } from 'framer-motion'
 
 interface CardProps extends HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode
   hover?: boolean
+  glow?: boolean
+  gradient?: boolean
 }
 
-export default function Card({ children, hover = false, className, ...props }: CardProps) {
+export default function Card({ children, hover = true, glow = false, gradient = false, className, ...props }: CardProps) {
+  const baseClasses = 'bg-white rounded-2xl p-6 transition-all duration-300'
+  const hoverClasses = hover ? 'hover:shadow-2xl hover:-translate-y-1' : ''
+  const glowClasses = glow ? 'shadow-lg hover:shadow-primary-500/20' : 'shadow-md'
+  const gradientClasses = gradient ? 'bg-gradient-to-br from-white via-primary-50/30 to-secondary-50/30' : ''
+
+  // Filtrer les props incompatibles entre HTML et Framer Motion
+  const { onDragStart, onDragEnd, onDrag, onDragEnter, onDragLeave, onDragOver, onDrop, onAnimationStart, onAnimationEnd, ...safeProps } = props
+
   return (
-    <div
+    <motion.div
       className={cn(
-        'bg-white rounded-2xl shadow-lg p-6',
-        hover && 'hover:shadow-xl transition-shadow duration-300',
+        baseClasses,
+        hoverClasses,
+        glowClasses,
+        gradientClasses,
+        'border border-slate-100 hover:border-primary-200',
         className
       )}
-      {...props}
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true, margin: '-50px' }}
+      transition={{ duration: 0.5 }}
+      whileHover={hover ? { y: -4 } : undefined}
+      {...safeProps}
     >
       {children}
-    </div>
+    </motion.div>
   )
 }
 
