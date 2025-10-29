@@ -17,7 +17,7 @@ export default function Section({
 }: SectionProps) {
   const backgrounds = {
     default: '',
-    white: 'bg-white/50 backdrop-blur-sm',
+    white: 'bg-slate-50/80',
     gradient: 'bg-gradient-to-br from-slate-50 to-purple-50',
   }
 

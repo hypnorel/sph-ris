@@ -45,7 +45,7 @@ export default function HeroHome() {
       <div className="relative max-w-7xl mx-auto text-center">
         {/* Surtitre animé */}
         <FadeInUp delay={0.1}>
-          <div className="mb-8">
+          <div className="mb-8 mt-8 md:mt-12">
             <motion.span
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-gradient-to-r from-primary-100 via-secondary-50 to-primary-100 text-primary-700 font-semibold text-sm md:text-base border border-primary-200 shadow-md"
               whileHover={{ scale: 1.05 }}
@@ -86,7 +86,7 @@ export default function HeroHome() {
         <FadeInUp delay={0.4}>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12 max-w-3xl mx-auto px-4">
             <motion.div
-              className="flex items-center gap-3 bg-white/90 backdrop-blur-sm px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
+              className="flex items-center gap-3 bg-white px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
               whileHover={{ scale: 1.05, y: -5 }}
             >
               <div className="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center">
@@ -95,7 +95,7 @@ export default function HeroHome() {
               <span className="text-slate-700 font-semibold text-sm md:text-base">20-40 vidéos en 2 jours</span>
             </motion.div>
             <motion.div
-              className="flex items-center gap-3 bg-white/90 backdrop-blur-sm px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
+              className="flex items-center gap-3 bg-white px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
               whileHover={{ scale: 1.05, y: -5 }}
             >
               <div className="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center">
@@ -104,7 +104,7 @@ export default function HeroHome() {
               <span className="text-slate-700 font-semibold text-sm md:text-base">Communauté solidaire</span>
             </motion.div>
             <motion.div
-              className="flex items-center gap-3 bg-white/90 backdrop-blur-sm px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
+              className="flex items-center gap-3 bg-white px-5 py-3 rounded-2xl shadow-lg border border-primary-100"
               whileHover={{ scale: 1.05, y: -5 }}
             >
               <div className="flex-shrink-0 w-10 h-10 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center">
@@ -133,7 +133,7 @@ export default function HeroHome() {
         <FadeIn delay={0.6}>
           <div className="mt-8 md:mt-12 grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto">
             <motion.div
-              className="text-center p-4 rounded-2xl bg-white/50 backdrop-blur-sm border border-primary-100"
+              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
               whileHover={{ y: -5 }}
             >
               <motion.p
@@ -147,7 +147,7 @@ export default function HeroHome() {
               <p className="text-slate-600 text-xs md:text-sm mt-1 font-medium">Participants</p>
             </motion.div>
             <motion.div
-              className="text-center p-4 rounded-2xl bg-white/50 backdrop-blur-sm border border-primary-100"
+              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
               whileHover={{ y: -5 }}
             >
               <motion.p
@@ -161,7 +161,7 @@ export default function HeroHome() {
               <p className="text-slate-600 text-xs md:text-sm mt-1 font-medium">Vidéos créées</p>
             </motion.div>
             <motion.div
-              className="text-center p-4 rounded-2xl bg-white/50 backdrop-blur-sm border border-primary-100"
+              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
               whileHover={{ y: -5 }}
             >
               <motion.p
@@ -177,21 +177,6 @@ export default function HeroHome() {
           </div>
         </FadeIn>
       </div>
-
-      {/* Scroll indicator - Enhanced */}
-      <motion.div
-        className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
-        animate={{ y: [0, 10, 0] }}
-        transition={{ duration: 2, repeat: Infinity }}
-      >
-        <div className="w-7 h-11 border-2 border-primary-500 rounded-full flex justify-center p-2">
-          <motion.div
-            className="w-1.5 h-3 bg-gradient-to-b from-primary-500 to-secondary-500 rounded-full"
-            animate={{ y: [0, 12, 0] }}
-            transition={{ duration: 1.5, repeat: Infinity }}
-          />
-        </div>
-      </motion.div>
     </section>
   )
 }

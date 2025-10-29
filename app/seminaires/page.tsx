@@ -5,7 +5,9 @@ import PropositionValeur from '@/components/PropositionValeur'
 import Programme from '@/components/Programme'
 import Ecosysteme from '@/components/Ecosysteme'
 import Tarifs from '@/components/Tarifs'
+import FAQSection from '@/components/FAQSection'
 import Contact from '@/components/Contact'
+import { seminairesFAQ } from '@/data/faqData'
 
 export const metadata = {
   title: 'Séminaires Vidéo',
@@ -23,6 +25,7 @@ export default function SeminairesPage() {
       <Programme />
       <Ecosysteme />
       <Tarifs />
+      <FAQSection faqs={seminairesFAQ} />
       <Contact />
     </>
   )

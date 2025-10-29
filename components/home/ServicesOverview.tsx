@@ -33,7 +33,7 @@ export default function ServicesOverview() {
         description="De la création de contenu à la stratégie digitale, tout ce dont vous avez besoin pour réussir"
       />
 
-      <StaggerContainer className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
+      <StaggerContainer className="grid sm:grid-cols-2 xl:grid-cols-4 gap-6 md:gap-8">
         {services.map((service, index) => (
           <motion.div
             key={service.id}
@@ -42,7 +42,7 @@ export default function ServicesOverview() {
             viewport={{ once: true, margin: '-50px' }}
             transition={{ delay: index * 0.1, duration: 0.5 }}
           >
-            <Card hover glow className="flex flex-col h-full group relative overflow-hidden">
+            <Card hover glow className="flex flex-col h-full group relative overflow-hidden p-8">
               {/* Gradient overlay on hover */}
               <div className="absolute inset-0 bg-gradient-to-br from-primary-500/5 to-secondary-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
 

@@ -1,3 +1,8 @@
+'use client'
+
+import Card from '@/components/ui/Card'
+import { BookOpen, Video, MessageSquare, Camera, BarChart3 } from 'lucide-react'
+
 export default function Programme() {
   return (
     <section className="py-20 px-4" id="programme">
@@ -15,29 +20,41 @@ export default function Programme() {
         {/* Structure du programme */}
         <div className="mb-16">
           <div className="grid md:grid-cols-3 gap-8">
-            <div className="bg-gradient-to-br from-primary-50 to-primary-100 p-8 rounded-2xl shadow-lg">
-              <div className="text-5xl mb-4">📚</div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-3">Conférences</h3>
-              <p className="text-slate-700">
-                Théorie, bonnes pratiques et stratégies de personal branding pour maximiser votre impact.
-              </p>
-            </div>
+            <Card hover glow gradient className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <BookOpen className="w-8 h-8 text-white" />
+                </div>
+                <h3 className="text-2xl font-bold text-slate-900 mb-3">Conférences</h3>
+                <p className="text-slate-700">
+                  Théorie, bonnes pratiques et stratégies de personal branding pour maximiser votre impact.
+                </p>
+              </div>
+            </Card>
 
-            <div className="bg-gradient-to-br from-secondary-50 to-secondary-100 p-8 rounded-2xl shadow-lg">
-              <div className="text-5xl mb-4">🎬</div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-3">Ateliers pratiques</h3>
-              <p className="text-slate-700">
-                Tournage vidéo, coaching face caméra et optimisation de votre posture professionnelle.
-              </p>
-            </div>
+            <Card hover glow gradient className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <Video className="w-8 h-8 text-white" />
+                </div>
+                <h3 className="text-2xl font-bold text-slate-900 mb-3">Ateliers pratiques</h3>
+                <p className="text-slate-700">
+                  Tournage vidéo, coaching face caméra et optimisation de votre posture professionnelle.
+                </p>
+              </div>
+            </Card>
 
-            <div className="bg-gradient-to-br from-primary-50 to-secondary-100 p-8 rounded-2xl shadow-lg">
-              <div className="text-5xl mb-4">💬</div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-3">Interviews croisées</h3>
-              <p className="text-slate-700">
-                Sessions d'interview 2 par 2 pour créer vos contenus professionnels et authentiques.
-              </p>
-            </div>
+            <Card hover glow gradient className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <MessageSquare className="w-8 h-8 text-white" />
+                </div>
+                <h3 className="text-2xl font-bold text-slate-900 mb-3">Interviews croisées</h3>
+                <p className="text-slate-700">
+                  Sessions d'interview 2 par 2 pour créer vos contenus professionnels et authentiques.
+                </p>
+              </div>
+            </Card>
           </div>
         </div>
 
@@ -47,9 +64,11 @@ export default function Programme() {
             Un <span className="text-primary-600">double accompagnement</span> expert
           </h3>
           <div className="grid md:grid-cols-2 gap-8">
-            <div className="bg-white p-8 rounded-2xl shadow-xl border-t-4 border-primary-500">
+            <Card hover glow className="group border-t-4 border-primary-500">
               <div className="flex items-start gap-4 mb-4">
-                <div className="text-5xl">🎥</div>
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                  <Camera className="w-7 h-7 text-white" />
+                </div>
                 <div>
                   <h4 className="text-2xl font-bold text-slate-900 mb-2">Animateur Technique</h4>
                   <p className="text-primary-600 font-semibold">Expert vidéo & production</p>
@@ -73,11 +92,13 @@ export default function Programme() {
                   <span className="text-slate-700">Qualité professionnelle garantie</span>
                 </li>
               </ul>
-            </div>
+            </Card>
 
-            <div className="bg-white p-8 rounded-2xl shadow-xl border-t-4 border-secondary-500">
+            <Card hover glow className="group border-t-4 border-secondary-500">
               <div className="flex items-start gap-4 mb-4">
-                <div className="text-5xl">📊</div>
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
+                  <BarChart3 className="w-7 h-7 text-white" />
+                </div>
                 <div>
                   <h4 className="text-2xl font-bold text-slate-900 mb-2">Animateur Stratégie</h4>
                   <p className="text-secondary-600 font-semibold">Expert marketing & branding</p>
@@ -101,7 +122,7 @@ export default function Programme() {
                   <span className="text-slate-700">Accompagnement contenu long terme</span>
                 </li>
               </ul>
-            </div>
+            </Card>
           </div>
         </div>
 

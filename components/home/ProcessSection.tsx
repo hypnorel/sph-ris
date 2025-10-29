@@ -48,7 +48,7 @@ export default function ProcessSection() {
             )}
 
             {/* Card */}
-            <div className="relative bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-shadow">
+            <div className="relative bg-white rounded-2xl p-6 shadow-lg hover:shadow-xl transition-shadow h-full flex flex-col min-h-[280px]">
               {/* Number badge */}
               <div className="absolute -top-4 -left-4 w-12 h-12 rounded-full bg-gradient-to-r from-primary-600 to-secondary-600 flex items-center justify-center text-white font-bold text-lg shadow-lg">
                 {step.number}
@@ -59,7 +59,7 @@ export default function ProcessSection() {
 
               {/* Content */}
               <h3 className="text-xl font-bold text-slate-900 mb-3">{step.title}</h3>
-              <p className="text-slate-600 text-sm leading-relaxed">{step.description}</p>
+              <p className="text-slate-600 text-sm leading-relaxed flex-grow">{step.description}</p>
             </div>
           </div>
         ))}

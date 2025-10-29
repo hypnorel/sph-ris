@@ -1,20 +1,35 @@
+'use client'
+
 import Link from 'next/link'
 import Button from '@/components/ui/Button'
 import { ArrowRight } from 'lucide-react'
+import { motion } from 'framer-motion'
 
 export default function CTASection() {
   return (
     <section className="py-20 px-4">
       <div className="max-w-4xl mx-auto">
         <div className="relative overflow-hidden bg-gradient-to-br from-primary-600 to-secondary-600 rounded-3xl shadow-2xl p-12 md:p-16">
-          {/* Background pattern */}
-          <div className="absolute inset-0 opacity-10">
-            <svg className="w-full h-full" viewBox="0 0 100 100">
-              <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
-                <circle cx="5" cy="5" r="1" fill="white" />
-              </pattern>
-              <rect width="100" height="100" fill="url(#grid)" />
-            </svg>
+          {/* Animated background blobs */}
+          <div className="absolute inset-0 overflow-hidden">
+            <motion.div
+              className="absolute -top-20 -right-20 w-64 h-64 bg-white/10 rounded-full blur-3xl"
+              animate={{
+                scale: [1, 1.2, 1],
+                x: [0, 30, 0],
+                y: [0, 20, 0]
+              }}
+              transition={{ duration: 15, repeat: Infinity, ease: "easeInOut" }}
+            />
+            <motion.div
+              className="absolute -bottom-20 -left-20 w-64 h-64 bg-white/10 rounded-full blur-3xl"
+              animate={{
+                scale: [1, 1.3, 1],
+                x: [0, -30, 0],
+                y: [0, -20, 0]
+              }}
+              transition={{ duration: 18, repeat: Infinity, ease: "easeInOut" }}
+            />
           </div>
 
           {/* Content */}

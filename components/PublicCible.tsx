@@ -1,3 +1,8 @@
+'use client'
+
+import Card from '@/components/ui/Card'
+import { AlertCircle, Wrench, Users, ClipboardList } from 'lucide-react'
+
 export default function PublicCible() {
   return (
     <section className="py-20 px-4" id="pour-qui">
@@ -78,37 +83,53 @@ export default function PublicCible() {
             Vous vous reconnaissez dans ces <span className="text-primary-600">difficultés</span> ?
           </h3>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div className="bg-gradient-to-br from-red-50 to-red-100 p-6 rounded-xl border-l-4 border-red-500">
-              <div className="text-3xl mb-3">😓</div>
-              <h4 className="font-bold text-slate-900 mb-2">Valorisation difficile</h4>
-              <p className="text-slate-700 text-sm">
-                Difficulté à valoriser votre activité auprès de vos clients potentiels
-              </p>
-            </div>
+            <Card hover glow className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <AlertCircle className="w-7 h-7 text-white" />
+                </div>
+                <h4 className="font-bold text-lg text-slate-900 mb-2">Valorisation difficile</h4>
+                <p className="text-slate-600 text-sm">
+                  Difficulté à valoriser votre activité auprès de vos clients potentiels
+                </p>
+              </div>
+            </Card>
 
-            <div className="bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-xl border-l-4 border-orange-500">
-              <div className="text-3xl mb-3">🔧</div>
-              <h4 className="font-bold text-slate-900 mb-2">Barrières techniques</h4>
-              <p className="text-slate-700 text-sm">
-                Obstacles techniques bloquant la création de contenu
-              </p>
-            </div>
+            <Card hover glow className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <Wrench className="w-7 h-7 text-white" />
+                </div>
+                <h4 className="font-bold text-lg text-slate-900 mb-2">Barrières techniques</h4>
+                <p className="text-slate-600 text-sm">
+                  Obstacles techniques bloquant la création de contenu
+                </p>
+              </div>
+            </Card>
 
-            <div className="bg-gradient-to-br from-yellow-50 to-yellow-100 p-6 rounded-xl border-l-4 border-yellow-500">
-              <div className="text-3xl mb-3">🤷</div>
-              <h4 className="font-bold text-slate-900 mb-2">Manque de réseau</h4>
-              <p className="text-slate-700 text-sm">
-                Absence d'accompagnement dans la démarche de communication
-              </p>
-            </div>
+            <Card hover glow className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <Users className="w-7 h-7 text-white" />
+                </div>
+                <h4 className="font-bold text-lg text-slate-900 mb-2">Manque de réseau</h4>
+                <p className="text-slate-600 text-sm">
+                  Absence d'accompagnement dans la démarche de communication
+                </p>
+              </div>
+            </Card>
 
-            <div className="bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-xl border-l-4 border-blue-500">
-              <div className="text-3xl mb-3">📋</div>
-              <h4 className="font-bold text-slate-900 mb-2">Pas de cadre structuré</h4>
-              <p className="text-slate-700 text-sm">
-                Absence de cadre pour se lancer efficacement
-              </p>
-            </div>
+            <Card hover glow className="group">
+              <div className="flex flex-col items-center text-center">
+                <div className="w-14 h-14 bg-gradient-to-br from-primary-500 to-secondary-500 rounded-full flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
+                  <ClipboardList className="w-7 h-7 text-white" />
+                </div>
+                <h4 className="font-bold text-lg text-slate-900 mb-2">Pas de cadre structuré</h4>
+                <p className="text-slate-600 text-sm">
+                  Absence de cadre pour se lancer efficacement
+                </p>
+              </div>
+            </Card>
           </div>
 
           {/* CTA */}
