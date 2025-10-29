@@ -1,0 +1,238 @@
+1:"$Sreact.fragment"
+2:I[616,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+3:I[50453,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+4:I[15353,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+9:I[4667,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+a:I[382,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+10:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[88559,["/_next/static/chunks/87229b6184768edd.js","/_next/static/chunks/c441a8be6d3eca66.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+0:{"buildId":"Bgm0nztoNFDVY9RuMDDYF","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Comment créer des vidéos courtes qui convertissent (pour thérapeutes)\",\"image\":\"/blog/creer-videos-courtes-therapeutes/cover.jpg\",\"datePublished\":\"2025-01-27\",\"dateModified\":\"2025-01-27\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"Guide pratique pour thérapeutes : créez des Shorts, Reels et TikToks qui attirent vos clients idéaux. Conseils, formats et exemples concrets.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/creer-videos-courtes-therapeutes\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L2",null,{"src":"/blog/creer-videos-courtes-therapeutes/cover.jpg","alt":"Comment créer des vidéos courtes qui convertissent (pour thérapeutes)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L4",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Vidéo & Production"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"Comment créer des vidéos courtes qui convertissent (pour thérapeutes)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"27 janvier 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"6 min de lecture"}]]}]]}]]}]]}]]}],"$L5"]}]],["$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+b:T1d03,
+## Pourquoi les vidéos courtes sont incontournables en 2025
+
+Si vous êtes thérapeute, coach ou praticien du bien-être, vous avez probablement remarqué l'explosion des vidéos courtes sur tous les réseaux sociaux.
+
+**Les chiffres parlent d'eux-mêmes :**
+- Les Reels Instagram obtiennent 22% d'engagement en plus que les posts classiques
+- Les Shorts YouTube génèrent 30 milliards de vues par jour
+- 73% des consommateurs préfèrent regarder une courte vidéo pour découvrir un produit ou service
+
+Pour les thérapeutes, c'est une opportunité en or de **montrer votre expertise, créer la confiance, et attirer vos clients idéaux**.
+
+## Les formats de vidéos courtes qui fonctionnent
+
+### 1. Le format "Conseil rapide" (15-30 secondes)
+
+**Structure simple :**
+- Problème : "Tu te sens débordé·e au travail ?"
+- Solution : "Voici un exercice de 2 minutes pour retrouver ton calme"
+- Démonstration rapide
+- Call-to-action : "Sauvegarde pour plus tard"
+
+**Exemple concret :** "3 respirations pour calmer l'anxiété en 60 secondes"
+
+### 2. Le format "Détruis le mythe" (30-45 secondes)
+
+Les gens adorent quand on déconstruit les idées reçues. C'est éducatif et ça positionne votre expertise.
+
+**Structure :**
+- Mythe : "Beaucoup pensent que la méditation nécessite 1h par jour"
+- Réalité : "En réalité, 5 minutes suffisent si c'est fait correctement"
+- Explication rapide
+- Bonus : "Je t'explique comment dans ma bio"
+
+### 3. Le format "Avant/Après émotionnel" (20-40 secondes)
+
+Montrez la transformation que vous apportez, sans violer la confidentialité.
+
+**Structure :**
+- "Mes clients arrivent souvent en se sentant..."
+- "Après nos sessions, ils repartent avec..."
+- "Si tu te reconnais, écris-moi en commentaire"
+
+### 4. Le format "Question/Réponse" (30-60 secondes)
+
+Répondez aux questions fréquentes de votre audience.
+
+**Exemples de questions :**
+- "Combien de séances faut-il ?"
+- "C'est quoi la différence entre un psychologue et un sophrologue ?"
+- "Comment savoir si j'ai besoin d'un thérapeute ?"
+
+### 5. Le format "Coulisses" (20-45 secondes)
+
+Humanisez votre pratique en montrant l'envers du décor.
+
+**Idées de contenu :**
+- Votre routine matinale avant les consultations
+- Votre espace de consultation
+- Votre formation continue
+- Vos lectures du moment
+
+## Les 7 règles d'or de la vidéo courte
+
+### Règle 1 : Captez l'attention dans les 3 premières secondes
+
+**Mauvais :** "Bonjour, je m'appelle Sarah, je suis sophrologue..."
+
+**Bon :** "Tu rumines pendant des heures avant de dormir ? Voici la solution."
+
+### Règle 2 : Une vidéo = une idée
+
+Ne cherchez pas à tout dire. Focalisez-vous sur un seul message clair et actionnable.
+
+### Règle 3 : Parlez directement à votre audience
+
+Utilisez "tu" ou "vous", posez des questions, créez de l'interaction.
+
+### Règle 4 : Ajoutez des sous-titres
+
+80% des vidéos sont regardées sans son. Les sous-titres sont indispensables.
+
+### Règle 5 : Terminez par un CTA clair
+
+**Exemples de CTA efficaces :**
+- "Sauvegarde cette vidéo pour plus tard"
+- "Partage à quelqu'un qui en a besoin"
+- "Écris-moi 'intéressé·e' en commentaire"
+- "Suis-moi pour plus de conseils"
+
+### Règle 6 : Soyez constant
+
+Publiez au minimum 3 vidéos par semaine pour des résultats visibles.
+
+### Règle 7 : Analysez vos stats
+
+Regardez quelles vidéos fonctionnent le mieux et répliquez ce succès.
+
+## Le setup minimal pour commencer
+
+Vous n'avez pas besoin d'un studio professionnel pour démarrer. Voici le strict minimum :
+
+**Matériel de base :**
+- **Smartphone récent** (iPhone 11+ ou équivalent Android)
+- **Trépied smartphone** (15-30€ sur Amazon)
+- **Lumière anneau LED** (30-50€) ou lumière naturelle près d'une fenêtre
+- **Micro-cravate** optionnel mais recommandé (20-40€)
+
+**Applications gratuites :**
+- **CapCut** : Montage vidéo simple et puissant
+- **Canva** : Miniatures et éléments graphiques
+- **InShot** : Alternative de montage
+
+## Le processus en 5 étapes
+
+### Étape 1 : Planification (15 minutes)
+
+Créez une liste de 30 idées de vidéos en une session. Inspirez-vous de :
+- Questions fréquentes de vos clients
+- Commentaires sur vos posts
+- Tendances sur TikTok/Instagram dans votre niche
+
+### Étape 2 : Tournage (30-60 minutes pour 5-10 vidéos)
+
+**Astuce pro :** Filmez plusieurs vidéos d'un coup avec le même setup.
+
+**Script type (à adapter) :**
+1. Hook (3 sec) : "Tu savais que... ?"
+2. Contenu (20 sec) : Explication/démonstration
+3. CTA (5 sec) : "Suis-moi pour plus"
+
+### Étape 3 : Montage (10 minutes par vidéo)
+
+Avec CapCut ou similaire :
+- Coupez les silences et hésitations
+- Ajoutez des sous-titres automatiques
+- Insérez des transitions simples
+- Ajoutez une musique tendance (bibliothèque gratuite)
+
+### Étape 4 : Publication
+
+**Meilleurs moments pour publier :**
+- Instagram/Facebook : 11h-13h et 19h-21h
+- TikTok : 18h-21h
+- YouTube Shorts : 14h-16h et 20h-22h
+
+**Hashtags stratégiques :**
+- 3-5 hashtags de niche (#sophrologue, #anxiete, #bienetre)
+- 2-3 hashtags moyens (#developpementpersonnel, #santementale)
+- 1-2 hashtags larges (#psychologie, #coach)
+
+### Étape 5 : Engagement
+
+Répondez aux commentaires dans les 2 premières heures. L'algorithme favorise les vidéos qui génèrent des interactions rapides.
+
+## Les erreurs à éviter absolument
+
+### ❌ Parler trop vite ou trop lentement
+
+Trouvez votre rythme naturel, ni trop rapide (anxiogène) ni trop lent (ennuyeux).
+
+### ❌ Regarder ailleurs que la caméra
+
+Fixez l'objectif comme si vous parliez à un ami. Ça crée la connexion.
+
+### ❌ Négliger le son
+
+Un son pourri fait fuir. Filmez dans un endroit calme ou investissez dans un micro.
+
+### ❌ Copier exactement les autres
+
+Inspirez-vous, mais gardez votre personnalité unique.
+
+### ❌ Abandonner après 2 semaines
+
+Les résultats prennent 3-6 mois. Persistez !
+
+## La solution Sphèris Lab : 20-40 vidéos en 2 jours
+
+Créer des vidéos régulièrement demande du temps et de l'énergie. C'est pourquoi nous avons créé les séminaires Sphèris Lab.
+
+**Le concept :**
+- 2 jours / 1 nuit de tournage intensif
+- Format interview croisée (le plus naturel)
+- 20 à 40 vidéos professionnelles créées
+- Équipe technique + coaching stratégique
+- Communauté de pairs bienveillants
+
+**Résultat :** Vous repartez avec plusieurs mois de contenu prêt à publier, sans le stress technique.
+
+[Découvrir nos séminaires →](/seminaires)
+
+## Checklist : Votre première vidéo courte
+
+Prêt·e à vous lancer ? Suivez cette checklist :
+
+- [ ] Choisir un sujet précis (conseil, mythe, Q&A)
+- [ ] Écrire un script de 3 phrases maximum
+- [ ] Préparer votre setup (lumière, son, cadrage)
+- [ ] Filmer 3-5 prises
+- [ ] Monter avec sous-titres et musique
+- [ ] Publier aux heures de pointe
+- [ ] Répondre aux premiers commentaires
+
+## Conclusion
+
+Les vidéos courtes ne sont plus une option mais une nécessité pour les thérapeutes qui souhaitent développer leur activité en 2025.
+
+**Retenez que :**
+- Une vidéo = une idée claire
+- La constance bat la perfection
+- Les 3 premières secondes sont cruciales
+- L'authenticité attire les bons clients
+
+Vous n'avez pas besoin d'être un expert technique. Commencez simplement, apprenez en faisant, et ajustez au fil du temps.
+
+**Besoin d'aide pour démarrer ?** Rejoignez notre prochain séminaire et créez 40 vidéos en 2 jours, sans stress.
+
+[Je réserve ma place →](/contact)
+5:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"Les vidéos courtes sont le format le plus performant en 2025. Découvrez comment les créer efficacement, même sans expérience technique."}],["$","div",null,{"className":"mb-8","children":["$","$L9",null,{"title":"Comment créer des vidéos courtes qui convertissent (pour thérapeutes)","url":"http://localhost:3000/blog/creer-videos-courtes-therapeutes"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$La",null,{"content":"$b"}]}],"$Lc","$Ld","$Le"]}],"$Lf"]}]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true}]
+7:["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true}]
+8:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+c:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","vidéo",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","vidéo"]}],["$","span","shorts",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","shorts"]}],["$","span","reels",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","reels"]}],["$","span","content creation",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","content creation"]}],["$","span","thérapeutes",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","thérapeutes"]}]]}]]}]
+d:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$L9",null,{"title":"Comment créer des vidéos courtes qui convertissent (pour thérapeutes)","url":"http://localhost:3000/blog/creer-videos-courtes-therapeutes"}]}]
+e:null
+f:["$","aside",null,{"children":["$","$L13",null,{"headings":[{"id":"pourquoi-les-videos-courtes-sont-incontournables-en-2025","text":"Pourquoi les vidéos courtes sont incontournables en 2025","level":2},{"id":"les-formats-de-videos-courtes-qui-fonctionnent","text":"Les formats de vidéos courtes qui fonctionnent","level":2},{"id":"1-le-format-conseil-rapide-15-30-secondes","text":"1. Le format \"Conseil rapide\" (15-30 secondes)","level":3},{"id":"2-le-format-detruis-le-mythe-30-45-secondes","text":"2. Le format \"Détruis le mythe\" (30-45 secondes)","level":3},{"id":"3-le-format-avant-apres-emotionnel-20-40-secondes","text":"3. Le format \"Avant/Après émotionnel\" (20-40 secondes)","level":3},{"id":"4-le-format-question-reponse-30-60-secondes","text":"4. Le format \"Question/Réponse\" (30-60 secondes)","level":3},{"id":"5-le-format-coulisses-20-45-secondes","text":"5. Le format \"Coulisses\" (20-45 secondes)","level":3},{"id":"les-7-regles-d-or-de-la-video-courte","text":"Les 7 règles d'or de la vidéo courte","level":2},{"id":"regle-1-captez-l-attention-dans-les-3-premieres-secondes","text":"Règle 1 : Captez l'attention dans les 3 premières secondes","level":3},{"id":"regle-2-une-video-une-idee","text":"Règle 2 : Une vidéo = une idée","level":3},{"id":"regle-3-parlez-directement-a-votre-audience","text":"Règle 3 : Parlez directement à votre audience","level":3},{"id":"regle-4-ajoutez-des-sous-titres","text":"Règle 4 : Ajoutez des sous-titres","level":3},{"id":"regle-5-terminez-par-un-cta-clair","text":"Règle 5 : Terminez par un CTA clair","level":3},{"id":"regle-6-soyez-constant","text":"Règle 6 : Soyez constant","level":3},{"id":"regle-7-analysez-vos-stats","text":"Règle 7 : Analysez vos stats","level":3},{"id":"le-setup-minimal-pour-commencer","text":"Le setup minimal pour commencer","level":2},{"id":"le-processus-en-5-etapes","text":"Le processus en 5 étapes","level":2},{"id":"etape-1-planification-15-minutes","text":"Étape 1 : Planification (15 minutes)","level":3},{"id":"etape-2-tournage-30-60-minutes-pour-5-10-videos","text":"Étape 2 : Tournage (30-60 minutes pour 5-10 vidéos)","level":3},{"id":"etape-3-montage-10-minutes-par-video","text":"Étape 3 : Montage (10 minutes par vidéo)","level":3},{"id":"etape-4-publication","text":"Étape 4 : Publication","level":3},{"id":"etape-5-engagement","text":"Étape 5 : Engagement","level":3},{"id":"les-erreurs-a-eviter-absolument","text":"Les erreurs à éviter absolument","level":2},{"id":"parler-trop-vite-ou-trop-lentement","text":"❌ Parler trop vite ou trop lentement","level":3},{"id":"regarder-ailleurs-que-la-camera","text":"❌ Regarder ailleurs que la caméra","level":3},{"id":"negliger-le-son","text":"❌ Négliger le son","level":3},{"id":"copier-exactement-les-autres","text":"❌ Copier exactement les autres","level":3},{"id":"abandonner-apres-2-semaines","text":"❌ Abandonner après 2 semaines","level":3},{"id":"la-solution-spheris-lab-20-40-videos-en-2-jours","text":"La solution Sphèris Lab : 20-40 vidéos en 2 jours","level":2},{"id":"checklist-votre-premiere-video-courte","text":"Checklist : Votre première vidéo courte","level":2},{"id":"conclusion","text":"Conclusion","level":2}]}]}]
+12:null
