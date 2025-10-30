@@ -2,6 +2,7 @@ import Section, { SectionHeader } from '@/components/ui/Section'
 import Card, { CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/Card'
 import Button from '@/components/ui/Button'
 import VideoPlaceholder from '@/components/ui/VideoPlaceholder'
+import RelatedArticlesSection from '@/components/RelatedArticlesSection'
 import Link from 'next/link'
 
 export const metadata = {
@@ -197,6 +198,14 @@ export default function ProductionPage() {
           ))}
         </div>
       </Section>
+
+      {/* Related Articles */}
+      <RelatedArticlesSection
+        title="Guides et Ressources"
+        subtitle="Apprenez comment maximiser l'impact de votre contenu vidéo"
+        filterByCategory="Vidéo & Production"
+        limit={3}
+      />
 
       {/* CTA */}
       <Section background="gradient">

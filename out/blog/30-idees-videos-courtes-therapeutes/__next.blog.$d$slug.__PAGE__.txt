@@ -1,0 +1,986 @@
+1:"$Sreact.fragment"
+2:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+3:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+4:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+c:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+d:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+13:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+20:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+0:{"buildId":"N6GheZFdJW3eUhOPy0QZ3","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)\",\"image\":\"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-02-17\",\"dateModified\":\"2025-02-17\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"30 formats de Reels et vidéos courtes testés pour thérapeutes. Scripts prêts à l'emploi, stratégie de contenu et planification pour convertir en consultations.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/30-idees-videos-courtes-therapeutes\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L4",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Vidéo & Production"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"17 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L5","$L6","$undefined"]}],"$L7"]}]]}]]}]]}]]}],"$L8"]}]],["$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+5:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+6:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+7:["$","span",null,{"children":"23 min de lecture"}]
+e:T766f,
+La caméra est allumée. L'application Instagram est ouverte, prête à enregistrer un Reel.
+
+Mais votre esprit est vide. *"De quoi je vais parler ? Qu'est-ce qui va intéresser les gens ? Et si je dis une bêtise ?"*
+
+Vous scrollez les Reels des autres thérapeutes pour trouver l'inspiration. Mais tout semble déjà fait. Tout semble mieux que ce que vous pourriez créer.
+
+Vous fermez l'application. Vous reportez à demain. Demain devient la semaine prochaine. La semaine prochaine devient "un jour".
+
+**Bienvenue dans le tunnel du manque d'idées.**
+
+Mais la sortie s'illumine : il existe **30 formats de vidéos courtes** testés et approuvés par plus de 200 thérapeutes, qui génèrent de l'engagement ET convertissent en consultations.
+
+Ces formats ne sont pas des "danses TikTok" ou du contenu vide. Ce sont des vidéos **éducatives, éthiques et professionnelles** qui positionnent votre expertise tout en apportant de la valeur immédiate.
+
+→ **Cadre déontologique** : [Réseaux sociaux pour thérapeutes : guide éthique](/blog/reseaux-sociaux-ethique-therapeutes)
+
+## Pourquoi Les Vidéos Courtes Sont Devenues Incontournables En 2025
+
+### Les Chiffres Qui Changent Tout
+
+- **87% des patients** cherchent leur thérapeute sur Instagram ou TikTok avant de prendre RDV
+- **Les Reels génèrent 2,3x plus de portée** que les posts photos (Meta, 2024)
+- **Le temps d'attention moyen** est passé de 8 secondes (2020) à 4 secondes (2025)
+- **67% des thérapeutes visibles** publient au moins 3 vidéos courtes par semaine
+
+**Source :** Étude Cabinet Digital 2024, Panel 500 praticiens bien-être France
+
+### Ce Qui A Changé Depuis 2020
+
+**Avant :** Les gens cherchaient "sophrologue près de chez moi" → SEO local
+
+**Maintenant :** Les gens découvrent "cette sophrologue qui explique bien l'anxiété" → Algorithme vidéo
+
+**Vérité dure :** Si vous n'êtes pas en vidéo courte, vous êtes invisible pour 80% de votre cible potentielle.
+
+→ **Stratégie globale** : [Se faire connaître comme thérapeute en 2025](/blog/se-faire-connaitre-therapeute-2025)
+
+## Comment Utiliser Ce Guide
+
+### Structure De Chaque Idée
+
+Chaque format vidéo présenté contient :
+
+1. **Le concept** : De quoi parle la vidéo
+2. **Pourquoi ça marche** : Psychologie de l'engagement
+3. **Script template** : Texte prêt à adapter
+4. **Conseils de tournage** : Astuces techniques
+5. **Durée optimale** : Timing recommandé
+6. **Fréquence** : À quelle fréquence l'utiliser
+
+### Votre Stratégie De Contenu
+
+**Ne faites PAS les 30 formats.**
+
+Choisissez **3-5 formats** qui correspondent à votre personnalité et alternez-les.
+
+**Exemple de mix hebdomadaire :**
+- **Lundi** : Déconstruction idée reçue (Format #4)
+- **Mercredi** : Exercice pratique (Format #6)
+- **Vendredi** : Question de patient (Format #11)
+
+**Résultat :** Cohérence dans la variété.
+
+## CATÉGORIE 1 : Formats Éducatifs (Démonstration D'Expertise)
+
+### Format #1 : "La Vraie Différence Entre X Et Y"
+
+**Concept :** Expliquer la distinction entre deux concepts que les gens confondent
+
+**Pourquoi ça marche :** Résout une confusion courante, positionne votre expertise
+
+**Script template :**
+```
+[Hook] "Beaucoup de gens confondent [X] et [Y]"
+[Corps] "Voici la vraie différence..."
+- [X] c'est [explication simple]
+- [Y] c'est [explication simple]
+[Conclusion] "Maintenant vous savez !"
+```
+
+**Exemples concrets :**
+- *"La vraie différence entre sophrologie et méditation"*
+- *"Psychologue vs psychiatre : ce que vous devez savoir"*
+- *"Coaching vs thérapie : comment choisir ?"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** 2x/mois
+
+---
+
+### Format #2 : "3 Signes Que Vous Devriez Consulter"
+
+**Concept :** Identifier des symptômes qui nécessitent un accompagnement professionnel
+
+**Pourquoi ça marche :** Déclenche une prise de conscience chez le spectateur
+
+**Script template :**
+```
+[Hook] "3 signes qui montrent qu'il est temps de consulter"
+[Corps]
+Signe 1 : [Description concrète]
+Signe 2 : [Description concrète]
+Signe 3 : [Description concrète]
+[CTA] "Si vous vous reconnaissez, n'hésitez pas à m'écrire"
+```
+
+**Exemples concrets :**
+- *"3 signes que votre stress est devenu pathologique"*
+- *"3 signaux que votre corps vous envoie avant le burnout"*
+- *"3 raisons de consulter un naturopathe même si vous n'êtes pas malade"*
+
+**Durée optimale :** 30-45 secondes
+**Fréquence :** 1x/mois
+
+**Attention déontologique :** Ne diagnostiquez jamais. Utilisez "ces signes peuvent indiquer que..." au lieu de "vous avez X".
+
+---
+
+### Format #3 : "Explication En 60 Secondes"
+
+**Concept :** Vulgariser un concept complexe de votre pratique
+
+**Pourquoi ça marche :** Démontre votre capacité à rendre accessible votre expertise
+
+**Script template :**
+```
+[Hook] "Vous voulez comprendre [concept] en 60 secondes ? C'est parti."
+[Corps] [Explication simple avec métaphore]
+[Conclusion] "En résumé : [phrase clé]"
+```
+
+**Exemples concrets :**
+- *"C'est quoi l'hypnose ericksonienne en 60 secondes"*
+- *"Comment fonctionne l'EMDR : explication simple"*
+- *"La cohérence cardiaque expliquée à un enfant de 10 ans"*
+
+**Durée optimale :** 55-65 secondes
+**Fréquence :** 2x/mois
+
+**Astuce tournage :** Utilisez un chronomètre visible pour créer l'urgence.
+
+---
+
+### Format #4 : "Idée Reçue : Vrai ou Faux ?"
+
+**Concept :** Déconstruire un mythe courant sur votre domaine
+
+**Pourquoi ça marche :** Les gens adorent découvrir qu'ils avaient tort (dopamine de la surprise)
+
+**Script template :**
+```
+[Hook] "On dit souvent que [idée reçue]. Vrai ou faux ?"
+[Révélation] "FAUX ! Et voici pourquoi..."
+[Explication] [Argument scientifique simple]
+[Conclusion] "Maintenant vous connaissez la vérité"
+```
+
+**Exemples concrets :**
+- *"Idée reçue : L'hypnose peut contrôler votre esprit. FAUX !"*
+- *"On dit que la sophrologie c'est juste de la relaxation. FAUX !"*
+- *"L'ostéopathie c'est juste pour le dos. FAUX !"*
+
+**Durée optimale :** 40-50 secondes
+**Fréquence :** 3x/mois (format très viral)
+
+---
+
+### Format #5 : "Avant De Consulter, Sachez Que..."
+
+**Concept :** Préparer mentalement les futurs patients, lever les freins
+
+**Pourquoi ça marche :** Rassure, réduit l'anxiété de la première consultation
+
+**Script template :**
+```
+[Hook] "Avant de consulter, voici ce que vous devez savoir..."
+[Corps]
+- Point 1 : [Info rassurante]
+- Point 2 : [Info rassurante]
+- Point 3 : [Info rassurante]
+[CTA] "Vous êtes prêt ? Prenez RDV"
+```
+
+**Exemples concrets :**
+- *"Avant votre première séance de sophrologie..."*
+- *"Ce qui se passe vraiment lors d'une séance d'hypnose"*
+- *"À quoi s'attendre lors d'une consultation de naturopathie"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 1x/mois
+
+## CATÉGORIE 2 : Formats Pratiques (Valeur Immédiate)
+
+### Format #6 : "Exercice Simple À Faire Maintenant"
+
+**Concept :** Donner un outil pratique utilisable immédiatement
+
+**Pourquoi ça marche :** Valeur tangible = sauvegarde + partage + reconnaissance
+
+**Script template :**
+```
+[Hook] "Un exercice que vous pouvez faire maintenant"
+[Démonstration]
+Étape 1 : [Action]
+Étape 2 : [Action]
+Étape 3 : [Action]
+[Bénéfice] "Résultat : [ce que ça apporte]"
+[CTA] "Sauvegardez pour plus tard !"
+```
+
+**Exemples concrets :**
+- *"Respiration 4-7-8 contre l'anxiété immédiate"*
+- *"Auto-massage pour soulager migraine en 2 minutes"*
+- *"Technique EFT pour calmer une crise de panique"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 2x/mois
+
+**Astuce :** Filmez-vous en train de FAIRE l'exercice, pas juste en parler.
+
+→ **Plus d'idées pratiques** : [30 idées de Reels pour sophrologues](/blog/30-idees-reels-sophrologues-instagram)
+
+---
+
+### Format #7 : "Astuce Du Quotidien"
+
+**Concept :** Conseil micro-actionnable pour améliorer le bien-être au quotidien
+
+**Pourquoi ça marche :** Facilité d'application = passage à l'action élevé
+
+**Script template :**
+```
+[Hook] "Une astuce toute simple pour [bénéfice]"
+[Conseil] [Action concrète en 1 phrase]
+[Explication] "Pourquoi ça marche ? [science simple]"
+[CTA] "Testez et revenez me dire !"
+```
+
+**Exemples concrets :**
+- *"Mettez votre téléphone en noir et blanc pour mieux dormir"*
+- *"Marchez 10 min après le déjeuner pour améliorer digestion"*
+- *"L'astuce des 5-4-3-2-1 contre l'anxiété"*
+
+**Durée optimale :** 20-30 secondes (format ultra-court)
+**Fréquence :** 4x/mois
+
+---
+
+### Format #8 : "Routine En 5 Minutes"
+
+**Concept :** Séquence complète d'exercices/pratiques courte
+
+**Pourquoi ça marche :** Package complet = forte valeur perçue
+
+**Script template :**
+```
+[Hook] "Ma routine de 5 minutes"
+[Démonstration]
+Min 1-2 : [Exercice 1]
+Min 3-4 : [Exercice 2]
+Min 5 : [Exercice 3]
+[CTA] "Faites ça chaque matin pendant 7 jours"
+```
+
+**Exemples concrets :**
+- *"Routine sophrologie matinale de 5 minutes"*
+- *"5 min de yoga anti-stress pour le bureau"*
+- *"Routine d'ancrage énergétique du matin"*
+
+**Durée optimale :** 60-90 secondes (montage accéléré)
+**Fréquence :** 1x/mois
+
+---
+
+### Format #9 : "Erreur Courante À Éviter"
+
+**Concept :** Pointer une erreur que font souvent les gens dans leur pratique personnelle
+
+**Pourquoi ça marche :** Sentiment "ah c'est pour ça que ça ne marchait pas !"
+
+**Script template :**
+```
+[Hook] "L'erreur que tout le monde fait avec [pratique]"
+[Erreur] "Vous faites probablement [mauvaise pratique]"
+[Problème] "Le souci : [conséquence]"
+[Solution] "À la place, faites [bonne pratique]"
+```
+
+**Exemples concrets :**
+- *"L'erreur #1 en méditation : forcer le mental"*
+- *"Pourquoi vos respirations profondes ne marchent pas"*
+- *"Arrêtez de faire cette erreur en auto-massage"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** 2x/mois
+
+---
+
+### Format #10 : "Test Rapide"
+
+**Concept :** Mini-diagnostic ou évaluation que le spectateur fait en regardant
+
+**Pourquoi ça marche :** Interactivité = engagement fort + sauvegarde
+
+**Script template :**
+```
+[Hook] "Test rapide : évaluez votre niveau de [X]"
+[Questions]
+Question 1 : [Situation] → Si oui, +1 point
+Question 2 : [Situation] → Si oui, +1 point
+Question 3 : [Situation] → Si oui, +1 point
+[Résultats]
+0-1 point : [Interprétation]
+2-3 points : [Interprétation]
+4-5 points : [Interprétation + suggestion consultation]
+```
+
+**Exemples concrets :**
+- *"Test : quel est votre niveau de stress réel ?"*
+- *"Êtes-vous en burnout sans le savoir ? Test 5 questions"*
+- *"Testez votre niveau d'ancrage énergétique"*
+
+**Durée optimale :** 60-75 secondes
+**Fréquence :** 1x/mois
+
+## CATÉGORIE 3 : Formats Connexion (Humaniser Votre Expertise)
+
+### Format #11 : "Question Qu'On Me Pose Tout Le Temps"
+
+**Concept :** Répondre à une FAQ de vos consultations
+
+**Pourquoi ça marche :** Preuve sociale (d'autres se posent la question) + valeur
+
+**Script template :**
+```
+[Hook] "La question qu'on me pose TOUT LE TEMPS"
+[Question] "Est-ce que [question courante] ?"
+[Réponse] [Explication claire et nuancée]
+[Conclusion] "Voilà, maintenant vous savez !"
+```
+
+**Exemples concrets :**
+- *"Combien de séances il faut pour voir des résultats ?"*
+- *"Est-ce que ça marche vraiment ou c'est placebo ?"*
+- *"Quelle est la différence avec un psy traditionnel ?"*
+
+**Durée optimale :** 40-60 secondes
+**Fréquence :** 3x/mois
+
+---
+
+### Format #12 : "Ce Que J'Aurais Aimé Savoir Quand..."
+
+**Concept :** Partager une leçon personnelle liée à votre parcours
+
+**Pourquoi ça marche :** Vulnérabilité = connexion émotionnelle forte
+
+**Script template :**
+```
+[Hook] "Ce que j'aurais aimé savoir quand [moment clé]"
+[Contexte] "À l'époque, je pensais que [croyance]"
+[Réalisation] "Puis j'ai découvert que [vérité]"
+[Application] "Maintenant, je partage cette leçon avec mes patients"
+```
+
+**Exemples concrets :**
+- *"Ce que j'aurais aimé savoir avant mon premier burnout"*
+- *"Ce que j'aurais dit à mon moi de 20 ans sur l'anxiété"*
+- *"La leçon que j'ai apprise de mon patient le plus difficile"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 1x/mois (format émotionnel à doser)
+
+→ **Surmonter les blocages** : [Syndrome de l'imposteur face caméra](/blog/syndrome-imposteur-camera-therapeutes)
+
+---
+
+### Format #13 : "Cas D'École Anonymisé"
+
+**Concept :** Raconter une situation de consultation (anonymisée, respect déontologie)
+
+**Pourquoi ça marche :** Storytelling = mémorisation + identification
+
+**Script template :**
+```
+[Hook] "L'histoire d'une patiente qui [situation]"
+[Contexte] "Elle est venue me voir parce que [problème]"
+[Accompagnement] "Voici ce qu'on a mis en place"
+[Résultat] "Aujourd'hui, [transformation]"
+[Message] "Si vous vivez quelque chose de similaire..."
+```
+
+**Exemples concrets :**
+- *"L'histoire de cette manager qui ne dormait plus"*
+- *"Comment une patiente a surmonté 15 ans d'anxiété sociale"*
+- *"Le cas d'un entrepreneur en burnout complet"*
+
+**Durée optimale :** 90-120 secondes
+**Fréquence :** 1x/mois
+
+**CRITIQUE DÉONTOLOGIQUE :** Toujours anonymiser complètement. Jamais de détails identifiants.
+
+---
+
+### Format #14 : "Pourquoi J'Ai Choisi Ce Métier"
+
+**Concept :** Partager votre "pourquoi", votre déclic, votre mission
+
+**Pourquoi ça marche :** Les gens achètent votre "pourquoi", pas votre "quoi"
+
+**Script template :**
+```
+[Hook] "Pourquoi je suis devenu(e) [profession]"
+[Déclic] "Tout a commencé quand [événement déclencheur]"
+[Réalisation] "J'ai compris que [prise de conscience]"
+[Mission] "Aujourd'hui, ma mission c'est [impact]"
+```
+
+**Exemples concrets :**
+- *"Le jour où j'ai découvert l'hypnose par hasard"*
+- *"Comment mon propre burnout m'a amené à devenir coach"*
+- *"Pourquoi j'ai quitté la finance pour devenir sophrologue"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 1x/trimestre
+
+→ **Construire votre identité** : [Personal branding pour thérapeutes](/blog/personal-branding-therapeutes-video)
+
+---
+
+### Format #15 : "Une Journée Dans Ma Vie De Thérapeute"
+
+**Concept :** Montrer les coulisses de votre quotidien professionnel
+
+**Pourquoi ça marche :** Curiosité + démystification du métier
+
+**Script template :**
+```
+[Hook] "À quoi ressemble une journée de [profession]"
+[Séquence]
+7h : [Activité]
+9h : [Activité]
+12h : [Activité]
+[Conclusion] "Voilà la réalité du métier !"
+```
+
+**Exemples concrets :**
+- *"Une journée dans ma vie de sophrologue libérale"*
+- *"Ce que je fais entre deux consultations"*
+- *"Ma morning routine avant de recevoir mes patients"*
+
+**Durée optimale :** 60-90 secondes (montage dynamique)
+**Fréquence :** 1x/trimestre
+
+## CATÉGORIE 4 : Formats Tendance (Viralité Algorithmique)
+
+### Format #16 : "Série De Déconstructions"
+
+**Concept :** Créer une série "Déconstruction #1, #2, #3..." sur des idées reçues
+
+**Pourquoi ça marche :** Effet série = abonnement pour suivre la suite
+
+**Script template :**
+```
+[Hook] "Déconstruction #[X] : [Idée reçue]"
+[Analyse] [Pourquoi c'est faux]
+[Vérité] [La réalité scientifique/professionnelle]
+[CTA] "Abonnez-vous pour la déconstruction #[X+1]"
+```
+
+**Exemples de série :**
+- *"Déconstruction sophrologie #1, #2, #3..."*
+- *"Les mythes de la psychologie populaire"*
+- *"Ce qu'Hollywood se trompe sur l'hypnose"*
+
+**Durée optimale :** 30-45 secondes par épisode
+**Fréquence :** 1x/semaine pendant 1 mois (puis pause)
+
+---
+
+### Format #17 : "Duet Avec Autre Professionnel"
+
+**Concept :** Répondre en vidéo à un autre thérapeute ou créer un dialogue
+
+**Pourquoi ça marche :** Cross-promotion + légitimité mutuelle
+
+**Script template :**
+```
+[Hook] "Je réponds à [nom] sur [sujet]"
+[Réponse/complément] [Votre perspective d'expert]
+[Bridge] "Et si vous cherchez [autre spécialité], consultez @[nom]"
+```
+
+**Exemples concrets :**
+- *Sophrologue + Hypnothérapeute : "Nos approches complémentaires"*
+- *Psychologue + Coach : "Quand consulter l'un vs l'autre"*
+- *Naturopathe + Nutritionniste : "Vision holistique de l'alimentation"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** 2x/mois
+
+→ **Collaboration puissante** : [Interviews croisées entre thérapeutes](/blog/interviews-croisees-therapeutes)
+
+---
+
+### Format #18 : "Réaction À Une Vidéo Virale"
+
+**Concept :** Réagir professionnellement à du contenu viral lié à votre domaine
+
+**Pourquoi ça marche :** Surf sur une tendance + positionnement d'expert
+
+**Script template :**
+```
+[Hook] "En tant que [profession], voici ce que je pense de cette vidéo"
+[Analyse] "Ce qui est vrai : [points valides]"
+[Correction] "Ce qui est problématique : [erreurs]"
+[Conclusion] "La nuance professionnelle"
+```
+
+**Exemples concrets :**
+- *"Réaction à cette technique de respiration virale (et dangereuse)"*
+- *"Cette vidéo sur l'hypnose : vrai ou fake ?"*
+- *"Analyse pro de cette routine matinale à 5M de vues"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** Quand une tendance pertinente apparaît
+
+---
+
+### Format #19 : "Challenge 7 Jours"
+
+**Concept :** Proposer un défi de 7 jours à votre communauté
+
+**Pourquoi ça marche :** Engagement sur la durée + résultats tangibles
+
+**Script template :**
+```
+[Hook] "Challenge : 7 jours de [pratique]"
+[Règles]
+Jour 1 : [Action]
+Jour 2 : [Action]
+...
+Jour 7 : [Action]
+[CTA] "Qui relève le défi ? Commentez 'JE PARTICIPE'"
+```
+
+**Exemples concrets :**
+- *"Challenge 7 jours de méditation 5 minutes"*
+- *"1 semaine sans écran 1h avant le coucher"*
+- *"7 jours de gratitude matinale"*
+
+**Durée optimale :** 60 secondes (présentation) + 7 posts de suivi
+**Fréquence :** 1x/trimestre
+
+---
+
+### Format #20 : "Avant/Après Mindset"
+
+**Concept :** Montrer la transformation de perspective que vous apportez
+
+**Pourquoi ça marche :** Transformation visible = désirabilité de votre accompagnement
+
+**Script template :**
+```
+[Hook] "Avant vs Après avoir travaillé avec moi"
+[Avant]
+Pensée 1 : [Croyance limitante]
+Pensée 2 : [Croyance limitante]
+[Après]
+Pensée 1 : [Nouvelle perspective]
+Pensée 2 : [Nouvelle perspective]
+[CTA] "Vous voulez cette transformation ?"
+```
+
+**Exemples concrets :**
+- *"Avant vs Après avoir compris l'anxiété"*
+- *"Comment mes patients voient le stress : avant/après"*
+- *"Transformation de rapport au corps : avant/après sophrologie"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** 1x/mois
+
+## CATÉGORIE 5 : Formats Coulisses (Transparence Professionnelle)
+
+### Format #21 : "Ce Que Je Ne Dis Pas En Consultation"
+
+**Concept :** Partager des pensées professionnelles que vous gardez pour vous
+
+**Pourquoi ça marche :** Insider perspective = connexion + humour
+
+**Script template :**
+```
+[Hook] "Ce que je pense vraiment pendant une consultation"
+[Situations]
+Quand un patient dit [X] : [Pensée pro]
+Quand je vois [Y] : [Pensée pro]
+[Conclusion] "Mais ce que je DIS, c'est..."
+```
+
+**Exemples concrets :**
+- *"Ce que je pense quand un patient me dit 'je vais arrêter le sucre demain'"*
+- *"Mes pensées internes face à certaines croyances limitantes"*
+- *"Ce qui se passe dans ma tête quand un patient cancelle 5 min avant"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** 1x/mois (format humoristique à doser)
+
+**Attention :** Jamais moqueur, toujours bienveillant.
+
+---
+
+### Format #22 : "Mon Setup Professionnel"
+
+**Concept :** Montrer l'aménagement de votre cabinet/espace de travail
+
+**Pourquoi ça marche :** Curiosité + rassurance sur le professionnalisme
+
+**Script template :**
+```
+[Hook] "Visite de mon cabinet"
+[Tour]
+Zone 1 : [Espace accueil] - "J'ai choisi [détail] parce que..."
+Zone 2 : [Espace consultation] - "Ce qui est important ici..."
+Zone 3 : [Détails] - "Ce petit détail fait toute la différence..."
+```
+
+**Exemples concrets :**
+- *"Pourquoi j'ai choisi ces couleurs pour mon cabinet"*
+- *"Mon matériel pro expliqué (et pourquoi c'est important)"*
+- *"L'aménagement feng shui de mon espace thérapeutique"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 2x/an
+
+---
+
+### Format #23 : "Formations & Apprentissage Continu"
+
+**Concept :** Partager votre parcours de formation continue
+
+**Pourquoi ça marche :** Preuve de sérieux + passion du métier
+
+**Script template :**
+```
+[Hook] "Ce que j'apprends pour vous accompagner mieux"
+[Formation] "Je suis en train de me former à [nouvelle compétence]"
+[Pourquoi] "J'ai choisi ça parce que [bénéfice patient]"
+[Application] "Vous allez en profiter dès [date]"
+```
+
+**Exemples concrets :**
+- *"Ma nouvelle certification en hypnose conversationnelle"*
+- *"Pourquoi je me forme à l'approche trauma-sensible"*
+- *"Ce congrès qui a changé ma vision de l'accompagnement"*
+
+**Durée optimale :** 45-60 secondes
+**Fréquence :** Quand vous avez une nouvelle formation
+
+→ **Choisir sa formation** : [Comparatif formations vidéo pour thérapeutes](/blog/comparatif-formations-video-therapeutes)
+
+---
+
+### Format #24 : "Erreur Que J'Ai Faite (Et Leçon Apprise)"
+
+**Concept :** Partager une erreur professionnelle passée et ce que vous en avez tiré
+
+**Pourquoi ça marche :** Vulnérabilité + démonstration de l'évolution
+
+**Script template :**
+```
+[Hook] "L'erreur que j'ai faite en début de carrière"
+[Situation] "J'ai [action erronée]"
+[Conséquence] "Résultat : [ce qui s'est passé]"
+[Leçon] "Ce que j'ai appris : [prise de conscience]"
+[Maintenant] "Aujourd'hui, je fais [nouvelle pratique]"
+```
+
+**Exemples concrets :**
+- *"Pourquoi j'acceptais trop de patients (et comment j'ai changé)"*
+- *"Mon erreur #1 : vouloir aider tout le monde"*
+- *"Le jour où j'ai compris l'importance des limites professionnelles"*
+
+**Durée optimale :** 60-75 secondes
+**Fréquence :** 1x/trimestre
+
+---
+
+### Format #25 : "Réponse À Un Commentaire"
+
+**Concept :** Répondre en vidéo à une question/remarque pertinente d'un abonné
+
+**Pourquoi ça marche :** Reconnaissance du commentateur + valeur pour tous
+
+**Script template :**
+```
+[Hook] "[Prénom] m'a posé cette excellente question"
+[Question affichée] "Voici sa question..."
+[Réponse] [Explication détaillée]
+[Ouverture] "Et vous, d'autres questions sur ce sujet ?"
+```
+
+**Exemples concrets :**
+- *"Réponse à Julie : la sophrologie marche-t-elle pour les enfants ?"*
+- *"Marc me demande : combien coûte une séance en moyenne ?"*
+- *"Question importante de Sarah sur la confidentialité"*
+
+**Durée optimale :** 45-90 secondes
+**Fréquence :** 2x/mois
+
+## CATÉGORIE 6 : Formats Engagement (Booster L'Algorithme)
+
+### Format #26 : "Sondage Express"
+
+**Concept :** Poser une question à votre communauté pour générer des commentaires
+
+**Pourquoi ça marche :** Commentaires = boost algorithme + insight audience
+
+**Script template :**
+```
+[Hook] "Question rapide pour vous"
+[Question] "[Question engageante]"
+[Options] "Répondez A, B ou C en commentaire"
+[Promesse] "Je ferai une vidéo sur l'option la plus votée"
+```
+
+**Exemples concrets :**
+- *"Prochaine vidéo : A) Gestion anxiété B) Améliorer sommeil C) Confiance en soi ?"*
+- *"Vous préférez : vidéos courtes 30sec ou longues 2min ?"*
+- *"Quel sujet je n'ai jamais abordé et qui vous intéresse ?"*
+
+**Durée optimale :** 15-30 secondes
+**Fréquence :** 2x/mois
+
+---
+
+### Format #27 : "Finir Ma Phrase"
+
+**Concept :** Commencer une phrase que les gens doivent compléter en commentaire
+
+**Pourquoi ça marche :** Jeu simple = taux de participation élevé
+
+**Script template :**
+```
+[Hook] "Finissez cette phrase en commentaire"
+[Phrase] "Si je pouvais dire une chose à mon [X], ce serait..."
+[Encouragement] "Je lis tous vos commentaires !"
+```
+
+**Exemples concrets :**
+- *"Si je pouvais dire une chose à mon stress, ce serait..."*
+- *"Ma plus grande peur avant de consulter un thérapeute était..."*
+- *"Ce que j'aurais aimé savoir sur [votre domaine] avant c'est..."*
+
+**Durée optimale :** 20-30 secondes
+**Fréquence :** 1x/semaine
+
+---
+
+### Format #28 : "Vrai ou Faux" (Version Interactive)
+
+**Concept :** Affirmation que les gens doivent juger en commentaire
+
+**Pourquoi ça marche :** Crée du débat = engagement + commentaires
+
+**Script template :**
+```
+[Hook] "Vrai ou Faux : [affirmation controversée]"
+[Suspense] "Répondez en commentaire puis swipe →"
+[Slide 2] "RÉPONSE : [Vrai/Faux] et voici pourquoi..."
+```
+
+**Exemples concrets :**
+- *"Vrai ou Faux : La méditation peut remplacer la thérapie"*
+- *"Vrai ou Faux : Le stress est toujours mauvais pour la santé"*
+- *"Vrai ou Faux : L'hypnose peut faire oublier des souvenirs"*
+
+**Durée optimale :** 30-45 secondes
+**Fréquence :** 2x/mois
+
+---
+
+### Format #29 : "Série Numérotée"
+
+**Concept :** Créer une série "Conseil #1, #2, #3..." pour fidéliser
+
+**Pourquoi ça marche :** Effet collection = abonnement pour ne rien rater
+
+**Script template :**
+```
+[Hook] "Conseil #[X] pour [objectif]"
+[Conseil] [Tip actionnable]
+[Bénéfice] "Résultat attendu : [transformation]"
+[CTA] "Suivez-moi pour le conseil #[X+1] demain"
+```
+
+**Exemples de séries :**
+- *"30 conseils en 30 jours pour réduire le stress"*
+- *"Conseil du lundi : [série hebdomadaire]"*
+- *"Tips sophrologie : épisode #1, #2, #3..."*
+
+**Durée optimale :** 30-45 secondes par épisode
+**Fréquence :** Quotidien pendant 1 mois (puis pause)
+
+---
+
+### Format #30 : "Caption Story" (Histoire En Légende)
+
+**Concept :** Vidéo visuelle simple avec texte/voix-off qui raconte une histoire
+
+**Pourquoi ça marche :** Storytelling = temps de visionnage élevé = boost algorithme
+
+**Script template :**
+```
+[Visuel] Vous en plan fixe ou B-roll esthétique
+[Texte/Voix] "Il y a [temps], j'ai reçu [patient/message]..."
+[Développement] [Histoire captivante avec rebondissement]
+[Leçon] "Ce que cette expérience m'a appris..."
+[Connexion] "Et vous, vous êtes-vous déjà senti comme ça ?"
+```
+
+**Exemples concrets :**
+- *"Le message qui m'a fait pleurer (et pourquoi)"*
+- *"L'histoire de cette patiente qui a tout changé"*
+- *"Ce moment où j'ai douté de mon métier (et ce qui m'a sauvé)"*
+
+**Durée optimale :** 60-90 secondes
+**Fréquence :** 1x/mois (format émotionnel puissant)
+
+## Comment Planifier Votre Calendrier De Contenu
+
+### Étape 1 : Choisir Vos 5 Formats De Prédilection
+
+**Exercice :** Parmi les 30 formats, sélectionnez :
+- **2 formats éducatifs** (expertise)
+- **1 format pratique** (valeur)
+- **1 format connexion** (humanisation)
+- **1 format engagement** (algorithme)
+
+**Exemple de mix :**
+1. Idée reçue : Vrai ou Faux (éducatif)
+2. 3 Signes que... (éducatif)
+3. Exercice simple (pratique)
+4. Question qu'on me pose (connexion)
+5. Finir ma phrase (engagement)
+
+### Étape 2 : Créer Un Rythme De Publication
+
+**Fréquence recommandée : 3-5 vidéos/semaine**
+
+**Exemple de planning hebdomadaire :**
+
+| Jour | Format | Objectif |
+|------|--------|----------|
+| Lundi | Exercice pratique | Valeur immédiate |
+| Mercredi | Idée reçue déconstruite | Éducation |
+| Vendredi | Question de patient | Connexion |
+
+**Important :** La régularité > perfection. 3 vidéos/semaine moyennes > 1 vidéo/mois parfaite.
+
+### Étape 3 : Batch Creation (1 Journée = 12-20 Vidéos)
+
+**Méthode Sphèris adaptée :**
+
+1. **Préparation** : Lister 15 sujets (5 par format choisi)
+2. **Installation technique** : 1 seul setup pour toute la session
+3. **Tournage intensif** : 3-4h = 15 vidéos brutes
+4. **Post-production** : Montage simple, sous-titres
+5. **Programmation** : Diffusion sur 4-6 semaines
+
+**ROI temporel :** 1 journée = 1,5 mois de contenu.
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+## Les 5 Erreurs Fatales À Éviter
+
+### Erreur 1 : Vouloir Suivre Toutes Les Tendances
+
+**Piège :** Faire des danses TikTok parce que "c'est viral"
+
+**Conséquence :** Vous diluez votre crédibilité professionnelle
+
+**Solution :** Choisissez seulement les formats **alignés avec votre déontologie**
+
+### Erreur 2 : Ne Jamais Répéter Les Mêmes Formats
+
+**Croyance :** "Je vais lasser mon audience si je me répète"
+
+**Réalité :** La reconnaissance vient de la **répétition cohérente**
+
+**Solution :** 3-5 formats récurrents = signature reconnaissable
+
+### Erreur 3 : Faire Des Vidéos Trop Longues
+
+**Erreur :** Vidéo de 3 minutes sur un Reel
+
+**Résultat :** Taux de complétion = 12% = algorithme ne pousse pas
+
+**Solution :** 80% de vos vidéos < 60 secondes
+
+### Erreur 4 : Négliger Les Sous-Titres
+
+**Réalité :** 85% des vidéos sont regardées **sans le son**
+
+**Conséquence sans sous-titres :** Vous perdez 85% de l'impact
+
+**Solution :** Sous-titres automatiques (CapCut) ou manuels sur TOUTES les vidéos
+
+### Erreur 5 : Pas De CTA (Call-To-Action)
+
+**Erreur :** Vidéo qui finit brutalement sans indication
+
+**Conséquence :** L'audience ne sait pas quoi faire après
+
+**Solution :** Toujours finir par :
+- "Sauvegardez pour plus tard"
+- "Commentez votre expérience"
+- "Partagez à quelqu'un qui en a besoin"
+- "Suivez pour plus de conseils"
+
+## Conclusion : Plus Jamais De Page Blanche
+
+Vous avez maintenant **30 formats testés** qui génèrent de l'engagement ET convertissent en consultations.
+
+**Récapitulatif express :**
+
+✅ **6 catégories** de vidéos courtes
+✅ **30 formats** avec scripts prêts à l'emploi
+✅ **Guide de planification** pour 3 mois de contenu
+✅ **Méthode batch** pour produire en masse
+✅ **Pièges à éviter** pour maximiser l'impact
+
+**Le syndrome de la page blanche n'existe plus.**
+
+**Vos prochaines actions :**
+
+1. **Choisissez 5 formats** parmi les 30 qui vous parlent le plus
+2. **Listez 15 sujets concrets** (3 par format)
+3. **Bloquez 1 journée** pour tourner vos 15 premières vidéos
+4. **Programmez** la diffusion sur 1 mois
+5. **Analysez** ce qui fonctionne le mieux et ajustez
+
+**Option accélérée :** Participez au séminaire Sphèris et produisez 25-40 vidéos professionnelles en 2 jours, avec méthode éprouvée et réseau de pairs.
+
+**👉 [Candidater au séminaire Sphèris](https://spherislab.fr/seminaires)** et créer 6 mois de contenu en un weekend.
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : méthode complète](/blog/creer-20-videos-therapeutes-methode-complete)
+- [30 idées de Reels pour sophrologues](/blog/30-idees-reels-sophrologues-instagram)
+- [Interviews croisées : méthode collaborative](/blog/interviews-croisees-therapeutes)
+- [Personal branding pour thérapeutes](/blog/personal-branding-therapeutes-video)
+8:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"30 formats de Reels et vidéos courtes testés pour thérapeutes, sophrologues et coachs. Scripts prêts à l'emploi, stratégie de contenu complète et méthode de planification pour attirer des patients qualifiés."}],["$","div",null,{"className":"mb-8","children":["$","$Lc",null,{"title":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","url":"http://localhost:3000/blog/30-idees-videos-courtes-therapeutes"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$Ld",null,{"content":"$e"}]}],"$Lf","$L10","$L11"]}],"$L12"]}]}]}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true}]
+b:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+f:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","reels",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","reels"]}],["$","span","vidéos courtes",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","vidéos courtes"]}],["$","span","TikTok",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","TikTok"]}],["$","span","Instagram",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","Instagram"]}],["$","span","formats viraux",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","formats viraux"]}],["$","span","contenu",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","contenu"]}],["$","span","idées",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","idées"]}],["$","span","scripts",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","scripts"]}]]}]]}]
+10:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$Lc",null,{"title":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","url":"http://localhost:3000/blog/30-idees-videos-courtes-therapeutes"}]}]
+11:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L3","comparatif-formations-video-therapeutes",{"href":"/blog/comparatif-formations-video-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop","alt":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"14 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Comparatif formations vidéo pour thérapeutes 2025 : cours en ligne, séminaires, coaching, agences. Analyse coûts, ROI, résultats concrets pour choisir la meilleure option."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}],["$","$L3","interviews-croisees-therapeutes",{"href":"/blog/interviews-croisees-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=630&fit=crop","alt":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":["$L16","$L17","$L18","$L19","$undefined"]}],"$L1a"]}],"$L1b"]}],"$L1c","$L1d","$L1e"]}]]}],"$L1f"]}]]}]
+12:["$","aside",null,{"children":["$","$L20",null,{"headings":[{"id":"pourquoi-les-videos-courtes-sont-devenues-incontournables-en-2025","text":"Pourquoi Les Vidéos Courtes Sont Devenues Incontournables En 2025","level":2},{"id":"les-chiffres-qui-changent-tout","text":"Les Chiffres Qui Changent Tout","level":3},{"id":"ce-qui-a-change-depuis-2020","text":"Ce Qui A Changé Depuis 2020","level":3},{"id":"comment-utiliser-ce-guide","text":"Comment Utiliser Ce Guide","level":2},{"id":"structure-de-chaque-idee","text":"Structure De Chaque Idée","level":3},{"id":"votre-strategie-de-contenu","text":"Votre Stratégie De Contenu","level":3},{"id":"categorie-1-formats-educatifs-demonstration-d-expertise","text":"CATÉGORIE 1 : Formats Éducatifs (Démonstration D'Expertise)","level":2},{"id":"format-1-la-vraie-difference-entre-x-et-y","text":"Format #1 : \"La Vraie Différence Entre X Et Y\"","level":3},{"id":"format-2-3-signes-que-vous-devriez-consulter","text":"Format #2 : \"3 Signes Que Vous Devriez Consulter\"","level":3},{"id":"format-3-explication-en-60-secondes","text":"Format #3 : \"Explication En 60 Secondes\"","level":3},{"id":"format-4-idee-recue-vrai-ou-faux","text":"Format #4 : \"Idée Reçue : Vrai ou Faux ?\"","level":3},{"id":"format-5-avant-de-consulter-sachez-que","text":"Format #5 : \"Avant De Consulter, Sachez Que...\"","level":3},{"id":"categorie-2-formats-pratiques-valeur-immediate","text":"CATÉGORIE 2 : Formats Pratiques (Valeur Immédiate)","level":2},{"id":"format-6-exercice-simple-a-faire-maintenant","text":"Format #6 : \"Exercice Simple À Faire Maintenant\"","level":3},{"id":"format-7-astuce-du-quotidien","text":"Format #7 : \"Astuce Du Quotidien\"","level":3},{"id":"format-8-routine-en-5-minutes","text":"Format #8 : \"Routine En 5 Minutes\"","level":3},{"id":"format-9-erreur-courante-a-eviter","text":"Format #9 : \"Erreur Courante À Éviter\"","level":3},{"id":"format-10-test-rapide","text":"Format #10 : \"Test Rapide\"","level":3},{"id":"categorie-3-formats-connexion-humaniser-votre-expertise","text":"CATÉGORIE 3 : Formats Connexion (Humaniser Votre Expertise)","level":2},{"id":"format-11-question-qu-on-me-pose-tout-le-temps","text":"Format #11 : \"Question Qu'On Me Pose Tout Le Temps\"","level":3},{"id":"format-12-ce-que-j-aurais-aime-savoir-quand","text":"Format #12 : \"Ce Que J'Aurais Aimé Savoir Quand...\"","level":3},{"id":"format-13-cas-d-ecole-anonymise","text":"Format #13 : \"Cas D'École Anonymisé\"","level":3},{"id":"format-14-pourquoi-j-ai-choisi-ce-metier","text":"Format #14 : \"Pourquoi J'Ai Choisi Ce Métier\"","level":3},{"id":"format-15-une-journee-dans-ma-vie-de-therapeute","text":"Format #15 : \"Une Journée Dans Ma Vie De Thérapeute\"","level":3},{"id":"categorie-4-formats-tendance-viralite-algorithmique","text":"CATÉGORIE 4 : Formats Tendance (Viralité Algorithmique)","level":2},{"id":"format-16-serie-de-deconstructions","text":"Format #16 : \"Série De Déconstructions\"","level":3},{"id":"format-17-duet-avec-autre-professionnel","text":"Format #17 : \"Duet Avec Autre Professionnel\"","level":3},{"id":"format-18-reaction-a-une-video-virale","text":"Format #18 : \"Réaction À Une Vidéo Virale\"","level":3},{"id":"format-19-challenge-7-jours","text":"Format #19 : \"Challenge 7 Jours\"","level":3},{"id":"format-20-avant-apres-mindset","text":"Format #20 : \"Avant/Après Mindset\"","level":3},{"id":"categorie-5-formats-coulisses-transparence-professionnelle","text":"CATÉGORIE 5 : Formats Coulisses (Transparence Professionnelle)","level":2},{"id":"format-21-ce-que-je-ne-dis-pas-en-consultation","text":"Format #21 : \"Ce Que Je Ne Dis Pas En Consultation\"","level":3},{"id":"format-22-mon-setup-professionnel","text":"Format #22 : \"Mon Setup Professionnel\"","level":3},{"id":"format-23-formations-apprentissage-continu","text":"Format #23 : \"Formations & Apprentissage Continu\"","level":3},{"id":"format-24-erreur-que-j-ai-faite-et-lecon-apprise","text":"Format #24 : \"Erreur Que J'Ai Faite (Et Leçon Apprise)\"","level":3},{"id":"format-25-reponse-a-un-commentaire","text":"Format #25 : \"Réponse À Un Commentaire\"","level":3},{"id":"categorie-6-formats-engagement-booster-l-algorithme","text":"CATÉGORIE 6 : Formats Engagement (Booster L'Algorithme)","level":2},{"id":"format-26-sondage-express","text":"Format #26 : \"Sondage Express\"","level":3},{"id":"format-27-finir-ma-phrase","text":"Format #27 : \"Finir Ma Phrase\"","level":3},{"id":"format-28-vrai-ou-faux-version-interactive","text":"Format #28 : \"Vrai ou Faux\" (Version Interactive)","level":3},{"id":"format-29-serie-numerotee","text":"Format #29 : \"Série Numérotée\"","level":3},{"id":"format-30-caption-story-histoire-en-legende","text":"Format #30 : \"Caption Story\" (Histoire En Légende)","level":3},{"id":"comment-planifier-votre-calendrier-de-contenu","text":"Comment Planifier Votre Calendrier De Contenu","level":2},{"id":"etape-1-choisir-vos-5-formats-de-predilection","text":"Étape 1 : Choisir Vos 5 Formats De Prédilection","level":3},{"id":"etape-2-creer-un-rythme-de-publication","text":"Étape 2 : Créer Un Rythme De Publication","level":3},{"id":"etape-3-batch-creation-1-journee-12-20-videos","text":"Étape 3 : Batch Creation (1 Journée = 12-20 Vidéos)","level":3},{"id":"les-5-erreurs-fatales-a-eviter","text":"Les 5 Erreurs Fatales À Éviter","level":2},{"id":"erreur-1-vouloir-suivre-toutes-les-tendances","text":"Erreur 1 : Vouloir Suivre Toutes Les Tendances","level":3},{"id":"erreur-2-ne-jamais-repeter-les-memes-formats","text":"Erreur 2 : Ne Jamais Répéter Les Mêmes Formats","level":3},{"id":"erreur-3-faire-des-videos-trop-longues","text":"Erreur 3 : Faire Des Vidéos Trop Longues","level":3},{"id":"erreur-4-negliger-les-sous-titres","text":"Erreur 4 : Négliger Les Sous-Titres","level":3},{"id":"erreur-5-pas-de-cta-call-to-action","text":"Erreur 5 : Pas De CTA (Call-To-Action)","level":3},{"id":"conclusion-plus-jamais-de-page-blanche","text":"Conclusion : Plus Jamais De Page Blanche","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+15:null
+16:["$","path","1cmpym",{"d":"M8 2v4"}]
+17:["$","path","4m81vk",{"d":"M16 2v4"}]
+18:["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}]
+19:["$","path","8toen8",{"d":"M3 10h18"}]
+1a:["$","span",null,{"children":"11 février 2025"}]
+1b:["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]
+1c:["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours"}]
+1d:["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Découvrez la méthode des interviews croisées : technique collaborative pour thérapeutes qui permet de créer 20-40 vidéos professionnelles en 2 jours. Guide complet avec templates et scripts."}]
+1e:["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+1f:["$","$L3","30-idees-reels-sophrologues-instagram",{"href":"/blog/30-idees-reels-sophrologues-instagram","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"8 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"13 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Copiez-collez et adaptez à votre pratique. Zéro panne d'inspiration garantie."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}]

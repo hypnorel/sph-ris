@@ -52,17 +52,24 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="font-semibold text-slate-900">Téléphone</p>
-                    <a href={`tel:${SITE_CONFIG.phone}`} className="text-primary-600 hover:underline">
+                    <a href={`tel:${SITE_CONFIG.phone.replace(/\s/g, '')}`} className="text-primary-600 hover:underline">
                       {SITE_CONFIG.phone}
                     </a>
                   </div>
                   <div>
-                    <p className="font-semibold text-slate-900">Adresse</p>
-                    <p>{SITE_CONFIG.address}</p>
-                  </div>
-                  <div>
                     <p className="font-semibold text-slate-900">Délai de réponse</p>
                     <p>Sous 24h ouvrées</p>
+                  </div>
+                  <div>
+                    <p className="font-semibold text-slate-900">Réseaux sociaux</p>
+                    <div className="flex gap-3 mt-2">
+                      <a href={SITE_CONFIG.socialLinks.instagram} target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">
+                        Instagram
+                      </a>
+                      <a href={SITE_CONFIG.socialLinks.linkedin} target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">
+                        LinkedIn
+                      </a>
+                    </div>
                   </div>
                 </div>
               </CardContent>

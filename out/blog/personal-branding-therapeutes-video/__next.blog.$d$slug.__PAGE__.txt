@@ -1,0 +1,285 @@
+1:"$Sreact.fragment"
+2:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+3:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+4:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+c:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+d:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+13:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+1c:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+0:{"buildId":"N6GheZFdJW3eUhOPy0QZ3","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Personal Branding pour Thérapeutes : Construire Sa Marque Personnelle en Vidéo (Guide 2025)\",\"image\":\"https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-02-02\",\"dateModified\":\"2025-02-02\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"Découvrez comment construire un personal branding authentique en vidéo quand on est thérapeute. Framework AUTHENTICITÉ et stratégies concrètes.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/personal-branding-therapeutes-video\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L2",null,{"src":"https://images.unsplash.com/photo-1553877522-43269d4ea984?w=1200&h=630&fit=crop","alt":"Personal Branding pour Thérapeutes : Construire Sa Marque Personnelle en Vidéo (Guide 2025)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L4",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Personal Branding"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"Personal Branding pour Thérapeutes : Construire Sa Marque Personnelle en Vidéo (Guide 2025)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"2 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L5","$L6","$undefined"]}],"$L7"]}]]}]]}]]}]]}],"$L8"]}]],["$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+5:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+6:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+7:["$","span",null,{"children":"8 min de lecture"}]
+e:T2ab0,
+Vous êtes thérapeute, et l'idée même de "marque personnelle" vous met mal à l'aise.
+
+**Normal.** Vous n'êtes pas un influenceur, pas un produit à vendre. Vous êtes un professionnel de l'accompagnement humain, formé à l'écoute, à l'effacement, à mettre l'autre au centre.
+
+Pourtant, voici la vérité inconfortable : **dans un marché saturé de praticiens, votre expertise seule ne suffit plus**. Deux thérapeutes avec les mêmes compétences n'auront pas le même succès. La différence ? Celui qui a construit une marque personnelle forte et authentique.
+
+La bonne nouvelle : construire son personal branding ne signifie pas devenir un "vendeur de tapis" ou trahir sa posture thérapeutique. Cela signifie simplement **rendre visible votre unicité** pour attirer les clients avec qui vous êtes fait(e) pour travailler.
+
+Et la vidéo ? C'est l'outil le plus puissant pour révéler cette authenticité, à condition de savoir l'utiliser correctement.
+
+## Pourquoi Le Personal Branding N'Est Plus Optionnel Pour Les Thérapeutes
+
+### La réalité du marché en 2025
+
+Prenons des chiffres concrets :
+
+- **87 000 psychologues** exercent en France
+- **14 000 sophrologues** sont en activité
+- **8 000+ naturopathes** sont référencés
+- Des milliers de coachs non-répertoriés officiellement
+
+**Question cruciale :** Dans cette masse, pourquoi un client vous choisirait-vous plutôt qu'un autre praticien avec les mêmes diplômes ?
+
+La réponse ne réside plus uniquement dans vos compétences techniques. Elle réside dans **votre capacité à créer une connexion émotionnelle avant même la première séance**.
+
+→ **Stratégie globale** : [Se faire connaître comme thérapeute en 2025](/blog/se-faire-connaitre-therapeute-2025)
+
+### Ce que cherche vraiment un client potentiel
+
+Quand Sophie, 42 ans, cherche un sophrologue pour gérer son anxiété, voici son parcours mental :
+
+1. **Recherche Google** : "sophrologue anxiété Paris 15"
+2. **Comparaison de 5-8 profils** en 10 minutes chrono
+3. **Critères de sélection** (dans cet ordre) :
+   - *"Est-ce que je me sens compris(e) ?"* (émotionnel)
+   - *"Cette personne a-t-elle déjà aidé des gens comme moi ?"* (preuve sociale)
+   - *"Ai-je confiance en cette approche ?"* (crédibilité)
+   - *"Le prix est-il justifié ?"* (valeur perçue)
+
+**Seul le point 3 concerne votre expertise technique.** Les 3 premiers points relèvent du personal branding.
+
+## Les 5 Archétypes de Personal Branding Pour Thérapeutes
+
+Contrairement aux influenceurs lifestyle, les thérapeutes ne peuvent pas adopter n'importe quelle posture. Votre marque personnelle doit rester alignée avec votre éthique professionnelle.
+
+### Archétype #1 : Le Pédagogue Éclairé
+
+**Promesse de marque :** *"Je vous aide à comprendre ce qui vous arrive pour reprendre le contrôle."*
+
+**Caractéristiques :**
+- Contenu hyper-éducatif et vulgarisé
+- Explications des mécanismes (physiologiques, psychologiques)
+- Ton professoral mais accessible
+- Beaucoup de schémas, infographies, métaphores
+
+**Exemple de contenu vidéo :**
+- "Comment fonctionne l'anxiété dans votre cerveau (expliqué simplement)"
+- "Les 3 phases du burn-out : où en êtes-vous ?"
+- "Pourquoi la respiration agit sur le stress (base scientifique)"
+
+**Pour qui ?** Thérapeutes avec background scientifique fort.
+
+### Archétype #2 : L'Empathique Bienveillant
+
+**Promesse de marque :** *"Je vous comprends profondément car j'ai vécu ce que vous vivez."*
+
+**Caractéristiques :**
+- Partage vulnérable de son propre parcours
+- Ton doux, rassurant, non-jugeant
+- Beaucoup de témoignages et d'histoires humaines
+- Création d'un espace safe
+
+**Pour qui ?** Thérapeutes avec parcours de reconstruction personnelle visible et assumé.
+
+→ **Surmonter les blocages** : [Syndrome de l'imposteur face caméra](/blog/syndrome-imposteur-camera-therapeutes)
+
+### Archétype #3 : L'Expert Scientifique
+
+**Promesse de marque :** *"Je vous apporte des solutions validées par la recherche et mon expérience clinique."*
+
+**Caractéristiques :**
+- Références systématiques aux études
+- Protocoles structurés et mesurables
+- Ton neutre, factuel, rassurant par la rigueur
+
+**Pour qui ?** Psychologues cliniciens, hypnothérapeutes médicalisés.
+
+### Archétype #4 : Le Guide Spirituel
+
+**Promesse de marque :** *"Je vous accompagne vers une transformation profonde et un alignement avec votre essence."*
+
+**Caractéristiques :**
+- Vocabulaire de la transformation et de l'éveil
+- Approche holistique (corps-esprit-âme)
+- Ton inspirant, métaphorique
+
+**Pour qui ?** Coachs de vie, praticiens énergétiques, sophrologues orientation spirituelle.
+
+### Archétype #5 : L'Innovateur Pragmatique
+
+**Promesse de marque :** *"J'ai développé une méthode unique qui obtient des résultats concrets rapidement."*
+
+**Caractéristiques :**
+- Approche propriétaire originale
+- Résultats rapides et mesurables
+- Ton dynamique, "problem-solver"
+
+**Pour qui ?** Thérapeutes avec méthode originale, coachs créatifs.
+
+## Le Framework AUTHENTICITÉ : 10 Principes Pour Un Personal Branding Aligné
+
+### A - Analysez votre parcours unique
+
+**Exercice pratique :**
+
+Listez par écrit :
+1. Les 3 moments clés qui vous ont amené(e) à ce métier
+2. Votre plus grand échec surmonté
+3. Ce que vous comprenez mieux que quiconque sur votre thématique
+4. L'émotion que vous ressentez quand un client obtient une transformation
+
+**Ce que cela révèle :** Votre "pourquoi" profond et votre angle unique.
+
+### U - Unifiez votre message central
+
+**Principe clé :** Vous devez pouvoir résumer votre promesse en UNE phrase.
+
+**Formule efficace :**
+*"J'aide [qui] à [quoi] grâce à [comment] pour [bénéfice final]."*
+
+✅ **Exemples puissants :**
+- *"J'aide les entrepreneurs en burn-out à retrouver leur énergie grâce à la sophrologie pour reconstruire un équilibre durable."*
+
+❌ **Exemples faibles :**
+- *"Je suis sophrologue et je propose des accompagnements personnalisés."* (trop vague)
+
+### T - Trouvez votre ton de voix
+
+Votre ton doit être **cohérent sur tous vos supports** (site, réseaux, vidéos, consultations).
+
+**Les 4 dimensions du ton :**
+1. **Formalité :** Vouvoiement vs tutoiement ?
+2. **Chaleur :** Professionnel distant vs chaleureux proche ?
+3. **Humour :** Sérieux vs léger/autodérision ?
+4. **Expertise :** Technique vs vulgarisé ?
+
+### N - Nommez votre niche précise
+
+Plus vous êtes spécialisé(e), plus vous êtes crédible et trouvable.
+
+**Mauvaise niche :** *"Je suis coach de vie"* (trop large)
+
+**Bonnes niches :**
+- *"Coach pour femmes entrepreneures en quête d'équilibre"*
+- *"Hypnothérapeute spécialisé(e) arrêt du tabac"*
+- *"Sophrologue pour sportifs de haut niveau"*
+
+### T - Témoignez de vos résultats
+
+Le personal branding sans preuve sociale = château de cartes.
+
+**3 types de preuves à collecter :**
+1. **Témoignages écrits détaillés**
+2. **Témoignages vidéo** (authentiques, émotionnels, courts)
+3. **Indicateurs de résultats** (sans violer la confidentialité)
+
+→ **Cadre légal** : [Réseaux sociaux pour thérapeutes : guide déontologique](/blog/reseaux-sociaux-ethique-therapeutes)
+
+### I - Investissez dans la cohérence visuelle
+
+Votre identité visuelle doit refléter votre archétype.
+
+**Archétype Pédagogue :** Couleurs sobres (bleu, gris)
+**Archétype Empathique :** Couleurs douces (rose poudré, beige)
+**Archétype Expert :** Couleurs professionnelles (bleu marine, blanc)
+**Archétype Spirituel :** Couleurs naturelles (vert, ocre)
+**Archétype Innovateur :** Couleurs énergiques (orange, vert vif)
+
+**Investissement recommandé :** 300-800€ pour une charte graphique pro.
+
+### C - Créez du contenu signature
+
+Votre contenu signature = ce pour quoi on vous reconnaît immédiatement.
+
+**Exemples :**
+- Série vidéo hebdomadaire "Les 5 minutes de décompression"
+- Newsletter mensuelle "La lettre du jeudi"
+- Format "Mythes et réalités sur [votre thématique]"
+
+→ **Inspiration** : [30 idées de vidéos courtes pour thérapeutes](/blog/30-idees-videos-courtes-therapeutes)
+
+## Comment La Vidéo Amplifie Votre Personal Branding x10
+
+### Pourquoi la vidéo est le média le plus puissant
+
+**3 raisons scientifiques :**
+
+1. **Le cerveau traite les visages** : connexion neuronale 6x plus forte qu'un texte
+2. **La voix transmet l'émotion** : authenticité impossible à falsifier
+3. **Le mouvement capte l'attention** : 135% d'engagement de plus
+
+### Les 5 types de vidéos essentielles
+
+**Vidéo #1 : La présentation d'origine (qui vous êtes et pourquoi)**
+- Durée : 60-90 secondes
+- Format : Selfie caméra ou interview
+
+**Vidéo #2 : L'expertise incarnée (montrez votre savoir-faire)**
+- Durée : 2-3 minutes
+- Format : Démonstration pratique
+
+**Vidéo #3 : Le témoignage client (preuve sociale)**
+- Durée : 45-90 secondes
+- Format : Interview du client
+
+**Vidéo #4 : Les coulisses authentiques (humanisation)**
+- Durée : 30-60 secondes
+- Format : Stories / Reels
+
+**Vidéo #5 : La prise de position (valeurs)**
+- Durée : 60-120 secondes
+- Format : Face caméra
+
+→ **Méthode rapide** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+### Le problème : créer 5 types de vidéos régulièrement prend 15h/mois
+
+**Solution révolutionnaire :** La méthode de batch video creation en séminaire immersif.
+
+En 2 jours de séminaire Sphèris :
+✅ Vous créez **20-40 vidéos** couvrant tous les types
+✅ Vous êtes **interviewé(e) par un pair**
+✅ Production **clés en main**
+✅ **6 mois de contenu** prêt à publier
+
+**Témoignage de Thomas, coach professionnel :**
+
+> *"En 2 jours de séminaire, j'ai créé 35 vidéos qui couvrent tous les aspects de mon personal branding. Aujourd'hui, 6 mois après, mon LinkedIn a explosé (3000 abonnés contre 400), et 40% de mes clients me disent qu'ils m'ont choisi après avoir vu mes vidéos."*
+
+## Conclusion : Votre Expertise Mérite D'Être Vue
+
+Le personal branding n'est pas une trahison de votre posture thérapeutique. C'est le **pont entre votre excellence invisible et les personnes qui ont besoin de vous**.
+
+La vidéo est le véhicule le plus puissant pour incarner votre personal branding. Mais créer des vidéos régulièrement seul(e) est chronophage et stressant.
+
+**La solution :** Produire 6 mois de contenu vidéo en un weekend de séminaire immersif, avec accompagnement expert et communauté de pairs.
+
+👉 **[Candidater au séminaire Sphèris](https://spherislab.fr/seminaires)** et construire votre personal branding vidéo en 2 jours.
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : méthode complète](/blog/creer-20-videos-therapeutes-methode-complete)
+- [Syndrome de l'imposteur face caméra : comment le vaincre](/blog/syndrome-imposteur-camera-therapeutes)
+- [Se faire connaître comme thérapeute en 2025 : guide complet](/blog/se-faire-connaitre-therapeute-2025)
+8:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"Découvrez comment construire un personal branding authentique en vidéo quand on est thérapeute. Stratégies, exemples concrets et framework AUTHENTICITÉ pour vous démarquer sans vous vendre."}],["$","div",null,{"className":"mb-8","children":["$","$Lc",null,{"title":"Personal Branding pour Thérapeutes : Construire Sa Marque Personnelle en Vidéo (Guide 2025)","url":"http://localhost:3000/blog/personal-branding-therapeutes-video"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$Ld",null,{"content":"$e"}]}],"$Lf","$L10","$L11"]}],"$L12"]}]}]}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true}]
+b:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+f:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","personal branding",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","personal branding"]}],["$","span","marque personnelle",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","marque personnelle"]}],["$","span","identité professionnelle",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","identité professionnelle"]}],["$","span","authenticité",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","authenticité"]}],["$","span","vidéo",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","vidéo"]}],["$","span","positionnement",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","positionnement"]}]]}]]}]
+10:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$Lc",null,{"title":"Personal Branding pour Thérapeutes : Construire Sa Marque Personnelle en Vidéo (Guide 2025)","url":"http://localhost:3000/blog/personal-branding-therapeutes-video"}]}]
+11:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L3","strategies-personal-branding-therapeutes",{"href":"/blog/strategies-personal-branding-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"/blog/strategies-personal-branding-therapeutes/cover.jpg","alt":"10 stratégies de personal branding pour thérapeutes","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"29 janvier 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"5 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"10 stratégies de personal branding pour thérapeutes"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Découvrez comment construire une présence en ligne authentique qui attire vos clients idéaux sans compromettre votre éthique professionnelle."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}],["$","$L3","syndrome-imposteur-camera-therapeutes",{"href":"/blog/syndrome-imposteur-camera-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?w=1200&h=630&fit=crop","alt":"Syndrome de l'Imposteur Face Caméra : Comment Oser Se Montrer en Vidéo Quand On Est Thérapeute","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],"$L16","$undefined"]}],"$L17"]}],"$L18"]}],"$L19","$L1a","$L1b"]}]]}]]}]]}]
+12:["$","aside",null,{"children":["$","$L1c",null,{"headings":[{"id":"pourquoi-le-personal-branding-n-est-plus-optionnel-pour-les-therapeutes","text":"Pourquoi Le Personal Branding N'Est Plus Optionnel Pour Les Thérapeutes","level":2},{"id":"la-realite-du-marche-en-2025","text":"La réalité du marché en 2025","level":3},{"id":"ce-que-cherche-vraiment-un-client-potentiel","text":"Ce que cherche vraiment un client potentiel","level":3},{"id":"les-5-archetypes-de-personal-branding-pour-therapeutes","text":"Les 5 Archétypes de Personal Branding Pour Thérapeutes","level":2},{"id":"archetype-1-le-pedagogue-eclaire","text":"Archétype #1 : Le Pédagogue Éclairé","level":3},{"id":"archetype-2-l-empathique-bienveillant","text":"Archétype #2 : L'Empathique Bienveillant","level":3},{"id":"archetype-3-l-expert-scientifique","text":"Archétype #3 : L'Expert Scientifique","level":3},{"id":"archetype-4-le-guide-spirituel","text":"Archétype #4 : Le Guide Spirituel","level":3},{"id":"archetype-5-l-innovateur-pragmatique","text":"Archétype #5 : L'Innovateur Pragmatique","level":3},{"id":"le-framework-authenticite-10-principes-pour-un-personal-branding-aligne","text":"Le Framework AUTHENTICITÉ : 10 Principes Pour Un Personal Branding Aligné","level":2},{"id":"a-analysez-votre-parcours-unique","text":"A - Analysez votre parcours unique","level":3},{"id":"u-unifiez-votre-message-central","text":"U - Unifiez votre message central","level":3},{"id":"t-trouvez-votre-ton-de-voix","text":"T - Trouvez votre ton de voix","level":3},{"id":"n-nommez-votre-niche-precise","text":"N - Nommez votre niche précise","level":3},{"id":"t-temoignez-de-vos-resultats","text":"T - Témoignez de vos résultats","level":3},{"id":"i-investissez-dans-la-coherence-visuelle","text":"I - Investissez dans la cohérence visuelle","level":3},{"id":"c-creez-du-contenu-signature","text":"C - Créez du contenu signature","level":3},{"id":"comment-la-video-amplifie-votre-personal-branding-x10","text":"Comment La Vidéo Amplifie Votre Personal Branding x10","level":2},{"id":"pourquoi-la-video-est-le-media-le-plus-puissant","text":"Pourquoi la vidéo est le média le plus puissant","level":3},{"id":"les-5-types-de-videos-essentielles","text":"Les 5 types de vidéos essentielles","level":3},{"id":"le-probleme-creer-5-types-de-videos-regulierement-prend-15h-mois","text":"Le problème : créer 5 types de vidéos régulièrement prend 15h/mois","level":3},{"id":"conclusion-votre-expertise-merite-d-etre-vue","text":"Conclusion : Votre Expertise Mérite D'Être Vue","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+15:null
+16:["$","path","8toen8",{"d":"M3 10h18"}]
+17:["$","span",null,{"children":"29 janvier 2025"}]
+18:["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"14 min de lecture"}]]}]
+19:["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Syndrome de l'Imposteur Face Caméra : Comment Oser Se Montrer en Vidéo Quand On Est Thérapeute"}]
+1a:["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Découvrez comment vaincre le syndrome de l'imposteur face caméra et créer vos vidéos de thérapeute avec authenticité. Guide psychologique et solutions pratiques pour oser se montrer."}]
+1b:["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]

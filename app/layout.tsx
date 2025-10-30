@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     'marketing thérapeute',
     'visibilité en ligne coach'
   ],
-  authors: [{ name: 'Aurélien Rignault', url: 'https://spherislab.com' }],
+  authors: [{ name: 'Sphèris Lab', url: 'https://spherislab.com' }],
   creator: 'Sphèris Lab',
   publisher: 'Sphèris Lab',
   formatDetection: {

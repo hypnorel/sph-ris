@@ -1,7 +1,7 @@
 import HeroHome from '@/components/home/HeroHome'
 import ServicesOverview from '@/components/home/ServicesOverview'
 import ProcessSection from '@/components/home/ProcessSection'
-import TestimonialsSection from '@/components/home/TestimonialsSection'
+import BlogPreviewSection from '@/components/home/BlogPreviewSection'
 import CTASection from '@/components/home/CTASection'
 
 export const metadata = {
@@ -15,7 +15,7 @@ export default function Home() {
       <HeroHome />
       <ServicesOverview />
       <ProcessSection />
-      <TestimonialsSection />
+      <BlogPreviewSection />
       <CTASection />
     </>
   )

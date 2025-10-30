@@ -117,7 +117,7 @@ export default function HeroHome() {
 
         {/* CTA Buttons - Enhanced */}
         <FadeInUp delay={0.5}>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button size="xl" glow icon={<ArrowRight size={20} />} asChild>
               <Link href="/seminaires">
                 Découvrir les séminaires
@@ -128,54 +128,6 @@ export default function HeroHome() {
             </Button>
           </div>
         </FadeInUp>
-
-        {/* Trust indicators - Enhanced */}
-        <FadeIn delay={0.6}>
-          <div className="mt-8 md:mt-12 grid grid-cols-3 gap-4 md:gap-8 max-w-2xl mx-auto">
-            <motion.div
-              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
-              whileHover={{ y: -5 }}
-            >
-              <motion.p
-                className="text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ delay: 1, type: "spring" }}
-              >
-                47+
-              </motion.p>
-              <p className="text-slate-600 text-xs md:text-sm mt-1 font-medium">Participants</p>
-            </motion.div>
-            <motion.div
-              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
-              whileHover={{ y: -5 }}
-            >
-              <motion.p
-                className="text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ delay: 1.1, type: "spring" }}
-              >
-                1200+
-              </motion.p>
-              <p className="text-slate-600 text-xs md:text-sm mt-1 font-medium">Vidéos créées</p>
-            </motion.div>
-            <motion.div
-              className="text-center p-4 rounded-2xl bg-white border border-primary-100"
-              whileHover={{ y: -5 }}
-            >
-              <motion.p
-                className="text-3xl md:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ delay: 1.2, type: "spring" }}
-              >
-                98%
-              </motion.p>
-              <p className="text-slate-600 text-xs md:text-sm mt-1 font-medium">Satisfaction</p>
-            </motion.div>
-          </div>
-        </FadeIn>
       </div>
     </section>
   )

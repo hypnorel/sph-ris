@@ -37,12 +37,12 @@ export default function AgencePage() {
 
       {/* Notre Vision */}
       <Section background="white">
-        <div className="grid md:grid-cols-2 gap-12 items-center">
+        <div className="max-w-4xl mx-auto">
           <div>
-            <h2 className="text-4xl font-bold text-slate-900 mb-6">
+            <h2 className="text-4xl font-bold text-slate-900 mb-6 text-center">
               Notre <span className="text-primary-600">Vision</span>
             </h2>
-            <div className="h-1 w-24 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full mb-6" />
+            <div className="h-1 w-24 bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full mb-6 mx-auto" />
             <p className="text-lg text-slate-700 mb-4 leading-relaxed">
               Nous croyons que chaque thérapeute et coach a une expertise unique qui mérite d'être vue et entendue.
               Pourtant, trop souvent, les barrières techniques et le manque de temps empêchent ces professionnels
@@ -58,26 +58,6 @@ export default function AgencePage() {
                 "Notre mission : permettre à 100 thérapeutes et coachs de rayonner en ligne d'ici 2 ans,
                 tout en créant un média de référence sur la thérapie et le développement personnel."
               </p>
-            </div>
-          </div>
-          <div className="bg-gradient-to-br from-primary-100 to-secondary-100 rounded-3xl p-12 text-center">
-            <div className="space-y-8">
-              <div>
-                <p className="text-5xl font-bold text-primary-600 mb-2">47+</p>
-                <p className="text-slate-700">Professionnels accompagnés</p>
-              </div>
-              <div>
-                <p className="text-5xl font-bold text-primary-600 mb-2">1200+</p>
-                <p className="text-slate-700">Vidéos produites</p>
-              </div>
-              <div>
-                <p className="text-5xl font-bold text-primary-600 mb-2">98%</p>
-                <p className="text-slate-700">Taux de satisfaction</p>
-              </div>
-              <div>
-                <p className="text-5xl font-bold text-primary-600 mb-2">3</p>
-                <p className="text-slate-700">Années d'expérience</p>
-              </div>
             </div>
           </div>
         </div>

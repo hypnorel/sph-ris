@@ -1,3 +1,6 @@
+import Link from 'next/link'
+import { SITE_CONFIG } from '@/lib/utils/constants'
+
 export default function Footer() {
   return (
     <footer className="bg-gradient-to-br from-slate-900 to-primary-900 text-white py-16 px-4">
@@ -6,14 +9,16 @@ export default function Footer() {
           {/* Branding */}
           <div className="md:col-span-2">
             <h3 className="text-3xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-primary-300 to-secondary-300">
-              Sphèris
+              Sphèris Lab
             </h3>
             <p className="text-slate-300 mb-6 leading-relaxed">
               L'écosystème complet qui permet aux thérapeutes et coachs de développer leur présence en ligne sans barrière technique, en s'appuyant sur une communauté engagée.
             </p>
             <div className="flex gap-4">
               <a
-                href="#"
+                href={SITE_CONFIG.socialLinks.instagram}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors"
                 aria-label="Instagram"
               >
@@ -23,7 +28,9 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="#"
+                href={SITE_CONFIG.socialLinks.linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors"
                 aria-label="LinkedIn"
               >
@@ -32,12 +39,14 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="#"
+                href={SITE_CONFIG.socialLinks.youtube}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors"
-                aria-label="Facebook"
+                aria-label="YouTube"
               >
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                  <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
                 </svg>
               </a>
             </div>
@@ -48,34 +57,34 @@ export default function Footer() {
             <h4 className="text-lg font-bold mb-4 text-white">Navigation</h4>
             <ul className="space-y-2">
               <li>
-                <a href="#comment-ca-marche" className="text-slate-300 hover:text-white transition-colors">
-                  Comment ça marche
-                </a>
+                <Link href="/" className="text-slate-300 hover:text-white transition-colors">
+                  Accueil
+                </Link>
               </li>
               <li>
-                <a href="#pour-qui" className="text-slate-300 hover:text-white transition-colors">
-                  Pour qui ?
-                </a>
+                <Link href="/agence" className="text-slate-300 hover:text-white transition-colors">
+                  Agence
+                </Link>
               </li>
               <li>
-                <a href="#programme" className="text-slate-300 hover:text-white transition-colors">
-                  Programme
-                </a>
+                <Link href="/seminaires" className="text-slate-300 hover:text-white transition-colors">
+                  Séminaires
+                </Link>
               </li>
               <li>
-                <a href="#communaute" className="text-slate-300 hover:text-white transition-colors">
-                  Communauté
-                </a>
+                <Link href="/production" className="text-slate-300 hover:text-white transition-colors">
+                  Production
+                </Link>
               </li>
               <li>
-                <a href="#tarifs" className="text-slate-300 hover:text-white transition-colors">
-                  Tarifs
-                </a>
+                <Link href="/blog" className="text-slate-300 hover:text-white transition-colors">
+                  Blog
+                </Link>
               </li>
               <li>
-                <a href="#contact" className="text-slate-300 hover:text-white transition-colors">
+                <Link href="/contact" className="text-slate-300 hover:text-white transition-colors">
                   Contact
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -84,19 +93,17 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold mb-4 text-white">Contact</h4>
             <ul className="space-y-2 text-slate-300">
-              <li className="flex items-start gap-2">
-                <span className="mt-1">📍</span>
-                <span>L'Hermitage<br />Compiègne, France</span>
-              </li>
               <li className="flex items-center gap-2">
                 <span>📧</span>
-                <a href="mailto:contact@spheris.fr" className="hover:text-white transition-colors">
-                  contact@spheris.fr
+                <a href={`mailto:${SITE_CONFIG.email}`} className="hover:text-white transition-colors break-all">
+                  {SITE_CONFIG.email}
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <span>📱</span>
-                <span>06 XX XX XX XX</span>
+                <a href={`tel:${SITE_CONFIG.phone.replace(/\s/g, '')}`} className="hover:text-white transition-colors">
+                  {SITE_CONFIG.phone}
+                </a>
               </li>
             </ul>
           </div>
@@ -106,18 +113,12 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-slate-400 text-sm">
-              © 2025 Sphèris. Tous droits réservés.
+              © 2025 Sphèris Lab. Tous droits réservés.
             </p>
-            <div className="flex gap-6 text-sm">
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
+            <div className="flex flex-wrap justify-center gap-6 text-sm">
+              <Link href="/contact/mentions-legales" className="text-slate-400 hover:text-white transition-colors">
                 Mentions légales
-              </a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
-                Politique de confidentialité
-              </a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
-                CGV
-              </a>
+              </Link>
             </div>
           </div>
           <div className="mt-4 text-center">

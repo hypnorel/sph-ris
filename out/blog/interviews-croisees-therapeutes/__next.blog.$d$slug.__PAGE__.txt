@@ -1,0 +1,468 @@
+1:"$Sreact.fragment"
+2:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+3:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+4:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+c:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+d:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+13:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+20:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+0:{"buildId":"N6GheZFdJW3eUhOPy0QZ3","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours\",\"image\":\"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-02-11\",\"dateModified\":\"2025-02-11\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"Méthode des interviews croisées : créer 20-40 vidéos professionnelles en 2 jours entre thérapeutes. Guide complet avec templates.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/interviews-croisees-therapeutes\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L2",null,{"src":"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=630&fit=crop","alt":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L4",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Vidéo & Production"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"11 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L5","$L6","$undefined"]}],"$L7"]}]]}]]}]]}]]}],"$L8"]}]],["$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+5:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+6:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+7:["$","span",null,{"children":"10 min de lecture"}]
+e:T3348,
+## Le Paradoxe De La Création Vidéo Solitaire
+
+Vous êtes devant votre caméra. Seul. Le voyant rouge clignote.
+
+Vous devez parler de votre expertise pendant 2 minutes. Sans interlocuteur. Dans le vide.
+
+**Premier essai :** "Euh... bonjour, je suis... non attendez, je recommence."
+**Deuxième essai :** "Aujourd'hui je vais vous parler de... mince j'ai oublié."
+**Dixième essai :** Vous abandonnez, épuisé, avec zéro vidéo utilisable.
+
+**Bienvenue dans le tunnel de la création vidéo solo.**
+
+Mais la sortie s'illumine : il existe une méthode qui transforme la création vidéo en **conversation naturelle**, multiplie votre productivité par 10, et rend le processus **agréable** plutôt que douloureux.
+
+Cette méthode s'appelle **les interviews croisées**. Elle est utilisée par plus de 200 thérapeutes qui créent désormais 20-40 vidéos en 2 jours, sans stress, sans blocage.
+
+→ **Surmonter les blocages** : [Syndrome de l'imposteur face caméra](/blog/syndrome-imposteur-camera-therapeutes)
+
+## Qu'Est-Ce Que La Méthode Des Interviews Croisées ?
+
+### Le Principe Fondamental
+
+**Définition simple :** Deux thérapeutes (ou plus) se filment mutuellement en s'interviewant, créant ainsi du contenu pour **chacun**.
+
+**Au lieu de :**
+- Vous → Caméra (monologue artificiel)
+
+**Vous faites :**
+- Vous → Collègue thérapeute (conversation naturelle)
+- Collègue → Vous (vous êtes interviewé)
+
+**Résultat :** Chaque participant repart avec 20-40 vidéos de qualité professionnelle.
+
+### Pourquoi Ça Change Tout ?
+
+**5 avantages psychologiques majeurs :**
+
+1. **Conversation vs Monologue** : Vous répondez à des questions, c'est naturel
+2. **Regard humain vs Objectif froid** : Vous parlez à une personne, pas à une machine
+3. **Dynamique énergétique** : L'énergie du groupe booste votre motivation
+4. **Pression positive** : Vous ne pouvez pas procrastiner
+5. **Effet miroir** : Voir les autres se lancer vous débloque instantanément
+
+**Témoignage de Sophie, sophrologue :**
+
+> *"J'avais reporté pendant 6 mois la création de ma première vidéo. En 2 jours d'interviews croisées, j'en ai créé 28. Le simple fait de parler à quelqu'un plutôt qu'à un objectif a tout changé."*
+
+## Les 3 Formats D'Interviews Croisées
+
+### Format 1 : Le Duo Classique (2 Personnes)
+
+**Configuration :**
+- 2 thérapeutes
+- 1 caméra
+- Tour de rôle : A interviewe B, puis B interviewe A
+
+**Durée :** 3-4h par personne
+**Production :** 10-15 vidéos par personne
+
+**Avantages :**
+✅ Simple à organiser
+✅ Intimité facilitant la confiance
+✅ Flexibilité totale
+
+**Inconvénients :**
+❌ Production limitée
+❌ Manque d'émulation de groupe
+❌ Risque de panne d'inspiration
+
+**Idéal pour :** Thérapeutes qui se connaissent déjà.
+
+### Format 2 : Le Trio/Quatuor (3-4 Personnes)
+
+**Configuration :**
+- 3-4 thérapeutes
+- 2 caméras
+- Rotation : Chacun est interviewé par les autres
+
+**Durée :** 1 journée complète (8h)
+**Production :** 15-20 vidéos par personne
+
+**Avantages :**
+✅ Diversité des questions
+✅ Dynamique de groupe stimulante
+✅ Networking enrichi
+✅ Coûts partagés
+
+**Idéal pour :** Thérapeutes prêts à investir une journée.
+
+### Format 3 : Le Séminaire Intensif (6-8 Personnes)
+
+**Configuration :**
+- 6-8 thérapeutes
+- 3 stations de tournage simultanées
+- Rotation optimisée par paires
+- Facilitateur qui orchestre
+
+**Durée :** 2 jours (weekend)
+**Production :** 25-40 vidéos par personne
+
+**Avantages :**
+✅ Production massive
+✅ Émulation collective puissante
+✅ Networking professionnel fort
+✅ Encadrement technique et méthodologique
+✅ Traitement du syndrome de l'imposteur en groupe
+
+**C'est le format utilisé par Sphèris** avec un taux de satisfaction de 98% et une moyenne de 28 vidéos par participant.
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+## Comment Organiser Vos Interviews Croisées : Guide Étape Par Étape
+
+### Phase 1 : Préparation Stratégique (1 Semaine Avant)
+
+**Étape 1.1 : Constituer votre groupe**
+
+**Critères de sélection :**
+- ✅ Thérapeutes **de spécialités différentes** (éviter concurrence)
+- ✅ Niveau d'expérience similaire
+- ✅ Zone géographique proche
+- ✅ Éthique professionnelle alignée
+- ✅ Motivation équivalente
+
+**Où trouver des partenaires ?**
+- Groupes Facebook thérapeutes locaux
+- Réseaux professionnels (syndicats, associations)
+- Formations continues
+- Événements bien-être locaux
+
+**Étape 1.2 : Définir vos sujets de vidéos**
+
+**Structure de liste idéale :**
+- **5 sujets "Présentation"** : Qui êtes-vous, votre approche
+- **10 sujets "Éducation"** : Expliquer des concepts, FAQ
+- **3 sujets "Témoignages"** : Cas d'école anonymisés
+- **2 sujets "Pratique"** : Exercices simples
+
+→ **Inspiration** : [30 idées de vidéos courtes](/blog/30-idees-videos-courtes-therapeutes)
+
+**Template de sujet :**
+```
+Titre : [Question courante de vos patients]
+Angle : [Votre réponse unique d'expert]
+Durée cible : [60 sec / 2 min / 3 min]
+```
+
+**Étape 1.3 : Préparer le matériel technique**
+
+**Setup minimal (duo/trio) :**
+- 📱 1 smartphone récent
+- 🎤 1 micro-cravate (30-50€)
+- 💡 Lumière naturelle OU ring light (40€)
+- 🎥 Trépied smartphone (20€)
+
+**Budget total :** 100-150€ partagé
+
+### Phase 2 : Le Jour J - Déroulé Session (6-8h)
+
+**Timing optimisé pour format trio :**
+
+**09h00 - 09h30 : Installation & Briefing**
+- Configuration technique
+- Test son et lumière
+
+**09h30 - 10h45 : Série 1 - Personne A**
+- B et C posent des questions à A
+- 8-10 vidéos produites
+
+**11h00 - 12h15 : Série 2 - Personne B**
+- A et C posent des questions à B
+- 8-10 vidéos produites
+
+**12h15 - 13h30 : Déjeuner** (networking !)
+
+**13h30 - 14h45 : Série 3 - Personne C**
+- A et B posent des questions à C
+- 8-10 vidéos produites
+
+**15h00 - 16h30 : Session collaborative**
+- Chacun interviewe les autres
+- 3-5 vidéos bonus
+
+**16h30 - 17h00 : Debriefing**
+- Transfert des fichiers
+- Planification future
+
+**Total : 15-20 vidéos par personne en 1 journée**
+
+### Phase 3 : Post-Production
+
+**Option 1 : Montage professionnel**
+- Coût : 5-10€ par vidéo
+- Délai : 1 semaine
+
+**Option 2 : Montage simple**
+- Outil : CapCut (gratuit) ou iMovie
+- Temps : 10-15 min par vidéo
+
+**Option 3 : Pas de montage (brut)**
+- Juste couper début/fin
+- Ajouter sous-titres automatiques
+- Temps : 5 min par vidéo
+
+**Recommandation :** Pour les 20 premières vidéos, optez pour l'option 3.
+
+## Les 10 Questions Qui Fonctionnent À Tous Les Coups
+
+### Questions "Présentation"
+
+**Q1 : "Quel a été le déclic qui t'a amené à devenir [profession] ?"**
+- Durée : 2-3 min
+- Objectif : Humaniser, créer lien émotionnel
+
+**Q2 : "Quelle est ta vision de l'accompagnement thérapeutique ?"**
+- Durée : 2 min
+- Objectif : Montrer votre philosophie
+
+### Questions "Pédagogiques"
+
+**Q3 : "Quelle est la question que tes patients te posent le plus souvent ?"**
+- Durée : 1-2 min
+- Objectif : Répondre à FAQ
+
+**Q4 : "Peux-tu déconstruire une idée reçue sur [ta pratique] ?"**
+- Durée : 90 sec
+- Objectif : Démystifier
+
+**Q5 : "Explique en 60 secondes ce qu'est [concept clé] ?"**
+- Durée : 60 sec
+- Objectif : Vulgarisation
+
+### Questions "Pratico-Pratiques"
+
+**Q6 : "Quel exercice simple peux-tu partager ?"**
+- Durée : 2-3 min
+- Objectif : Valeur actionnable
+
+**Q7 : "Quels sont les 3 signes qu'on devrait consulter un [spécialité] ?"**
+- Durée : 90 sec
+- Objectif : Déclencher prise de conscience
+
+### Questions "Cas Pratiques"
+
+**Q8 : "Décris une situation typique en consultation (anonymisée)"**
+- Durée : 2 min
+- Objectif : Concrétiser votre valeur
+
+**Q9 : "Comment se déroule une première séance avec toi ?"**
+- Durée : 2 min
+- Objectif : Rassurer
+
+### Questions "Positionnement"
+
+**Q10 : "Qu'est-ce qui rend ton approche unique ?"**
+- Durée : 2 min
+- Objectif : Différenciation
+
+→ **Cadre éthique** : [Réseaux sociaux pour thérapeutes : guide déontologique](/blog/reseaux-sociaux-ethique-therapeutes)
+
+## Les 7 Pièges À Éviter
+
+### Piège 1 : Choisir des partenaires concurrents directs
+
+**Erreur :** 2 sophrologues du même quartier
+**Conséquence :** Malaise, retenue
+**Solution :** Complémentarité (sophro + hypno + coach)
+
+### Piège 2 : Vouloir tout scripter
+
+**Erreur :** Rédiger réponses mot à mot
+**Conséquence :** Vidéos robotiques
+**Solution :** Préparez des **bullet points**
+
+### Piège 3 : Négliger le test technique
+
+**Erreur :** Commencer sans tester
+**Conséquence :** 20 vidéos inutilisables
+**Solution :** 15 min de tests valent mieux que 6h ratées
+
+### Piège 4 : Interviews trop longues
+
+**Erreur :** 10 minutes par réponse
+**Conséquence :** Fatigue, perte d'énergie
+**Solution :** Timekeeper. Signal à 2 min = conclure
+
+### Piège 5 : Oublier le format vertical
+
+**Erreur :** Tout filmer horizontal
+**Conséquence :** Inexploitable sur Instagram/TikTok
+**Solution :** Filmez en 9:16 (vertical)
+
+### Piège 6 : Pas de plan de diffusion
+
+**Erreur :** 20 vidéos qui restent sur le disque dur
+**Conséquence :** ROI = zéro
+**Solution :** Calendrier défini AVANT
+
+### Piège 7 : Flou sur droits d'utilisation
+
+**Erreur :** Pas d'accord clair
+**Conséquence :** Conflits post-tournage
+**Solution :** Accord écrit simple
+
+## Interviews Croisées DIY vs Séminaire Professionnel
+
+### Option 1 : Format DIY
+
+**Avantages :**
+✅ Coût minimal (100-200€)
+✅ Flexibilité totale
+✅ Contrôle du processus
+
+**Inconvénients :**
+❌ Charge organisationnelle
+❌ Risque d'erreurs techniques
+❌ Production limitée (10-15 vidéos)
+❌ Qualité amateur
+
+**Idéal pour :** Thérapeutes expérimentés en vidéo.
+
+### Option 2 : Séminaire Sphèris
+
+**Avantages :**
+✅ 25-40 vidéos produites
+✅ Qualité professionnelle garantie
+✅ Méthode éprouvée anti-syndrome imposteur
+✅ Facilitateur qui orchestre
+✅ Setup technique pro
+✅ Groupe sélectionné aligné
+✅ Réseau durable
+✅ Formation incluse
+
+**Inconvénients :**
+❌ Investissement financier (800-1200€)
+❌ Dates imposées
+❌ Places limitées
+
+**Idéal pour :** Thérapeutes qui veulent résultat optimal sans logistique.
+
+**ROI moyen :** 1-2 nouveaux patients = rentabilisé
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+## Témoignages : Ce Que Disent Les Thérapeutes
+
+> **"Je procrastinais depuis 8 mois. En 1 weekend, j'ai créé 32 vidéos."**
+>
+> *"Le simple fait d'être en groupe m'a débloquée instantanément. Finalement c'était beaucoup plus facile que je ne l'imaginais."*
+>
+> — **Céline, naturopathe, Paris**
+
+---
+
+> **"La méthode a transformé ma relation à la caméra."**
+>
+> *"Avant, filmer = stress. Maintenant, filmer = conversation. Ce changement de paradigme a tout débloqué."*
+>
+> — **Marc, psychologue, Lyon**
+
+---
+
+> **"J'ai triplé mes demandes en 3 mois."**
+>
+> *"Les gens me disent 'J'ai l'impression de vous connaître avant même de venir'. Mes vidéos créent de la confiance avant le premier RDV."*
+>
+> — **Amélie, sophrologue, Nantes**
+
+## Prochaines Étapes : Lancer Vos Interviews Dès Cette Semaine
+
+### Parcours DIY
+
+**Semaine 1 :**
+- Identifiez 1-2 partenaires
+- Café pour présenter le concept
+
+**Semaine 2 :**
+- Listez vos 15 sujets chacun
+- Définissez date + lieu
+
+**Semaine 3 :**
+- Session de tournage (1 journée)
+- Production : 10-15 vidéos
+
+**Semaine 4 :**
+- Post-production légère
+- Début diffusion
+
+### Parcours Sphèris
+
+**Aujourd'hui :**
+- Candidatez au prochain séminaire
+- Entretien de sélection (15 min)
+
+**Dans 2-4 semaines :**
+- Weekend intensif (2 jours)
+- Production : 25-40 vidéos pro
+
+**Lendemain :**
+- Vidéos montées et livrées
+- Vous commencez à publier
+
+**ROI attendu :** 2-3 mois de contenu produit en 2 jours
+
+## Conclusion : Le Moment d'Action C'est Maintenant
+
+Vous avez maintenant **toutes les clés** pour transformer votre création de contenu vidéo.
+
+La méthode des interviews croisées n'est pas juste une technique. C'est un **changement de paradigme** : vous n'êtes plus seul face à la caméra.
+
+**Récapitulatif :**
+
+✅ **10x plus de vidéos** produites
+✅ **10x moins de stress**
+✅ **Qualité professionnelle** garantie
+✅ **Réseau de pairs** qui dure
+✅ **Syndrome de l'imposteur** traité collectivement
+
+**Votre décision aujourd'hui :**
+
+👉 **Format DIY** : Organisez votre session ce mois-ci
+👉 **Format Sphèris** : [Candidatez au prochain séminaire](https://spherislab.fr/seminaires)
+
+La vidéo n'est plus une option en 2025. C'est **LE canal d'acquisition patient** numéro 1.
+
+**Le tunnel s'illumine. Il est temps de traverser.** 🌟
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : méthode complète](/blog/creer-20-videos-therapeutes-methode-complete)
+- [Syndrome de l'imposteur face caméra : solutions](/blog/syndrome-imposteur-camera-therapeutes)
+- [Personal branding vidéo pour thérapeutes](/blog/personal-branding-therapeutes-video)
+- [Comparatif formations vidéo thérapeutes](/blog/comparatif-formations-video-therapeutes)
+8:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"Découvrez la méthode des interviews croisées : technique collaborative pour thérapeutes qui permet de créer 20-40 vidéos professionnelles en 2 jours. Guide complet avec templates et scripts."}],["$","div",null,{"className":"mb-8","children":["$","$Lc",null,{"title":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","url":"http://localhost:3000/blog/interviews-croisees-therapeutes"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$Ld",null,{"content":"$e"}]}],"$Lf","$L10","$L11"]}],"$L12"]}]}]}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true}]
+b:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+f:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","interviews croisées",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","interviews croisées"]}],["$","span","collaboration",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","collaboration"]}],["$","span","méthode",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","méthode"]}],["$","span","batch creation",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","batch creation"]}],["$","span","networking",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","networking"]}],["$","span","communauté",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","communauté"]}]]}]]}]
+10:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$Lc",null,{"title":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","url":"http://localhost:3000/blog/interviews-croisees-therapeutes"}]}]
+11:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L3","30-idees-videos-courtes-therapeutes",{"href":"/blog/30-idees-videos-courtes-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"17 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"23 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 formats de Reels et vidéos courtes testés pour thérapeutes, sophrologues et coachs. Scripts prêts à l'emploi, stratégie de contenu complète et méthode de planification pour attirer des patients qualifiés."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}],["$","$L3","comparatif-formations-video-therapeutes",{"href":"/blog/comparatif-formations-video-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop","alt":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":["$L16","$L17","$L18","$L19","$undefined"]}],"$L1a"]}],"$L1b"]}],"$L1c","$L1d","$L1e"]}]]}],"$L1f"]}]]}]
+12:["$","aside",null,{"children":["$","$L20",null,{"headings":[{"id":"le-paradoxe-de-la-creation-video-solitaire","text":"Le Paradoxe De La Création Vidéo Solitaire","level":2},{"id":"qu-est-ce-que-la-methode-des-interviews-croisees","text":"Qu'Est-Ce Que La Méthode Des Interviews Croisées ?","level":2},{"id":"le-principe-fondamental","text":"Le Principe Fondamental","level":3},{"id":"pourquoi-ca-change-tout","text":"Pourquoi Ça Change Tout ?","level":3},{"id":"les-3-formats-d-interviews-croisees","text":"Les 3 Formats D'Interviews Croisées","level":2},{"id":"format-1-le-duo-classique-2-personnes","text":"Format 1 : Le Duo Classique (2 Personnes)","level":3},{"id":"format-2-le-trio-quatuor-3-4-personnes","text":"Format 2 : Le Trio/Quatuor (3-4 Personnes)","level":3},{"id":"format-3-le-seminaire-intensif-6-8-personnes","text":"Format 3 : Le Séminaire Intensif (6-8 Personnes)","level":3},{"id":"comment-organiser-vos-interviews-croisees-guide-etape-par-etape","text":"Comment Organiser Vos Interviews Croisées : Guide Étape Par Étape","level":2},{"id":"phase-1-preparation-strategique-1-semaine-avant","text":"Phase 1 : Préparation Stratégique (1 Semaine Avant)","level":3},{"id":"phase-2-le-jour-j-deroule-session-6-8h","text":"Phase 2 : Le Jour J - Déroulé Session (6-8h)","level":3},{"id":"phase-3-post-production","text":"Phase 3 : Post-Production","level":3},{"id":"les-10-questions-qui-fonctionnent-a-tous-les-coups","text":"Les 10 Questions Qui Fonctionnent À Tous Les Coups","level":2},{"id":"questions-presentation","text":"Questions \"Présentation\"","level":3},{"id":"questions-pedagogiques","text":"Questions \"Pédagogiques\"","level":3},{"id":"questions-pratico-pratiques","text":"Questions \"Pratico-Pratiques\"","level":3},{"id":"questions-cas-pratiques","text":"Questions \"Cas Pratiques\"","level":3},{"id":"questions-positionnement","text":"Questions \"Positionnement\"","level":3},{"id":"les-7-pieges-a-eviter","text":"Les 7 Pièges À Éviter","level":2},{"id":"piege-1-choisir-des-partenaires-concurrents-directs","text":"Piège 1 : Choisir des partenaires concurrents directs","level":3},{"id":"piege-2-vouloir-tout-scripter","text":"Piège 2 : Vouloir tout scripter","level":3},{"id":"piege-3-negliger-le-test-technique","text":"Piège 3 : Négliger le test technique","level":3},{"id":"piege-4-interviews-trop-longues","text":"Piège 4 : Interviews trop longues","level":3},{"id":"piege-5-oublier-le-format-vertical","text":"Piège 5 : Oublier le format vertical","level":3},{"id":"piege-6-pas-de-plan-de-diffusion","text":"Piège 6 : Pas de plan de diffusion","level":3},{"id":"piege-7-flou-sur-droits-d-utilisation","text":"Piège 7 : Flou sur droits d'utilisation","level":3},{"id":"interviews-croisees-diy-vs-seminaire-professionnel","text":"Interviews Croisées DIY vs Séminaire Professionnel","level":2},{"id":"option-1-format-diy","text":"Option 1 : Format DIY","level":3},{"id":"option-2-seminaire-spheris","text":"Option 2 : Séminaire Sphèris","level":3},{"id":"temoignages-ce-que-disent-les-therapeutes","text":"Témoignages : Ce Que Disent Les Thérapeutes","level":2},{"id":"prochaines-etapes-lancer-vos-interviews-des-cette-semaine","text":"Prochaines Étapes : Lancer Vos Interviews Dès Cette Semaine","level":2},{"id":"parcours-diy","text":"Parcours DIY","level":3},{"id":"parcours-spheris","text":"Parcours Sphèris","level":3},{"id":"conclusion-le-moment-d-action-c-est-maintenant","text":"Conclusion : Le Moment d'Action C'est Maintenant","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+15:null
+16:["$","path","1cmpym",{"d":"M8 2v4"}]
+17:["$","path","4m81vk",{"d":"M16 2v4"}]
+18:["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}]
+19:["$","path","8toen8",{"d":"M3 10h18"}]
+1a:["$","span",null,{"children":"14 février 2025"}]
+1b:["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]
+1c:["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)"}]
+1d:["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Comparatif formations vidéo pour thérapeutes 2025 : cours en ligne, séminaires, coaching, agences. Analyse coûts, ROI, résultats concrets pour choisir la meilleure option."}]
+1e:["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+1f:["$","$L3","30-idees-reels-sophrologues-instagram",{"href":"/blog/30-idees-reels-sophrologues-instagram","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"8 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"13 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Copiez-collez et adaptez à votre pratique. Zéro panne d'inspiration garantie."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}]

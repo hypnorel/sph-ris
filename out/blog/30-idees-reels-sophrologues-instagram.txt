@@ -1,0 +1,502 @@
+1:"$Sreact.fragment"
+2:I[47432,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js"],"default"]
+3:I[91569,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"default"]
+4:I[19327,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"default"]
+f:I[45658,[],"default"]
+:HL["/_next/static/chunks/7ecc96565bfabc8c.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"N6GheZFdJW3eUhOPy0QZ3","c":["","blog","30-idees-reels-sophrologues-instagram"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","30-idees-reels-sophrologues-instagram","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7ecc96565bfabc8c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/faf2ffaea9ba24dd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1fee95e8945bb5a3.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/e787e8e2b7cac42b.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","className":"scroll-smooth antialiased","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}]]}],["$","body",null,{"className":"inter_e896a04f-module__8sRuSG__variable font-sans bg-white text-slate-900","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gradient-to-br from-slate-900 to-primary-900 text-white py-16 px-4","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-12 mb-12","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","h3",null,{"className":"text-3xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-primary-300 to-secondary-300","children":"Sphèris Lab"}],["$","p",null,{"className":"text-slate-300 mb-6 leading-relaxed","children":"L'écosystème complet qui permet aux thérapeutes et coachs de développer leur présence en ligne sans barrière technique, en s'appuyant sur une communauté engagée."}],["$","div",null,{"className":"flex gap-4","children":[["$","a",null,{"href":"https://instagram.com/spheris.lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":[["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073z"}],"$L5"]}]}],"$L6","$L7"]}]]}],"$L8","$L9"]}],"$La"]}]}]]}]]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+12:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"ViewportBoundary"]
+17:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"MetadataBoundary"]
+5:["$","path",null,{"d":"M12 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"}]
+6:["$","a",null,{"href":"https://linkedin.com/company/spheris-lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}]}]
+7:["$","a",null,{"href":"https://youtube.com/@spheris-lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"YouTube","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]
+8:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-bold mb-4 text-white","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/","className":"text-slate-300 hover:text-white transition-colors","children":"Accueil"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/agence","className":"text-slate-300 hover:text-white transition-colors","children":"Agence"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/seminaires","className":"text-slate-300 hover:text-white transition-colors","children":"Séminaires"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/production","className":"text-slate-300 hover:text-white transition-colors","children":"Production"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/blog","className":"text-slate-300 hover:text-white transition-colors","children":"Blog"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/contact","className":"text-slate-300 hover:text-white transition-colors","children":"Contact"}]}]]}]]}]
+9:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-bold mb-4 text-white","children":"Contact"}],["$","ul",null,{"className":"space-y-2 text-slate-300","children":[["$","li",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"📧"}],["$","a",null,{"href":"mailto:contact.hypnorel@gmail.com","className":"hover:text-white transition-colors break-all","children":"contact.hypnorel@gmail.com"}]]}],["$","li",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"📱"}],["$","a",null,{"href":"tel:0606447616","className":"hover:text-white transition-colors","children":"06 06 44 76 16"}]]}]]}]]}]
+a:["$","div",null,{"className":"border-t border-white/10 pt-8","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","p",null,{"className":"text-slate-400 text-sm","children":"© 2025 Sphèris Lab. Tous droits réservés."}],["$","div",null,{"className":"flex flex-wrap justify-center gap-6 text-sm","children":["$","$L10",null,{"href":"/contact/mentions-legales","className":"text-slate-400 hover:text-white transition-colors","children":"Mentions légales"}]}]]}],["$","div",null,{"className":"mt-4 text-center","children":["$","p",null,{"className":"text-slate-500 text-xs","children":"Créé avec passion pour les thérapeutes et coachs qui veulent rayonner ✨"}]}]]}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$@16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$@18"}]}]}],null]}]
+19:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+1a:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+11:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)\",\"image\":\"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-02-08\",\"dateModified\":\"2025-02-08\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Zéro panne d'inspiration garantie.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/30-idees-reels-sophrologues-instagram\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L19",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Vidéo & Production"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"8 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L1b","$L1c","$undefined"]}],"$L1d"]}]]}]]}]]}]]}],"$L1e"]}]]
+1f:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+20:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+1b:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+1c:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+1d:["$","span",null,{"children":"13 min de lecture"}]
+21:T452f,
+Vous êtes sophrologue et vous savez que **Instagram est LA plateforme** pour développer votre visibilité. Les Reels génèrent jusqu'à 300% d'engagement de plus que les posts classiques.
+
+**Mais voici votre problème quotidien :**
+
+*"Qu'est-ce que je poste aujourd'hui ?"*
+*"J'ai déjà parlé de respiration 15 fois..."*
+*"Je tourne en rond sur les mêmes sujets."*
+*"Comment me démarquer des 14 000 autres sophrologues ?"*
+
+La panne d'inspiration est le **tueur silencieux** de votre stratégie de contenu. Elle transforme votre compte Instagram en désert numérique.
+
+**La solution ?** Une banque de 30 idées de Reels prêts à tourner, avec scripts complets, angles uniques, et hashtags optimisés.
+
+Ce guide vous donne **tout le contenu pour 6 mois de publications** (1 Reel tous les 6 jours). Vous n'avez plus qu'à adapter à votre personnalité et appuyer sur "publier".
+
+→ **Stratégie complète** : [Se faire connaître comme thérapeute en 2025](/blog/se-faire-connaitre-therapeute-2025)
+
+## 🧘 Catégorie 1 : Exercices Pratiques Guidés (Reels #1-8)
+
+**Objectif stratégique :** Démontrer votre expertise en action, créer de la valeur immédiate, inciter aux sauvegardes (boost algorithmique).
+
+### Reel #1 : Respiration Anti-Stress Express (3 minutes)
+
+**Script :**
+*"Vous êtes stressé(e) en 3 secondes ? Voici l'exercice que je fais faire à tous mes clients."*
+[Vous montrez l'exercice]
+*"Inspirez par le nez en comptant jusqu'à 4... Bloquez 4 secondes... Expirez doucement par la bouche en 6... Répétez 3 fois."*
+[Vous le faites avec la personne]
+*"Sensation ? Partagez en commentaire ⬇️"*
+
+**Hashtags :** #sophrologie #exercicerespiration #gestiondustress #respirationprofonde #antistress #sophrologueparis #bienetre
+
+**Conseil de tournage :** Filmez en extérieur (parc, nature) pour ambiance apaisante.
+
+---
+
+### Reel #2 : Body Scan de 60 Secondes
+
+**Script :**
+*"60 secondes pour relâcher toutes les tensions de votre corps. Suivez-moi."*
+[Musique douce]
+*"Fermez les yeux... Détendez votre front... vos mâchoires... vos épaules... votre ventre... vos jambes... Respirez profondément."*
+*"Sauvegardez pour refaire ce soir avant de dormir."*
+
+**Hashtags :** #bodyscan #relaxation #sophrologie #sommeil #tensionsmusculaires #meditation
+
+**Conseil :** Voix douce et lente. Musique libre de droits apaisante en fond.
+
+---
+
+### Reel #3 : Technique du Lieu Ressource
+
+**Script :**
+*"Votre cerveau ne fait pas la différence entre une image réelle et imaginée. Voici comment utiliser cette faille."*
+*"1. Fermez les yeux. 2. Imaginez un lieu où vous vous sentez parfaitement bien. 3. Activez tous vos sens : que voyez-vous ? Qu'entendez-vous ? Que sentez-vous ? 4. Restez 2 minutes."*
+*"Votre cortisol (hormone du stress) baisse réellement. Science."*
+
+**Hashtags :** #visualisation #lieuressoure #sophrologie #gestionemotions #techniquedebienetre
+
+---
+
+### Reel #4 : Cohérence Cardiaque (5-5-5)
+
+**Script :**
+*"5 minutes, 5 secondes inspiration, 5 secondes expiration = cœur et cerveau synchronisés."*
+[Vous guidez l'exercice pendant 30 secondes]
+*"Faites ça 3x/jour : matin, midi, soir. Résultats sous 2 semaines. Promis."*
+
+**Hashtags :** #coherencecardiaque #gestiondustress #sophrologie #exercicerespiration #anxiete
+
+**Conseil :** Utilisez une app de cohérence cardiaque visible à l'écran.
+
+---
+
+### Reel #5 : Ancrage Positif Rapide
+
+**Script :**
+*"Créer une ancre positive en 30 secondes (oui, c'est possible)."*
+*"1. Pensez à un moment de pure joie. 2. Revivez-le intensément (images, sons, sensations). 3. Pressez votre pouce et index ensemble. 4. Répétez 5 fois."*
+*"Votre cerveau associe ce geste à cette émotion. Utilisez-le avant un entretien, une présentation..."*
+
+**Hashtags :** #ancragepositif #sophrologie #confianceensoi #preparationmentale
+
+---
+
+### Reel #6 : Exercice du Sas (Transition Travail-Maison)
+
+**Script :**
+*"Vous rentrez du travail encore dans le stress ? Le SAS en 3 étapes."*
+*"1. Avant d'ouvrir la porte de chez vous, arrêtez-vous. 2. Faites 3 grandes respirations. 3. Imaginez-vous enlever une veste invisible (votre stress) et la poser. Puis entrez."*
+*"Testez ce soir. Votre famille va sentir la différence."*
+
+**Hashtags :** #equilibreviepro #transitiontravail #sophrologie #stressautravail #deconnexion
+
+---
+
+### Reel #7 : Technique du Pompage des Épaules
+
+**Script :**
+[Vous montrez]
+*"Tension dans les épaules ? Voici l'exercice que je fais 10x/jour."*
+*"Inspirez en montant les épaules vers les oreilles... Bloquez 3 secondes... Soufflez fort en relâchant d'un coup."*
+*"3 répétitions. Vos trapèzes vous remercient."*
+
+**Hashtags :** #tensionsmusculaires #stressepaules #exercicesophrologie #relachement
+
+---
+
+### Reel #8 : Activation Matinale (Réveil Énergique)
+
+**Script :**
+*"Réveil difficile ? 2 minutes pour activer votre énergie."*
+*"Debout, pieds écartés. Inspirez en montant les bras. Expirez en les redescendant rapidement en disant 'HA !' Répétez 10 fois. Vous êtes réveillé(e)."*
+
+**Hashtags :** #reveilenergie #matinenergetique #sophrologie #bienetre #routinedumat in
+
+---
+
+## 🎓 Catégorie 2 : Éducation & Démystification (Reels #9-15)
+
+**Objectif stratégique :** Établir votre expertise, corriger les idées reçues, positionner la sophrologie comme approche scientifique.
+
+### Reel #9 : Sophrologie vs Hypnose (Différences)
+
+**Script :**
+*"Sophrologie et hypnose : pas la même chose !"*
+*"Hypnose = état modifié de conscience, vous êtes guidé(e)."*
+*"Sophrologie = vous restez conscient(e), vous êtes autonome."*
+*"Les deux sont efficaces, pour des objectifs différents."*
+
+**Hashtags :** #sophrologie #hypnose #differencesophrohypnose #medecinesouce
+
+---
+
+### Reel #10 : Comment Fonctionne La Sophrologie (Cerveau)
+
+**Script :**
+*"Pourquoi la sophrologie marche ? Science inside."*
+[Animation ou schéma]
+*"Quand vous visualisez, vous activez les MÊMES zones cérébrales que si vous viviez la situation. Votre cerveau s'entraîne. C'est du sport mental."*
+
+**Hashtags :** #sophrologiescientifique #cerveauetemotion #neuroplasticite
+
+---
+
+### Reel #11 : 3 Mythes Sur La Sophrologie
+
+**Script :**
+*"3 mythes à détruire sur la sophrologie."*
+*"Mythe 1 : C'est de la relaxation. Faux. C'est de l'entraînement mental."*
+*"Mythe 2 : Il faut des mois pour voir des résultats. Faux. Effets dès la 1ère séance."*
+*"Mythe 3 : C'est ésotérique. Faux. C'est validé scientifiquement."*
+
+**Hashtags :** #mythessophrologie #sophrologiescience #ideesrecues
+
+---
+
+### Reel #12 : Pour Qui ? (Public Cible)
+
+**Script :**
+*"La sophrologie, c'est pour qui ?"*
+[Liste dynamique]
+*"Stress chronique ✅ Anxiété ✅ Troubles du sommeil ✅ Préparation mentale (sport, examens, accouchement) ✅ Gestion de la douleur ✅ Confiance en soi ✅"*
+*"Vous vous reconnaissez ? DM moi."*
+
+**Hashtags :** #publicciblesophrologie #pouvoir #stressanxiete #preparationmentale
+
+---
+
+### Reel #13 : Nombre de Séances (Combien ?)
+
+**Script :**
+*"'Combien de séances ?' — la question N°1."*
+*"Réponse honnête : ça dépend. Stress ponctuel : 3-5 séances. Anxiété chronique : 8-12 séances. Préparation d'un événement : 5-8 séances."*
+*"Chaque personne est unique. On évalue ensemble."*
+
+**Hashtags :** #nombreseances #dureeaccompagnement #sophrologie
+
+---
+
+### Reel #14 : Sophrologie et Sommeil (Pourquoi Ça Marche)
+
+**Script :**
+*"Vous ne dormez plus ? Voici comment la sophrologie agit."*
+*"1. Elle réduit l'hyperactivité mentale. 2. Elle apprend à votre corps à se détendre sur commande. 3. Elle reconditionne votre cerveau au sommeil."*
+*"Résultats en 4-6 semaines."*
+
+**Hashtags :** #sophrologiesommeil #insomnie #troublesdusommeil #dormir
+
+---
+
+### Reel #15 : Sophrologie Pour Les Enfants
+
+**Script :**
+*"Les enfants aussi peuvent faire de la sophrologie !"*
+*"Dès 5 ans, avec des exercices ludiques : respiration du papillon, voyage imaginaire, bulle de protection..."*
+*"Gestion des émotions, concentration, confiance. Game changer."*
+
+**Hashtags :** #sophrologieenfant #gestionemotionsenfant #parentalite
+
+→ **Cadre éthique** : [Réseaux sociaux pour thérapeutes : guide déontologique](/blog/reseaux-sociaux-ethique-therapeutes)
+
+---
+
+## 💬 Catégorie 3 : Témoignages & Transformation (Reels #16-20)
+
+**Objectif stratégique :** Preuve sociale, inspiration, conversion (inciter à la prise de contact).
+
+### Reel #16 : Témoignage Client (Anonymisé)
+
+**Script :**
+*"Elle avait des crises d'angoisse 3x/semaine depuis 2 ans."*
+*"Après 8 séances, elle n'en a plus eu une seule depuis 6 mois."*
+*"Qu'est-ce qui a changé ? Elle a appris à repérer les signaux et à les couper net avec des outils sophro."*
+*"Si vous vivez ça, contactez-moi."*
+
+**Hashtags :** #temoignageclient #crisesdangoisse #sophrologieefficace
+
+**Note éthique :** Anonymisation totale + autorisation écrite obligatoire.
+
+---
+
+### Reel #17 : Mon Parcours (Pourquoi Je Suis Devenue Sophrologue)
+
+**Script :**
+*"Pourquoi je suis devenue sophrologue."*
+*"2018 : burn-out sévère. Médicaments, arrêt de travail, désespoir."*
+*"Une amie me parle de sophrologie. Je teste. Ça change ma vie."*
+*"Aujourd'hui, j'aide les autres à retrouver leur équilibre. C'est ça, ma mission."*
+
+**Hashtags :** #monparcours #reconversion #burnout #sophrologue
+
+→ **Construire sa marque** : [Personal branding pour thérapeutes](/blog/personal-branding-therapeutes-video)
+
+---
+
+### Reel #18 : Avant/Après (Mindset Change)
+
+**Script :**
+*"Mes clients avant/après."*
+*"AVANT : 'Je suis stressé(e) h24, je ne contrôle rien.'"*
+*"APRÈS : 'J'ai des outils, je gère mes émotions, je reprends le pouvoir.'"*
+*"La différence ? 8 à 12 séances et de la pratique quotidienne."*
+
+**Hashtags :** #avantapres #transformation #sophrologieresultats
+
+---
+
+### Reel #19 : Question Client Fréquente (FAQ)
+
+**Script :**
+*"'Est-ce que ça marche vraiment ?' — question qu'on me pose toujours."*
+*"Réponse : oui, MAIS à une condition. Vous devez pratiquer entre les séances. La sophrologie n'est pas magique. C'est de l'entraînement."*
+*"Comme le sport : 1h/semaine ≠ résultats. 15 min/jour = transformation."*
+
+**Hashtags :** #faqsophrologie #pratiquequotidienne #resultats
+
+---
+
+### Reel #20 : Pourquoi Mes Clients Me Choisissent
+
+**Script :**
+*"Pourquoi mes clients me choisissent (leurs mots) :"*
+*"'Tu es vraie, pas dans le blabla.'"*
+*"'Tu comprends vraiment ce que je vis.'"*
+*"'Tes exercices sont concrets, pas abstraits.'"*
+*"Mon approche : scientifique, pragmatique, bienveillante. Point."*
+
+**Hashtags :** #valeurssophrologue #approchepragmatique #choisirsonsophrologue
+
+---
+
+## 🎯 Catégorie 4 : Coulisses & Humanisation (Reels #21-25)
+
+**Objectif stratégique :** Créer une connexion émotionnelle, montrer l'humain derrière le professionnel.
+
+### Reel #21 : Ma Routine Matinale
+
+**Script :**
+*"Ma routine matinale avant de recevoir mes clients."*
+[Montrez votre rituel]
+*"5h45 : réveil. 10 min de cohérence cardiaque. Thé vert. Lecture de 15 min. Je prépare mon espace. Prêt(e) à 8h."*
+*"Si je ne fais pas ça, je ne peux pas accompagner sereinement."*
+
+**Hashtags :** #routinematinale #sophrologueauquotidien #coulisses
+
+---
+
+### Reel #22 : Préparation de Mon Cabinet
+
+**Script :**
+[Timelapse]
+*"Préparer le cabinet pour recevoir mes clients : lumière tamisée, musique douce, température idéale, coussins disposés. Tout compte."*
+*"L'espace thérapeutique, c'est sacré."*
+
+**Hashtags :** #cabinetdetherapie #espacetherapeutique #sophrologie
+
+---
+
+### Reel #23 : Ce Que J'Aimerais Dire À Mes Clients
+
+**Script :**
+*"Ce que j'aimerais dire à mes clients (mais que je ne dis pas toujours)."*
+*"Votre progrès, même minuscule, est une victoire. Vous êtes plus courageux(se) que vous ne le pensez. Ça va aller. Vraiment."*
+
+**Hashtags :** #messagesophrologue #bienveillance #courage
+
+---
+
+### Reel #24 : Les Livres Qui M'Inspirent
+
+**Script :**
+*"3 livres qui ont changé ma pratique de sophrologue."*
+[Montrez les livres]
+*"1. 'Le corps n'oublie rien' de Bessel van der Kolk. 2. 'Cerveau et psycho' (magazine). 3. 'L'intelligence émotionnelle' de Daniel Goleman."*
+
+**Hashtags :** #livresbienetre #formationcontinue #sophrologueenapprentissage
+
+---
+
+### Reel #25 : Journée Type (Vlog Rapide)
+
+**Script :**
+[Montage rapide]
+*"8h : première séance. 10h : séance de groupe. 12h : pause déj (toujours dehors). 14h-18h : consultations individuelles. 18h30 : décompression perso avec... de la sophrologie évidemment."*
+
+**Hashtags :** #journeetypesophrologue #viedesophrologue #quotidienpraticien
+
+---
+
+## 🔥 Catégorie 5 : Engagement & Viral (Reels #26-30)
+
+**Objectif stratégique :** Maximiser la portée, déclencher des partages, créer du débat constructif.
+
+### Reel #26 : 5 Signaux Que Vous Avez Besoin De Sophrologie
+
+**Script :**
+*"5 signaux que votre corps crie à l'aide."*
+*"1. Insomnie régulière. 2. Mâchoires serrées au réveil. 3. Palpitations sans raison. 4. Irritabilité constante. 5. Fatigue même après 8h de sommeil."*
+*"Si vous avez 3/5 : c'est le moment."*
+
+**Hashtags :** #signauxdestress #burnout #ecoutevotrecorps #sophrologie
+
+---
+
+### Reel #27 : Ce Que Les Sophrologues Ne Disent Jamais
+
+**Script :**
+*"Ce que les sophrologues ne disent jamais (mais devraient)."*
+*"1. Oui, parfois JE stresse aussi. 2. Non, je ne suis pas zen h24. 3. Oui, mes outils marchent, mais j'oublie parfois de les utiliser. 4. On est humains avant tout."*
+
+**Hashtags :** #veritesophrologue #authenticitesophrologue
+
+---
+
+### Reel #28 : Sophrologie Pour Enseignants
+
+**Script :**
+*"Sophrologie pour enseignants : mes 3 outils indispensables."*
+*"1. Cohérence cardiaque entre 2 cours. 2. Visualisation positive avant une classe difficile. 3. Sas de décompression en rentrant."*
+*"Enseignants, taggez un(e) collègue qui en a besoin."*
+
+**Hashtags :** #sophrologieenseignants #stressautravail #sophrologieprofessionnelle
+
+**Déclinaisons :** Remplacez par : entrepreneurs, soignants, parents, sportifs...
+
+---
+
+### Reel #29 : Challenge 7 Jours (Engagement)
+
+**Script :**
+*"Challenge 7 jours : une respiration anti-stress par jour."*
+*"Jour 1 : cohérence cardiaque. Jour 2 : respiration ventrale. Jour 3..."*
+*"Commentez 'JE PARTICIPE' et je vous envoie le programme complet en DM."*
+
+**Hashtags :** #challenge7jours #defirespiration #sophrologiechallenge
+
+**Conseil :** Crée de l'engagement massif + collecte de contacts qualifiés.
+
+---
+
+### Reel #30 : La Question Que Vous N'Osez Pas Poser
+
+**Script :**
+*"'Est-ce que la sophrologie peut remplacer mon psy ?' Non."*
+*"Sophrologie = gestion du stress, préparation mentale, développement personnel. Psychothérapie = travail sur les traumas, la personnalité, les schémas profonds."*
+*"Les deux sont complémentaires. Pas concurrents."*
+
+**Hashtags :** #sophrovspsy #complementarite #psychotherapie #sophrologie
+
+---
+
+## 🚀 Bonus : Comment Créer 30 Reels En 2 Jours (Au Lieu De 6 Mois)
+
+Vous avez maintenant **30 idées de Reels** avec scripts complets. Le problème ?
+
+**Créer 30 Reels en solo = 30-60 heures de travail** (tournage, montage, publication).
+
+La plupart des sophrologues abandonnent après 5 Reels par manque de temps et épuisement créatif.
+
+### La méthode révolutionnaire : Batch Video Creation
+
+**Concept :** Créer TOUS vos Reels en une seule session intensive de 2 jours.
+
+Le séminaire immersif Sphèris vous permet de :
+
+✅ **Créer 20-40 vidéos en 2 jours** (format interview + exercices pratiques)
+✅ **Production clés en main** : caméra, éclairage, son professionnel
+✅ **Coaching stratégique** : chaque vidéo validée pour maximiser l'engagement
+✅ **Zéro syndrome de l'imposteur** : vous êtes interviewé(e) par un pair
+✅ **Communauté de soutien** : 6 autres sophrologues/coachs
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+**Résultat concret :**
+
+Au lieu de passer 30-60 heures sur 6 mois, vous investissez **2 jours intensifs** et repartez avec :
+- 20-40 Reels prêts à publier
+- 6-12 mois de contenu planifié
+- Confiance face caméra acquise
+- Réseau de pairs bienveillants
+
+**Témoignage de Lucie, sophrologue :**
+
+> *"J'avais cette liste de 30 idées depuis 8 mois. Je n'avais tourné que 3 vidéos. En 2 jours de séminaire Sphèris, j'ai créé 34 vidéos. Aujourd'hui, 5 mois après, mon Instagram est passé de 180 à 2100 abonnés. 45% de mes nouveaux clients viennent d'Instagram."*
+
+## Conclusion : Plus Jamais En Panne D'Inspiration
+
+Vous avez maintenant **30 concepts de Reels prêts à tourner**, avec scripts détaillés et hashtags optimisés.
+
+Deux options s'offrent à vous :
+
+**Option A :** Créer ces 30 Reels progressivement, seul(e), en luttant contre la procrastination. Temps estimé : 6-12 mois. Taux d'abandon : 80%.
+
+**Option B :** Participer au séminaire Sphèris et créer 20-40 vidéos en 2 jours, avec accompagnement expert. Taux de complétion : 100%.
+
+La question n'est pas "est-ce que je vais créer du contenu vidéo ?". En 2025, c'est une nécessité.
+
+La vraie question : **"Comment vais-je le faire sans m'épuiser ?"**
+
+👉 **[Candidater au séminaire Sphèris](https://spherislab.fr/seminaires)** et transformer ces 30 idées en 30 Reels concrets en un weekend.
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : méthode complète](/blog/creer-20-videos-therapeutes-methode-complete)
+- [Personal branding pour thérapeutes : construire sa marque en vidéo](/blog/personal-branding-therapeutes-video)
+- [Syndrome de l'imposteur face caméra : comment le vaincre](/blog/syndrome-imposteur-camera-therapeutes)
+- [30 idées de vidéos courtes pour thérapeutes](/blog/30-idees-videos-courtes-therapeutes)
+1e:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Copiez-collez et adaptez à votre pratique. Zéro panne d'inspiration garantie."}],["$","div",null,{"className":"mb-8","children":["$","$L1f",null,{"title":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","url":"http://localhost:3000/blog/30-idees-reels-sophrologues-instagram"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$L20",null,{"content":"$21"}]}],"$L22","$L23","$L24"]}],"$L25"]}]}]}]
+30:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+22:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","reels",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","reels"]}],["$","span","instagram",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","instagram"]}],["$","span","sophrologues",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","sophrologues"]}],["$","span","contenu",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","contenu"]}],["$","span","scripts",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","scripts"]}],["$","span","idées vidéo",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","idées vidéo"]}]]}]]}]
+23:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$L1f",null,{"title":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","url":"http://localhost:3000/blog/30-idees-reels-sophrologues-instagram"}]}]
+24:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L10","30-idees-videos-courtes-therapeutes",{"href":"/blog/30-idees-videos-courtes-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L19",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"17 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"23 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 formats de Reels et vidéos courtes testés pour thérapeutes, sophrologues et coachs. Scripts prêts à l'emploi, stratégie de contenu complète et méthode de planification pour attirer des patients qualifiés."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}],["$","$L10","comparatif-formations-video-therapeutes",{"href":"/blog/comparatif-formations-video-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L19",null,{"src":"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop","alt":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":["$L26","$L27","$L28","$L29","$undefined"]}],"$L2a"]}],"$L2b"]}],"$L2c","$L2d","$L2e"]}]]}],"$L2f"]}]]}]
+25:["$","aside",null,{"children":["$","$L30",null,{"headings":[{"id":"categorie-1-exercices-pratiques-guides-reels-1-8","text":"🧘 Catégorie 1 : Exercices Pratiques Guidés (Reels #1-8)","level":2},{"id":"reel-1-respiration-anti-stress-express-3-minutes","text":"Reel #1 : Respiration Anti-Stress Express (3 minutes)","level":3},{"id":"reel-2-body-scan-de-60-secondes","text":"Reel #2 : Body Scan de 60 Secondes","level":3},{"id":"reel-3-technique-du-lieu-ressource","text":"Reel #3 : Technique du Lieu Ressource","level":3},{"id":"reel-4-coherence-cardiaque-5-5-5","text":"Reel #4 : Cohérence Cardiaque (5-5-5)","level":3},{"id":"reel-5-ancrage-positif-rapide","text":"Reel #5 : Ancrage Positif Rapide","level":3},{"id":"reel-6-exercice-du-sas-transition-travail-maison","text":"Reel #6 : Exercice du Sas (Transition Travail-Maison)","level":3},{"id":"reel-7-technique-du-pompage-des-epaules","text":"Reel #7 : Technique du Pompage des Épaules","level":3},{"id":"reel-8-activation-matinale-reveil-energique","text":"Reel #8 : Activation Matinale (Réveil Énergique)","level":3},{"id":"categorie-2-education-demystification-reels-9-15","text":"🎓 Catégorie 2 : Éducation & Démystification (Reels #9-15)","level":2},{"id":"reel-9-sophrologie-vs-hypnose-differences","text":"Reel #9 : Sophrologie vs Hypnose (Différences)","level":3},{"id":"reel-10-comment-fonctionne-la-sophrologie-cerveau","text":"Reel #10 : Comment Fonctionne La Sophrologie (Cerveau)","level":3},{"id":"reel-11-3-mythes-sur-la-sophrologie","text":"Reel #11 : 3 Mythes Sur La Sophrologie","level":3},{"id":"reel-12-pour-qui-public-cible","text":"Reel #12 : Pour Qui ? (Public Cible)","level":3},{"id":"reel-13-nombre-de-seances-combien","text":"Reel #13 : Nombre de Séances (Combien ?)","level":3},{"id":"reel-14-sophrologie-et-sommeil-pourquoi-ca-marche","text":"Reel #14 : Sophrologie et Sommeil (Pourquoi Ça Marche)","level":3},{"id":"reel-15-sophrologie-pour-les-enfants","text":"Reel #15 : Sophrologie Pour Les Enfants","level":3},{"id":"categorie-3-temoignages-transformation-reels-16-20","text":"💬 Catégorie 3 : Témoignages & Transformation (Reels #16-20)","level":2},{"id":"reel-16-temoignage-client-anonymise","text":"Reel #16 : Témoignage Client (Anonymisé)","level":3},{"id":"reel-17-mon-parcours-pourquoi-je-suis-devenue-sophrologue","text":"Reel #17 : Mon Parcours (Pourquoi Je Suis Devenue Sophrologue)","level":3},{"id":"reel-18-avant-apres-mindset-change","text":"Reel #18 : Avant/Après (Mindset Change)","level":3},{"id":"reel-19-question-client-frequente-faq","text":"Reel #19 : Question Client Fréquente (FAQ)","level":3},{"id":"reel-20-pourquoi-mes-clients-me-choisissent","text":"Reel #20 : Pourquoi Mes Clients Me Choisissent","level":3},{"id":"categorie-4-coulisses-humanisation-reels-21-25","text":"🎯 Catégorie 4 : Coulisses & Humanisation (Reels #21-25)","level":2},{"id":"reel-21-ma-routine-matinale","text":"Reel #21 : Ma Routine Matinale","level":3},{"id":"reel-22-preparation-de-mon-cabinet","text":"Reel #22 : Préparation de Mon Cabinet","level":3},{"id":"reel-23-ce-que-j-aimerais-dire-a-mes-clients","text":"Reel #23 : Ce Que J'Aimerais Dire À Mes Clients","level":3},{"id":"reel-24-les-livres-qui-m-inspirent","text":"Reel #24 : Les Livres Qui M'Inspirent","level":3},{"id":"reel-25-journee-type-vlog-rapide","text":"Reel #25 : Journée Type (Vlog Rapide)","level":3},{"id":"categorie-5-engagement-viral-reels-26-30","text":"🔥 Catégorie 5 : Engagement & Viral (Reels #26-30)","level":2},{"id":"reel-26-5-signaux-que-vous-avez-besoin-de-sophrologie","text":"Reel #26 : 5 Signaux Que Vous Avez Besoin De Sophrologie","level":3},{"id":"reel-27-ce-que-les-sophrologues-ne-disent-jamais","text":"Reel #27 : Ce Que Les Sophrologues Ne Disent Jamais","level":3},{"id":"reel-28-sophrologie-pour-enseignants","text":"Reel #28 : Sophrologie Pour Enseignants","level":3},{"id":"reel-29-challenge-7-jours-engagement","text":"Reel #29 : Challenge 7 Jours (Engagement)","level":3},{"id":"reel-30-la-question-que-vous-n-osez-pas-poser","text":"Reel #30 : La Question Que Vous N'Osez Pas Poser","level":3},{"id":"bonus-comment-creer-30-reels-en-2-jours-au-lieu-de-6-mois","text":"🚀 Bonus : Comment Créer 30 Reels En 2 Jours (Au Lieu De 6 Mois)","level":2},{"id":"la-methode-revolutionnaire-batch-video-creation","text":"La méthode révolutionnaire : Batch Video Creation","level":3},{"id":"conclusion-plus-jamais-en-panne-d-inspiration","text":"Conclusion : Plus Jamais En Panne D'Inspiration","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+26:["$","path","1cmpym",{"d":"M8 2v4"}]
+27:["$","path","4m81vk",{"d":"M16 2v4"}]
+28:["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}]
+29:["$","path","8toen8",{"d":"M3 10h18"}]
+2a:["$","span",null,{"children":"14 février 2025"}]
+2b:["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]
+2c:["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)"}]
+2d:["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Comparatif formations vidéo pour thérapeutes 2025 : cours en ligne, séminaires, coaching, agences. Analyse coûts, ROI, résultats concrets pour choisir la meilleure option."}]
+2e:["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+2f:["$","$L10","interviews-croisees-therapeutes",{"href":"/blog/interviews-croisees-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L19",null,{"src":"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=630&fit=crop","alt":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"11 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Découvrez la méthode des interviews croisées : technique collaborative pour thérapeutes qui permet de créer 20-40 vidéos professionnelles en 2 jours. Guide complet avec templates et scripts."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+31:I[6665,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"IconMark"]
+18:[["$","title","0",{"children":"30 Idées de Reels Instagram pour Sophrologues | Scripts Prêts | Sphèris Lab | Sphèris Lab"}],["$","meta","1",{"name":"description","content":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Zéro panne d'inspiration garantie."}],["$","meta","2",{"name":"author","content":"Sphèris Lab"}],["$","meta","3",{"name":"keywords","content":"reels,instagram,sophrologues,contenu,scripts,idées vidéo"}],["$","meta","4",{"name":"creator","content":"Sphèris Lab"}],["$","meta","5",{"name":"publisher","content":"Sphèris Lab"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","9",{"name":"google-site-verification","content":"votre-code-google-search-console"}],["$","meta","10",{"property":"og:title","content":"30 Idées de Reels Instagram pour Sophrologues | Scripts Prêts | Sphèris Lab"}],["$","meta","11",{"property":"og:description","content":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Zéro panne d'inspiration garantie."}],["$","meta","12",{"property":"og:url","content":"http://localhost:3000/blog/30-idees-reels-sophrologues-instagram"}],["$","meta","13",{"property":"og:site_name","content":"Sphèris Lab"}],["$","meta","14",{"property":"og:locale","content":"fr_FR"}],["$","meta","15",{"property":"og:image","content":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2025-02-08"}],["$","meta","21",{"property":"article:author","content":"Sphèris Lab"}],["$","meta","22",{"property":"article:tag","content":"reels"}],["$","meta","23",{"property":"article:tag","content":"instagram"}],["$","meta","24",{"property":"article:tag","content":"sophrologues"}],["$","meta","25",{"property":"article:tag","content":"contenu"}],["$","meta","26",{"property":"article:tag","content":"scripts"}],["$","meta","27",{"property":"article:tag","content":"idées vidéo"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"30 Idées de Reels Instagram pour Sophrologues | Scripts Prêts | Sphèris Lab"}],["$","meta","30",{"name":"twitter:description","content":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Zéro panne d'inspiration garantie."}],["$","meta","31",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop"}],["$","link","32",{"rel":"icon","href":"/icon?b980b2db09a95fac","alt":"$undefined","type":"image/png","sizes":"32x32"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-icon?a604625ab538ed9","alt":"$undefined","type":"image/png","sizes":"180x180"}],["$","$L31","34",{}]]
+14:null

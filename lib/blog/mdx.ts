@@ -12,7 +12,7 @@ if (!fs.existsSync(BLOG_DIR)) {
 }
 
 /**
- * Get all blog posts metadata
+ * Get all blog posts metadata (only published posts - date <= today)
  */
 export function getAllPosts(): BlogPostMetadata[] {
   // Check if directory exists and has files
@@ -25,6 +25,9 @@ export function getAllPosts(): BlogPostMetadata[] {
   if (files.length === 0) {
     return []
   }
+
+  const today = new Date()
+  today.setHours(23, 59, 59, 999) // End of day to include today's posts
 
   const posts = files.map((filename) => {
     const slug = filename.replace('.mdx', '')
@@ -48,6 +51,11 @@ export function getAllPosts(): BlogPostMetadata[] {
       metaDescription: data.metaDescription || data.excerpt,
       readingTime: Math.ceil(stats.minutes),
     } as BlogPostMetadata
+  })
+  .filter((post) => {
+    // Only include posts with dates <= today
+    const postDate = new Date(post.date)
+    return postDate <= today
   })
 
   // Sort by date (most recent first)

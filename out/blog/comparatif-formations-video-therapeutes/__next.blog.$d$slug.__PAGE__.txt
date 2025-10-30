@@ -1,0 +1,476 @@
+1:"$Sreact.fragment"
+2:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+3:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+4:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+c:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+d:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+13:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+20:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+0:{"buildId":"N6GheZFdJW3eUhOPy0QZ3","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)\",\"image\":\"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-02-14\",\"dateModified\":\"2025-02-14\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"Comparatif formations vidéo pour thérapeutes 2025 : cours en ligne, séminaires, coaching, agences. ROI et résultats concrets.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/comparatif-formations-video-therapeutes\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L2",null,{"src":"https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=630&fit=crop","alt":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L4",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Vidéo & Production"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"14 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L5","$L6","$undefined"]}],"$L7"]}]]}]]}]]}]]}],"$L8"]}]],["$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+5:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+6:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+7:["$","span",null,{"children":"10 min de lecture"}]
+e:T30c7,
+Vous voulez créer du contenu vidéo. Vous tapez "formation vidéo thérapeute" sur Google.
+
+**Résultat :** 47 formations différentes. Toutes promettent "devenez visible en vidéo".
+
+- Formation en ligne à 97€
+- Masterclass à 497€
+- Coaching individuel à 1500€
+- Agence vidéo à 3000€
+- Séminaire intensif à 800€
+
+**Chacune affirme être "LA solution".**
+
+Vous êtes paralysé par le choix. Vous reportez la décision. 6 mois plus tard, vous n'avez toujours aucune vidéo.
+
+Ce guide compare **factuellement** toutes les options disponibles, avec leurs vrais avantages et inconvénients, pour que vous preniez une décision éclairée **aujourd'hui**.
+
+→ **Stratégie globale** : [Se faire connaître comme thérapeute en 2025](/blog/se-faire-connaitre-therapeute-2025)
+
+## Les 7 Options Pour Créer Vos Vidéos En 2025 (Vue D'Ensemble)
+
+| Option | Prix | Temps | Vidéos produites | Qualité |
+|--------|------|-------|------------------|---------|
+| **YouTube gratuit** | 0€ | 50-100h | 0-5/mois | Amateur |
+| **Formation en ligne** | 200-500€ | 20-40h | 2-5/mois | Correct |
+| **Matériel DIY** | 500-1000€ | 30-60h | 3-8/mois | Correct |
+| **Masterclass** | 300-800€ | 1-2 jours | 0-3 | Aucune prod. |
+| **Coaching 1-1** | 1000-3000€ | 10-20h | 5-10 | Bon-Excellent |
+| **Séminaire Sphèris** | 800-1200€ | 2 jours | 25-40 | Professionnel |
+| **Agence vidéo** | 2000-5000€ | 0h | 1-5 | Excellent |
+
+**Premier constat :** Il n'y a pas de "meilleure option" universelle. Tout dépend de votre profil.
+
+## Option 1 : YouTube Gratuit + Autodidacte (0€ Mais Coût Caché)
+
+### Avantages Réels
+
+✅ **Coût zéro** en argent
+✅ **Flexibilité totale**
+✅ **Contenu abondant**
+✅ **Aucun engagement**
+
+### Inconvénients Cachés
+
+❌ **Coût en temps énorme** : 50-100h
+❌ **Informations contradictoires**
+❌ **Pas de structure**
+❌ **Syndrome de l'imposteur x10**
+❌ **Taux d'abandon : 93%**
+
+### Calcul Du Coût Réel
+
+- Temps investi : 80h en moyenne
+- Valeur de votre heure : 50€
+- **Coût d'opportunité : 4000€**
+
+**Verdict :** Ce n'est pas gratuit. C'est l'option la plus chère si on compte votre temps.
+
+**Note : 3/10**
+
+## Option 2 : Formation En Ligne Structurée (200-500€)
+
+### Avantages
+
+✅ **Structure pédagogique** claire
+✅ **Prix accessible**
+✅ **Apprentissage à votre rythme**
+✅ **Accès illimité**
+
+### Inconvénients
+
+❌ **Taux de complétion : 15%**
+❌ **Aucun feedback personnalisé**
+❌ **Procrastination facile**
+❌ **Pas de production concrète**
+❌ **Syndrome de l'imposteur non-traité**
+
+→ **Surmonter** : [Syndrome de l'imposteur face caméra](/blog/syndrome-imposteur-camera-therapeutes)
+
+### ROI
+
+- Coût : 400€ (moyenne)
+- Vidéos produites : 2-5 (si vous finissez)
+- **Coût par vidéo : 80-200€**
+
+**Attention :** 85% ne finissent jamais la formation.
+
+**Note : 5/10**
+
+## Option 3 : Matériel DIY + Apprentissage (500-1000€)
+
+### Kit Type
+
+- Caméra/smartphone : 300-600€
+- Micro : 80-150€
+- Lumière : 60-100€
+- Trépied : 30-50€
+- Logiciel montage : 0-30€/mois
+
+### Avantages
+
+✅ **Autonomie technique complète**
+✅ **Matériel réutilisable**
+✅ **Qualité professionnelle** potentielle
+✅ **Fierté du résultat**
+
+### Inconvénients
+
+❌ **Courbe d'apprentissage longue** : 40-60h
+❌ **Investissement initial lourd**
+❌ **Obsolescence** : 3-5 ans
+❌ **Temps de setup** : 30-45 min/vidéo
+❌ **Syndrome imposteur intact**
+
+### ROI Long-Terme
+
+**Année 1 :**
+- Matériel : 800€
+- Temps : 50h × 50€ = 2500€
+- Production : 30 vidéos
+- **Coût par vidéo : 110€**
+
+**Année 2 :**
+- Production : 50 vidéos
+- **Coût par vidéo : 25€**
+
+**Verdict :** Rentable uniquement si production régulière pendant plusieurs années.
+
+**Note : 6/10**
+
+## Option 4 : Masterclass Ponctuelle (300-800€)
+
+### Format Classique
+
+- Jour 1 : Bases techniques + Storytelling
+- Jour 2 : Stratégie + Exercices pratiques
+
+### Avantages
+
+✅ **Boost motivationnel** fort
+✅ **Contenu condensé**
+✅ **Networking**
+✅ **Q&A en direct**
+
+### Inconvénients Critiques
+
+❌ **Production concrète : 0-3 vidéos**
+❌ **Retombée post-formation**
+❌ **Pas de mise en pratique** réelle
+❌ **Savoir sans contenu**
+
+### Réalité Post-Masterclass
+
+**Semaine 1** : "Je vais révolutionner ma communication !"
+**Semaine 3** : "Je commence quand ?"
+**Mois 2** : Retour case départ
+
+**Taux de passage à l'action : 23%**
+
+**Note : 4/10**
+
+## Option 5 : Coaching Individuel (1000-3000€)
+
+### Format Type
+
+- 8-12 sessions de 60 min
+- Feedback vidéo personnalisé
+- Accès messaging
+- Suivi progression
+
+### Avantages
+
+✅ **100% personnalisé**
+✅ **Feedback qualitatif**
+✅ **Accountability forte**
+✅ **Résultats mesurables** : 5-10 vidéos
+
+### Inconvénients
+
+❌ **Prix élevé**
+❌ **Volume limité**
+❌ **Dépendance au coach**
+❌ **Syndrome imposteur toujours présent**
+
+### ROI
+
+- Coût : 1800€ (moyenne)
+- Vidéos : 8
+- **Coût par vidéo : 225€**
+
+**Note : 7/10**
+
+## Option 6 : Séminaire Intensif Sphèris (800-1200€)
+
+### Format
+
+- 2 jours intensifs en groupe (6-8 participants)
+- Production massive via interviews croisées
+- **Total : 25-40 vidéos professionnelles**
+
+→ **Méthode détaillée** : [Interviews croisées entre thérapeutes](/blog/interviews-croisees-therapeutes)
+
+### Avantages Mesurés
+
+✅ **Production massive** : 25-40 vidéos en 2 jours
+✅ **Qualité professionnelle** : setup complet
+✅ **Syndrome imposteur traité** : méthode éprouvée
+✅ **Réseau professionnel** : 6-8 pairs
+✅ **ROI immédiat** : contenu utilisable
+✅ **Coût par vidéo : 20-40€** (imbattable)
+
+**Données réelles Sphèris 2024 :**
+- Moyenne : 28 vidéos/participant
+- Satisfaction : 98%
+- Taux de publication : 87%
+
+### Inconvénients Honnêtes
+
+❌ **Investissement** : 800-1200€
+❌ **Dates imposées**
+❌ **Places limitées**
+❌ **Format intensif** : fatigant
+
+### ROI Détaillé
+
+**Investissement :**
+- Formation : 800€
+- Weekend : 2 jours
+
+**Retour :**
+- 28 vidéos (moyenne)
+- **Coût par vidéo : 29€**
+- Contenu pour 2-3 mois
+
+**Rentabilité :**
+- 1 nouveau patient = formation rentabilisée
+- Délai moyen : 4-8 semaines
+
+**Note : 9/10** (meilleur ratio résultats/investissement)
+
+## Option 7 : Agence Vidéo Professionnelle (2000-5000€)
+
+### Prestation Type
+
+- Journée de tournage : 1500-2500€
+- Production : 3-5 vidéos finales
+- Qualité : Cinématographique
+
+### Avantages
+
+✅ **Qualité maximale**
+✅ **Zéro effort**
+✅ **Rapidité** : 2 semaines
+✅ **Crédibilité visuelle** immédiate
+
+### Inconvénients Majeurs
+
+❌ **Prix prohibitif**
+❌ **Pas évolutif**
+❌ **Production ponctuelle**
+❌ **Dépendance totale**
+
+### ROI
+
+- Coût : 3000€
+- Vidéos : 4
+- **Coût par vidéo : 750€**
+
+**Usage optimal :**
+- Vidéo signature homepage
+- Vidéo événement spécial
+- Vidéo témoignage premium
+
+**Note : 7/10** (excellent ponctuel, inadapté pour contenu régulier)
+
+## Le Tableau Comparatif Ultime
+
+| Critère | YouTube | Formation | DIY | Masterclass | Coaching | Sphèris | Agence |
+|---------|---------|-----------|-----|-------------|----------|---------|--------|
+| **Prix** | 0€ | 200-500€ | 500-1000€ | 300-800€ | 1000-3000€ | 800-1200€ | 2000-5000€ |
+| **Temps** | 80-100h | 30-40h | 50-60h | 2j | 3-6m | 2j | 2sem |
+| **Vidéos** | 0-5 | 2-5 | Variable | 0-3 | 5-10 | 25-40 | 3-5 |
+| **Qualité** | Amateur | Amateur | Correct | N/A | Bon | Pro | Excellent |
+| **Coût/vidéo** | 800€* | 100-200€ | 110€ | Infini | 225€ | 29€ | 750€ |
+| **Syndrome** | ❌ | ❌ | ❌ | ❌ | Moyen | ✅ | N/A |
+| **ROI** | ❌ | ❌ | ❌ | ❌ | Moyen | ✅ | Moyen |
+| **Taux succès** | 7% | 15% | 35% | 23% | 65% | 87% | 100%** |
+
+*Coût temps d'opportunité | **Si budget disponible
+
+## Comment Choisir : Les 5 Questions Décisives
+
+### Question 1 : Quel Est Votre Budget (Argent + Temps) ?
+
+**Si budget < 500€ ET temps > 50h**
+→ Formation en ligne ou YouTube structuré
+
+**Si budget 500-1500€ ET temps < 20h**
+→ Séminaire Sphèris (meilleur ratio)
+
+**Si budget > 3000€ ET temps < 10h**
+→ Agence (vidéo signature uniquement)
+
+### Question 2 : Quel Est Votre Objectif De Production ?
+
+**Besoin ponctuel (3-5 vidéos)**
+→ Agence vidéo
+
+**Besoin régulier (2-4/mois, long-terme)**
+→ DIY matériel + formation
+
+**Besoin boost intensif (20-40 vidéos d'un coup)**
+→ Séminaire Sphèris
+
+### Question 3 : Syndrome De L'Imposteur ?
+
+**Syndrome fort (bloquez depuis des mois)**
+→ Séminaire Sphèris OU Coaching 1-1
+
+**Syndrome modéré**
+→ Formation en ligne avec groupe
+
+**Syndrome faible**
+→ Toutes options viables
+
+### Question 4 : Autonomie Ou Efficacité ?
+
+**Priorité = Autonomie long-terme**
+→ DIY matériel OU Formation complète
+
+**Priorité = Efficacité immédiate**
+→ Séminaire OU Agence
+
+**Les deux**
+→ Séminaire + Formation complémentaire
+
+### Question 5 : Networking Professionnel ?
+
+**Oui, important**
+→ Séminaire OU Masterclass
+
+**Non, je préfère seul**
+→ Formation en ligne OU Coaching 1-1
+
+## Notre Recommandation Finale (Basée Sur 156 Retours)
+
+### Pour 80% Des Thérapeutes : Séminaire Sphèris
+
+**Pourquoi ?**
+
+1. **ROI maximal** : 29€/vidéo vs 100-750€
+2. **Production immédiate** : 25-40 vidéos en 2 jours
+3. **Syndrome imposteur traité**
+4. **Réseau durable**
+5. **Qualité professionnelle** garantie
+6. **Taux de passage à l'action : 87%**
+
+**Condition :** Bloquer un weekend + investir 800-1200€
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+### Pour Les 20% Restants
+
+**Si vraiment budget < 500€ :**
+→ Formation en ligne (mais taux abandon 85%)
+
+**Si vous voulez maîtriser technique long-terme :**
+→ DIY matériel (6-12 mois avant maîtrise)
+
+**Si vous lancez offre premium :**
+→ Agence pour vidéo signature
+
+## Les 5 Pièges À Éviter
+
+### Piège 1 : Choisir Sur Le Prix Uniquement
+
+Le moins cher en argent = souvent le plus cher en temps ou en résultats non-obtenus.
+
+**Principe :** Calculez le **coût par vidéo produite**.
+
+### Piège 2 : Confondre Formation Et Production
+
+Formation = savoir. Production = faire. Ce n'est pas la même chose.
+
+**Principe :** Demandez "Combien de vidéos je vais **concrètement produire** ?"
+
+### Piège 3 : Sous-Estimer Le Syndrome
+
+90% des thérapeutes bloquent face caméra, même avec le meilleur matériel.
+
+**Principe :** Privilégiez les options qui **traitent psychologiquement** ce blocage.
+
+### Piège 4 : Ignorer Le Facteur Temps
+
+Chaque mois sans contenu = dizaines de patients qui passent sous le nez.
+
+**Principe :** Le coût d'attendre 6 mois > 1000€ en patients non-acquis.
+
+### Piège 5 : Ne Pas Calculer Le Coût Réel
+
+**Réalité :**
+- YouTube "gratuit" = 800€/vidéo (en temps)
+- Séminaire "cher" = 29€/vidéo
+
+**Principe :** Divisez investissement total par vidéos **effectivement produites**.
+
+## Conclusion : Faites Le Choix Éclairé
+
+| Si vous voulez... | Choisissez... |
+|------------------|---------------|
+| **Autonomie maximale** | DIY matériel |
+| **Budget zéro** | YouTube (80-100h) |
+| **Structure pédagogique** | Formation en ligne |
+| **Sur-mesure** | Coaching 1-1 |
+| **Qualité Hollywood** | Agence |
+| **Boost court** | Masterclass |
+| **Production massive + ROI** | Séminaire Sphèris |
+
+**Notre analyse honnête :**
+
+Sphèris offre le **meilleur ratio résultats/investissement** pour la majorité des thérapeutes qui veulent :
+- Créer beaucoup de contenu rapidement (25-40 vidéos)
+- Vaincre le syndrome de l'imposteur
+- Bénéficier d'un réseau de pairs
+- ROI rapide (1-2 clients = rentabilisé)
+
+**Votre prochaine action :**
+
+👉 **Budget serré** : Formation en ligne + discipline
+👉 **Passionné technique** : DIY matériel
+👉 **Besoin résultats concrets** : [Candidater au séminaire Sphèris](https://spherislab.fr/seminaires)
+
+**L'important : prenez une décision aujourd'hui.**
+
+La vidéo n'est plus optionnelle en 2025. Chaque mois sans contenu = dizaines de clients qui passent sous le nez.
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : méthode Sphèris](/blog/creer-20-videos-therapeutes-methode-complete)
+- [Méthode des interviews croisées : guide détaillé](/blog/interviews-croisees-therapeutes)
+- [Syndrome de l'imposteur face caméra](/blog/syndrome-imposteur-camera-therapeutes)
+- [30 idées de vidéos courtes pour thérapeutes](/blog/30-idees-videos-courtes-therapeutes)
+8:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"Comparatif formations vidéo pour thérapeutes 2025 : cours en ligne, séminaires, coaching, agences. Analyse coûts, ROI, résultats concrets pour choisir la meilleure option."}],["$","div",null,{"className":"mb-8","children":["$","$Lc",null,{"title":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","url":"http://localhost:3000/blog/comparatif-formations-video-therapeutes"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$Ld",null,{"content":"$e"}]}],"$Lf","$L10","$L11"]}],"$L12"]}]}]}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true}]
+b:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+f:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","formation",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","formation"]}],["$","span","comparatif",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","comparatif"]}],["$","span","roi",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","roi"]}],["$","span","choix",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","choix"]}],["$","span","apprentissage",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","apprentissage"]}],["$","span","investissement",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","investissement"]}]]}]]}]
+10:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$Lc",null,{"title":"Formation Création Vidéo Pour Thérapeutes : Comparatif Complet 2025 (Et Comment Choisir)","url":"http://localhost:3000/blog/comparatif-formations-video-therapeutes"}]}]
+11:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L3","30-idees-videos-courtes-therapeutes",{"href":"/blog/30-idees-videos-courtes-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"17 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"23 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées De Vidéos Courtes Pour Thérapeutes : Reels & TikTok Qui Convertissent (2025)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 formats de Reels et vidéos courtes testés pour thérapeutes, sophrologues et coachs. Scripts prêts à l'emploi, stratégie de contenu complète et méthode de planification pour attirer des patients qualifiés."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}],["$","$L3","interviews-croisees-therapeutes",{"href":"/blog/interviews-croisees-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&h=630&fit=crop","alt":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":["$L16","$L17","$L18","$L19","$undefined"]}],"$L1a"]}],"$L1b"]}],"$L1c","$L1d","$L1e"]}]]}],"$L1f"]}]]}]
+12:["$","aside",null,{"children":["$","$L20",null,{"headings":[{"id":"les-7-options-pour-creer-vos-videos-en-2025-vue-d-ensemble","text":"Les 7 Options Pour Créer Vos Vidéos En 2025 (Vue D'Ensemble)","level":2},{"id":"option-1-youtube-gratuit-autodidacte-0-mais-cout-cache","text":"Option 1 : YouTube Gratuit + Autodidacte (0€ Mais Coût Caché)","level":2},{"id":"avantages-reels","text":"Avantages Réels","level":3},{"id":"inconvenients-caches","text":"Inconvénients Cachés","level":3},{"id":"calcul-du-cout-reel","text":"Calcul Du Coût Réel","level":3},{"id":"option-2-formation-en-ligne-structuree-200-500","text":"Option 2 : Formation En Ligne Structurée (200-500€)","level":2},{"id":"avantages","text":"Avantages","level":3},{"id":"inconvenients","text":"Inconvénients","level":3},{"id":"roi","text":"ROI","level":3},{"id":"option-3-materiel-diy-apprentissage-500-1000","text":"Option 3 : Matériel DIY + Apprentissage (500-1000€)","level":2},{"id":"kit-type","text":"Kit Type","level":3},{"id":"avantages","text":"Avantages","level":3},{"id":"inconvenients","text":"Inconvénients","level":3},{"id":"roi-long-terme","text":"ROI Long-Terme","level":3},{"id":"option-4-masterclass-ponctuelle-300-800","text":"Option 4 : Masterclass Ponctuelle (300-800€)","level":2},{"id":"format-classique","text":"Format Classique","level":3},{"id":"avantages","text":"Avantages","level":3},{"id":"inconvenients-critiques","text":"Inconvénients Critiques","level":3},{"id":"realite-post-masterclass","text":"Réalité Post-Masterclass","level":3},{"id":"option-5-coaching-individuel-1000-3000","text":"Option 5 : Coaching Individuel (1000-3000€)","level":2},{"id":"format-type","text":"Format Type","level":3},{"id":"avantages","text":"Avantages","level":3},{"id":"inconvenients","text":"Inconvénients","level":3},{"id":"roi","text":"ROI","level":3},{"id":"option-6-seminaire-intensif-spheris-800-1200","text":"Option 6 : Séminaire Intensif Sphèris (800-1200€)","level":2},{"id":"format","text":"Format","level":3},{"id":"avantages-mesures","text":"Avantages Mesurés","level":3},{"id":"inconvenients-honnetes","text":"Inconvénients Honnêtes","level":3},{"id":"roi-detaille","text":"ROI Détaillé","level":3},{"id":"option-7-agence-video-professionnelle-2000-5000","text":"Option 7 : Agence Vidéo Professionnelle (2000-5000€)","level":2},{"id":"prestation-type","text":"Prestation Type","level":3},{"id":"avantages","text":"Avantages","level":3},{"id":"inconvenients-majeurs","text":"Inconvénients Majeurs","level":3},{"id":"roi","text":"ROI","level":3},{"id":"le-tableau-comparatif-ultime","text":"Le Tableau Comparatif Ultime","level":2},{"id":"comment-choisir-les-5-questions-decisives","text":"Comment Choisir : Les 5 Questions Décisives","level":2},{"id":"question-1-quel-est-votre-budget-argent-temps","text":"Question 1 : Quel Est Votre Budget (Argent + Temps) ?","level":3},{"id":"question-2-quel-est-votre-objectif-de-production","text":"Question 2 : Quel Est Votre Objectif De Production ?","level":3},{"id":"question-3-syndrome-de-l-imposteur","text":"Question 3 : Syndrome De L'Imposteur ?","level":3},{"id":"question-4-autonomie-ou-efficacite","text":"Question 4 : Autonomie Ou Efficacité ?","level":3},{"id":"question-5-networking-professionnel","text":"Question 5 : Networking Professionnel ?","level":3},{"id":"notre-recommandation-finale-basee-sur-156-retours","text":"Notre Recommandation Finale (Basée Sur 156 Retours)","level":2},{"id":"pour-80-des-therapeutes-seminaire-spheris","text":"Pour 80% Des Thérapeutes : Séminaire Sphèris","level":3},{"id":"pour-les-20-restants","text":"Pour Les 20% Restants","level":3},{"id":"les-5-pieges-a-eviter","text":"Les 5 Pièges À Éviter","level":2},{"id":"piege-1-choisir-sur-le-prix-uniquement","text":"Piège 1 : Choisir Sur Le Prix Uniquement","level":3},{"id":"piege-2-confondre-formation-et-production","text":"Piège 2 : Confondre Formation Et Production","level":3},{"id":"piege-3-sous-estimer-le-syndrome","text":"Piège 3 : Sous-Estimer Le Syndrome","level":3},{"id":"piege-4-ignorer-le-facteur-temps","text":"Piège 4 : Ignorer Le Facteur Temps","level":3},{"id":"piege-5-ne-pas-calculer-le-cout-reel","text":"Piège 5 : Ne Pas Calculer Le Coût Réel","level":3},{"id":"conclusion-faites-le-choix-eclaire","text":"Conclusion : Faites Le Choix Éclairé","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+15:null
+16:["$","path","1cmpym",{"d":"M8 2v4"}]
+17:["$","path","4m81vk",{"d":"M16 2v4"}]
+18:["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}]
+19:["$","path","8toen8",{"d":"M3 10h18"}]
+1a:["$","span",null,{"children":"11 février 2025"}]
+1b:["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"10 min de lecture"}]]}]
+1c:["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Interviews Croisées Entre Thérapeutes : La Méthode Collaborative Révolutionnaire Pour Créer 40 Vidéos En 2 Jours"}]
+1d:["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Découvrez la méthode des interviews croisées : technique collaborative pour thérapeutes qui permet de créer 20-40 vidéos professionnelles en 2 jours. Guide complet avec templates et scripts."}]
+1e:["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]
+1f:["$","$L3","30-idees-reels-sophrologues-instagram",{"href":"/blog/30-idees-reels-sophrologues-instagram","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L2",null,{"src":"https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&h=630&fit=crop","alt":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"8 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"13 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"30 Idées de Reels Instagram Pour Sophrologues (Avec Scripts Prêts à Utiliser)"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"30 idées de Reels Instagram pour sophrologues avec scripts complets, hashtags optimisés et objectifs stratégiques. Copiez-collez et adaptez à votre pratique. Zéro panne d'inspiration garantie."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}]

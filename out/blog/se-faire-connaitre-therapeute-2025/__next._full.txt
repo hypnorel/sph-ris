@@ -1,0 +1,540 @@
+1:"$Sreact.fragment"
+2:I[47432,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js"],"default"]
+3:I[91569,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"default"]
+4:I[19327,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"default"]
+f:I[45658,[],"default"]
+:HL["/_next/static/chunks/7ecc96565bfabc8c.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"N6GheZFdJW3eUhOPy0QZ3","c":["","blog","se-faire-connaitre-therapeute-2025"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","se-faire-connaitre-therapeute-2025","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7ecc96565bfabc8c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/faf2ffaea9ba24dd.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1fee95e8945bb5a3.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/e787e8e2b7cac42b.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","className":"scroll-smooth antialiased","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}]]}],["$","body",null,{"className":"inter_e896a04f-module__8sRuSG__variable font-sans bg-white text-slate-900","children":[["$","$L2",null,{}],["$","main",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gradient-to-br from-slate-900 to-primary-900 text-white py-16 px-4","children":["$","div",null,{"className":"max-w-6xl mx-auto","children":[["$","div",null,{"className":"grid md:grid-cols-4 gap-12 mb-12","children":[["$","div",null,{"className":"md:col-span-2","children":[["$","h3",null,{"className":"text-3xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-primary-300 to-secondary-300","children":"Sphèris Lab"}],["$","p",null,{"className":"text-slate-300 mb-6 leading-relaxed","children":"L'écosystème complet qui permet aux thérapeutes et coachs de développer leur présence en ligne sans barrière technique, en s'appuyant sur une communauté engagée."}],["$","div",null,{"className":"flex gap-4","children":[["$","a",null,{"href":"https://instagram.com/spheris.lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":[["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073z"}],"$L5"]}]}],"$L6","$L7"]}]]}],"$L8","$L9"]}],"$La"]}]}]]}]]}]]}],{"children":["$Lb",{"children":["$Lc",{"children":["$Ld",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[50453,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],""]
+12:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"ViewportBoundary"]
+17:I[73839,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"MetadataBoundary"]
+5:["$","path",null,{"d":"M12 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"}]
+6:["$","a",null,{"href":"https://linkedin.com/company/spheris-lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"LinkedIn","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}]}]
+7:["$","a",null,{"href":"https://youtube.com/@spheris-lab","target":"_blank","rel":"noopener noreferrer","className":"bg-white/10 hover:bg-white/20 p-3 rounded-full transition-colors","aria-label":"YouTube","children":["$","svg",null,{"className":"w-6 h-6","fill":"currentColor","viewBox":"0 0 24 24","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]
+8:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-bold mb-4 text-white","children":"Navigation"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L10",null,{"href":"/","className":"text-slate-300 hover:text-white transition-colors","children":"Accueil"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/agence","className":"text-slate-300 hover:text-white transition-colors","children":"Agence"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/seminaires","className":"text-slate-300 hover:text-white transition-colors","children":"Séminaires"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/production","className":"text-slate-300 hover:text-white transition-colors","children":"Production"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/blog","className":"text-slate-300 hover:text-white transition-colors","children":"Blog"}]}],["$","li",null,{"children":["$","$L10",null,{"href":"/contact","className":"text-slate-300 hover:text-white transition-colors","children":"Contact"}]}]]}]]}]
+9:["$","div",null,{"children":[["$","h4",null,{"className":"text-lg font-bold mb-4 text-white","children":"Contact"}],["$","ul",null,{"className":"space-y-2 text-slate-300","children":[["$","li",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"📧"}],["$","a",null,{"href":"mailto:contact.hypnorel@gmail.com","className":"hover:text-white transition-colors break-all","children":"contact.hypnorel@gmail.com"}]]}],["$","li",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"children":"📱"}],["$","a",null,{"href":"tel:0606447616","className":"hover:text-white transition-colors","children":"06 06 44 76 16"}]]}]]}]]}]
+a:["$","div",null,{"className":"border-t border-white/10 pt-8","children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4","children":[["$","p",null,{"className":"text-slate-400 text-sm","children":"© 2025 Sphèris Lab. Tous droits réservés."}],["$","div",null,{"className":"flex flex-wrap justify-center gap-6 text-sm","children":["$","$L10",null,{"href":"/contact/mentions-legales","className":"text-slate-400 hover:text-white transition-colors","children":"Mentions légales"}]}]]}],["$","div",null,{"className":"mt-4 text-center","children":["$","p",null,{"className":"text-slate-500 text-xs","children":"Créé avec passion pour les thérapeutes et coachs qui veulent rayonner ✨"}]}]]}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/_next/static/chunks/fffa514563cfe879.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/ecbf9eacc9620121.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+e:["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$@16"}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$@18"}]}]}],null]}]
+19:I[616,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"Image"]
+1a:I[15353,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"FadeInUp"]
+11:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)\",\"image\":\"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop\",\"datePublished\":\"2025-01-30\",\"dateModified\":\"2025-01-30\",\"author\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sphèris Lab\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"http://localhost:3000/logo.png\"}},\"description\":\"Guide complet 2025 pour thérapeutes et coachs : 7 stratégies éprouvées pour se faire connaître, développer son cabinet et attirer des clients idéaux.\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"http://localhost:3000/blog/se-faire-connaitre-therapeute-2025\"}}"}}],["$","main",null,{"className":"min-h-screen","children":[["$","section",null,{"className":"relative py-20 px-4 bg-gradient-to-b from-slate-900 to-slate-800 text-white overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0","children":[["$","$L19",null,{"src":"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop","alt":"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)","fill":true,"className":"object-cover opacity-20"}],["$","div",null,{"className":"absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/80 to-transparent"}]]}],["$","div",null,{"className":"relative max-w-4xl mx-auto","children":[["$","$L10",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-white/80 hover:text-white mb-8 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Retour au blog"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-4 py-1.5 text-sm font-semibold bg-gradient-to-r from-primary-500 to-secondary-500 rounded-full","children":"Marketing Digital"}]}],["$","h1",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight","children":"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-slate-300","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-user w-4 h-4","aria-hidden":"true","children":[["$","path","975kel",{"d":"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"}],["$","circle","17ys0d",{"cx":"12","cy":"7","r":"4"}],"$undefined"]}],["$","span",null,{"children":"Sphèris Lab"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"30 janvier 2025"}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":["$L1b","$L1c","$undefined"]}],"$L1d"]}]]}]]}]]}]]}],"$L1e"]}]]
+1f:I[4667,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+20:I[382,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+1b:["$","path","mmk7yg",{"d":"M12 6v6l4 2"}]
+1c:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+1d:["$","span",null,{"children":"17 min de lecture"}]
+21:T5808,
+Vous avez investi des années de formation, des milliers d'euros en certifications, vous maîtrisez votre pratique thérapeutique... **mais votre cabinet ne se remplit pas**.
+
+Le problème n'est pas votre compétence. Le problème est votre visibilité.
+
+En 2025, être un excellent thérapeute ne suffit plus. Vous devez aussi **être trouvable, reconnaissable et crédible** aux yeux de vos clients potentiels. Et ça, personne ne vous l'a enseigné en formation.
+
+Ce guide complet regroupe **7 stratégies éprouvées** utilisées par les thérapeutes qui ont des cabinets florissants et des listes d'attente de plusieurs semaines. Mais surtout, je vais vous révéler **la stratégie #8 que 95% des thérapeutes n'utilisent pas encore** — et qui peut transformer votre visibilité en quelques mois.
+
+## Statistiques clés à retenir
+
+- 78% des personnes cherchent un thérapeute sur Google avant de prendre rendez-vous
+- 63% consultent les réseaux sociaux du praticien pour "sentir" si le courant peut passer
+- Un thérapeute avec stratégie digitale active génère en moyenne **3x plus de demandes** qu'un praticien sans présence en ligne
+
+**Temps de lecture :** 12 minutes
+**Applicable immédiatement :** Oui
+**Investissement nécessaire :** De 0€ à 800€ selon les stratégies
+
+## Stratégie #1 : Maîtriser le Référencement Local (SEO Local)
+
+### Pourquoi le SEO local est votre priorité absolue
+
+Quand quelqu'un cherche "sophrologue Paris 15" ou "hypnothérapeute Marseille", Google lui propose une **carte avec 3 résultats mis en avant** (le fameux "Local Pack"). Si vous n'y êtes pas, vous êtes invisible pour 80% des recherches locales.
+
+### Les 5 actions concrètes pour dominer le SEO local
+
+**Action #1 : Créer et optimiser votre fiche Google Business Profile**
+
+C'est gratuit, ça prend 30 minutes, et c'est la base absolue.
+
+✅ **Checklist d'optimisation :**
+- Nom exact de votre cabinet (pas de keyword stuffing)
+- Catégorie principale ultra-précise (ex: "Sophrologue" pas "Praticien bien-être")
+- Adresse complète et vérifiée
+- Numéro de téléphone cliquable
+- Horaires d'ouverture à jour
+- Description de 750 caractères utilisant naturellement vos mots-clés
+- 10-15 photos professionnelles (cabinet, vous, équipement)
+- Publication hebdomadaire d'actualités/conseils
+
+**Action #2 : Collecter systématiquement des avis clients**
+
+Les avis Google sont le critère #1 de classement local. Un thérapeute avec 50 avis 4,8★ dominera toujours un concurrent avec 5 avis 5★.
+
+**Méthode de collecte non-intrusive :**
+1. Après une séance réussie, envoyez un SMS : *"Bonjour [Prénom], j'espère que notre séance vous a aidé(e). Si c'est le cas, un avis Google m'aiderait beaucoup à faire découvrir mon accompagnement à d'autres personnes. Voici le lien : [URL courte]. Merci infiniment !"*
+2. Objectif : 2-3 nouveaux avis par mois
+3. Répondez TOUJOURS à tous les avis (positifs comme négatifs)
+
+**Action #3 : Créer des pages localisées sur votre site**
+
+Si vous pratiquez à Lyon 3ème, créez une page "Sophrologue Lyon 3" avec :
+- Description de votre pratique dans ce quartier spécifique
+- Adresse et plan d'accès détaillé
+- Mentions de lieux connus du quartier (gare, métro, places)
+- Témoignages de clients de ce secteur (anonymisés)
+
+**Action #4 : Obtenir des citations locales cohérentes**
+
+Inscrivez-vous sur :
+- Médoucine (plateforme majeure de praticiens bien-être)
+- Résalib / Doctolib selon votre pratique
+- PagesJaunes (oui, encore utile en 2025)
+- Annuaires professionnels de votre spécialité
+
+**Critère crucial :** Votre NAP (Nom, Adresse, Téléphone) doit être IDENTIQUE sur tous ces sites.
+
+**Action #5 : Créer du contenu local sur votre blog**
+
+Articles type :
+- "Où pratiquer la méditation à [Ville] : mes 5 lieux préférés"
+- "Sophrologie à [Quartier] : pourquoi les habitants consultent de plus en plus"
+- "Événements bien-être à [Ville] en [Mois]"
+
+### Résultats attendus du SEO local
+
+**Court terme (1-3 mois) :** Apparition dans les résultats locaux
+**Moyen terme (3-6 mois) :** Présence dans le Local Pack Google (top 3)
+**Long terme (6-12 mois) :** 30-50% de vos nouveaux clients viennent de recherches Google locales
+
+**Investissement :** 0-300€
+
+## Stratégie #2 : Développer un Réseau de Prescripteurs Actifs
+
+### Le pouvoir méconnu des partenariats professionnels
+
+Un médecin, un pharmacien, un coach sportif ou un autre thérapeute complémentaire peut vous envoyer **5 à 10 clients par mois** s'il a confiance en vous et comprend votre valeur ajoutée.
+
+### Comment identifier les bons prescripteurs potentiels
+
+**Prescripteurs naturels selon votre spécialité :**
+
+- **Sophrologues** : médecins généralistes, sages-femmes, oncologues, coachs sportifs
+- **Naturopathes** : pharmaciens, nutritionnistes, ostéopathes, magasins bio
+- **Hypnothérapeutes** : psychologues, addictologues, dentistes (phobie dentaire), tabacologues
+- **Coachs de vie** : RH d'entreprises, coachs sportifs, thérapeutes de couple
+- **Psychologues** : médecins, psychiatres, écoles, assistantes sociales
+
+### La méthode en 4 étapes pour créer un partenariat prescripteur
+
+**Étape 1 : L'approche professionnelle**
+
+❌ Mauvaise approche : *"Bonjour, je suis sophrologue, envoyez-moi des clients"*
+
+✅ Bonne approche : *"Bonjour Dr [Nom], je suis [Prénom], sophrologue spécialisé(e) en gestion du stress chronique. Je constate que beaucoup de vos patients pourraient bénéficier d'un accompagnement complémentaire. J'aimerais vous présenter ma pratique autour d'un café, sans engagement. Seriez-vous disponible 20 minutes la semaine prochaine ?"*
+
+**Étape 2 : La rencontre de découverte**
+
+Objectif : créer une relation de confiance, PAS vendre.
+
+- Présentez votre parcours et votre spécialisation
+- Expliquez COMMENT vous travaillez (protocoles, nombre de séances)
+- Donnez des exemples de cas concrets (anonymisés)
+- Identifiez les types de profils que vous pouvez aider
+- Proposez une séance découverte gratuite
+
+**Étape 3 : Faciliter la prescription**
+
+Créez un **support de prescription** simple :
+- Carte de visite avec QR code vers votre calendrier
+- Flyer 1 page "Qui peut bénéficier de la sophrologie ?"
+- Email type que le prescripteur peut transférer au patient
+
+**Étape 4 : Entretenir la relation**
+
+- Newsletter trimestrielle avec vos actualités
+- Invitation à un petit-déjeuner annuel des partenaires bien-être
+- Retour (anonymisé) sur les patients co-accompagnés
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** 2-5 partenariats créés
+**Moyen terme (3-6 mois) :** 5-10 nouveaux clients via prescriptions
+**Long terme (12 mois+) :** 20-30% de vos clients viennent de prescriptions
+
+**Investissement :** 0-200€
+
+## Stratégie #3 : Optimiser le Bouche-à-Oreille Digital
+
+### Pourquoi le bouche-à-oreille traditionnel ne suffit plus
+
+Le bouche-à-oreille fonctionne toujours, mais il est devenu **digital et public**. Vos clients ne recommandent plus seulement lors de dîners entre amis, ils **postent sur Facebook, laissent des avis Google, et partagent sur Instagram**.
+
+### Les 3 leviers du bouche-à-oreille digital amplifié
+
+**Levier #1 : Le programme de parrainage structuré**
+
+Créez un système formel :
+
+*"Si un de vos proches bénéficierait de mon accompagnement, voici une carte de parrainage qui lui offre 20€ de réduction sur la première séance. Et pour vous remercier de la recommandation, vous bénéficiez d'une séance à -15€."*
+
+**Levier #2 : Les témoignages stratégiques**
+
+Demandez systématiquement des témoignages écrits après un accompagnement réussi.
+
+**Email type :**
+*"Bonjour [Prénom], notre accompagnement touche à sa fin et je suis ravi(e) des progrès que vous avez réalisés. Si vous souhaitez aider d'autres personnes qui vivent ce que vous avez vécu, un court témoignage sur votre expérience serait précieux."*
+
+Publiez ces témoignages sur :
+- Page "Témoignages" de votre site
+- Posts réguliers sur réseaux sociaux (avec accord écrit)
+- Brochure cabinet
+
+**Levier #3 : Les micro-influenceurs locaux**
+
+Identifiez 5-10 comptes Instagram locaux (500-5000 abonnés) dans le bien-être :
+- Professeurs de yoga
+- Coachs sportifs
+- Nutritionnistes
+- Blogueuses bien-être locales
+
+Proposez-leur une **séance découverte gratuite** en échange d'un partage authentique de leur expérience.
+
+Une seule story Instagram d'un micro-influenceur local peut vous amener 3-7 nouveaux clients.
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** Système de parrainage actif
+**Moyen terme (3-6 mois) :** 15-20 témoignages collectés
+**Long terme (12 mois+) :** 40-50% de vos clients viennent de recommandations
+
+**Investissement :** 0-150€
+
+## Stratégie #4 : Créer un Site Web Optimisé Pour la Conversion
+
+### Pourquoi votre site actuel ne convertit probablement pas
+
+Un site "vitrine" avec juste vos infos et votre CV ne suffit plus. Votre site doit être une **machine à convertir les visiteurs en clients**.
+
+### Les 7 éléments non-négociables d'un site thérapeute performant
+
+**Élément #1 : Un message clair en 5 secondes**
+
+❌ Mauvais : *"Bienvenue sur mon site. Je suis Sophie, sophrologue certifiée RNCP."*
+
+✅ Bon : *"Vous souffrez d'insomnie depuis des mois ? La sophrologie vous aide à retrouver un sommeil réparateur en 6 à 8 séances."*
+
+**Élément #2 : Un appel à l'action évident**
+
+Bouton visible immédiatement : **"Réserver une séance découverte"** ou **"Prendre rendez-vous maintenant"**
+
+Idéalement : intégration Calendly, Doctolib ou Résalib pour réservation en 2 clics.
+
+**Élément #3 : Une page par problématique cible**
+
+Créez une page dédiée pour chaque problème majeur :
+- "/stress-chronique"
+- "/insomnie"
+- "/confiance-en-soi"
+- "/arreter-de-fumer"
+
+**Élément #4 : Un blog actif (minimum 1 article/mois)**
+
+Le blog sert deux objectifs :
+1. **SEO** : Google favorise les sites avec contenu frais et expert
+2. **Crédibilité** : Démontrer votre expertise avant même la première séance
+
+**Élément #5 : Une FAQ complète**
+
+Répondez aux 10-15 questions que TOUS vos clients posent :
+- "Combien coûte une séance ?"
+- "Combien de séances sont nécessaires ?"
+- "Est-ce remboursé par la mutuelle ?"
+- "Comment se déroule la première séance ?"
+
+**Élément #6 : Preuves sociales visibles**
+
+Sur la page d'accueil :
+- "127 personnes accompagnées depuis 2020"
+- "4,9★ sur Google (43 avis)"
+- "Certifications : [logos]"
+
+**Élément #7 : Temps de chargement < 3 secondes**
+
+Un site lent = 40% d'abandon. Testez sur PageSpeed Insights.
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** Taux de conversion doublé
+**Moyen terme (3-6 mois) :** 20-30 visiteurs/mois deviennent clients
+**Long terme (12 mois+) :** 15-25% de vos nouveaux clients viennent du site
+
+**Investissement :** 500-2000€ ou 0€ avec templates Wix/Squarespace
+
+## Stratégie #5 : Animer des Conférences et Ateliers Gratuits
+
+### Le pouvoir de la visibilité physique locale
+
+Une conférence de 90 minutes devant 20-30 personnes génère plus de clients que 6 mois de posts Instagram. Pourquoi ? **L'expérience directe de votre expertise**.
+
+### Les 3 formats qui marchent le mieux
+
+**Format #1 : Atelier découverte en bibliothèque municipale**
+
+- Thème : "Gérer le stress au quotidien : 5 exercices de sophrologie"
+- Durée : 90 minutes (60 min contenu + 30 min questions)
+- Gratuit pour les participants
+
+**Comment l'organiser :**
+1. Contactez la bibliothèque/médiathèque de votre ville
+2. Proposez 3-4 dates possibles
+3. Ils s'occupent de la communication locale
+
+Taux de conversion typique : **15-25% des participants prennent RDV dans le mois suivant**.
+
+**Format #2 : Intervention en entreprise**
+
+- Thème : "Prévention du burn-out : détection et premiers outils"
+- Format : Conférence midi (45 min) ou atelier (2h)
+- Cible : PME de 10-50 salariés
+
+**Format #3 : Webinaire en ligne**
+
+Pour dépasser la limite géographique :
+- Annoncé sur vos réseaux sociaux et newsletter
+- Plateforme Zoom (gratuit jusqu'à 100 participants)
+- Enregistré et transformé en contenu YouTube après
+
+Avantage : scalabilité (50-200 participants vs 20-30 en physique).
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** 2-3 conférences organisées
+**Moyen terme (3-6 mois) :** 10-15 nouveaux clients
+**Long terme (12 mois+) :** Notoriété locale forte
+
+**Investissement :** 0-200€
+
+## Stratégie #6 : Publier Régulièrement sur les Réseaux Sociaux (Mais Intelligemment)
+
+### Les réseaux sociaux qui fonctionnent vraiment pour les thérapeutes en 2025
+
+Pas besoin d'être partout. Concentrez-vous sur **1-2 plateformes maximum**.
+
+**Instagram** : Idéal pour sophrologues, naturopathes, coachs bien-être (contenu visuel, Reels)
+**LinkedIn** : Parfait pour coachs professionnels, consultants, psychologues du travail
+**Facebook** : Encore pertinent pour thérapeutes ciblant 40-60 ans (groupes locaux)
+**YouTube** : Long-terme, excellent pour SEO et crédibilité
+
+→ **Guide éthique** : [Réseaux sociaux pour thérapeutes : guide déontologique](/blog/reseaux-sociaux-ethique-therapeutes)
+
+### La règle des 80/20 pour ne pas s'épuiser
+
+**80% de contenu de valeur (gratuit, éducatif) :**
+- Conseils pratiques
+- Exercices à faire chez soi
+- Explications de concepts
+- Témoignages de résultats
+- Coulisses de votre pratique
+
+**20% de contenu promotionnel :**
+- Annonces de disponibilités
+- Offres spéciales
+- Présentation de vos accompagnements
+
+→ **Inspiration** : [30 idées de Reels pour sophrologues](/blog/30-idees-reels-sophrologues-instagram)
+
+### Le calendrier éditorial minimal viable (4 posts/mois)
+
+Si vous n'avez que 2h/mois pour les réseaux sociaux :
+
+- **Semaine 1 :** Conseil pratique (carrousel ou Reel)
+- **Semaine 2 :** Témoignage client (post texte + photo)
+- **Semaine 3 :** Réponse à une question fréquente (vidéo courte)
+- **Semaine 4 :** Coulisses / vie de praticien (story + post)
+
+**Astuce cruciale :** Batch creation. Créez vos 4 posts en 1 seule session de 2h, programmez-les avec Later ou Metricool.
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** 100-300 abonnés
+**Moyen terme (3-6 mois) :** Premiers clients via DM Instagram
+**Long terme (12 mois+) :** 10-20% de vos clients découvrent via réseaux sociaux
+
+**Investissement :** 0€ (organique) à 50€/mois (publicités ciblées)
+
+## Stratégie #7 : Créer une Newsletter Pour Fidéliser et Réactiver
+
+### Pourquoi l'email marketing est la stratégie la plus rentable
+
+ROI moyen de l'email marketing : **36€ générés pour 1€ investi**. C'est le canal le plus rentable, loin devant les réseaux sociaux.
+
+### Comment construire votre liste email sans être intrusif
+
+**Technique #1 : Le lead magnet irrésistible**
+
+Offrez un contenu premium téléchargeable gratuitement en échange de l'email :
+
+- "Guide PDF : 10 exercices de sophrologie pour mieux dormir"
+- "Checklist : Les 15 signaux qui indiquent qu'il est temps de consulter"
+- "Audio guidé : Méditation de 10 minutes pour lâcher-prise"
+
+**Technique #2 : La collecte éthique post-séance**
+
+À la fin d'un accompagnement réussi :
+
+*"[Prénom], j'envoie une newsletter mensuelle avec des conseils et exercices pour prolonger les bénéfices de notre travail. Souhaitez-vous la recevoir ? Pas d'inquiétude, désabonnement en 1 clic."*
+
+### Le contenu newsletter qui génère des réservations
+
+**Email de réactivation (trimestriel) :** Envoyé aux anciens clients : *"Bonjour [Prénom], comment allez-vous depuis notre accompagnement ? J'ai quelques créneaux disponibles si vous souhaitez faire un point."*
+
+Taux de réactivation typique : **10-15% reprennent rendez-vous**.
+
+### Résultats attendus
+
+**Court terme (1-3 mois) :** Liste de 50-100 emails
+**Moyen terme (3-6 mois) :** 3-5 prises de RDV via newsletters
+**Long terme (12 mois+) :** 500-1000 abonnés = réservoir constant
+
+**Investissement :** 0-20€/mois (Mailchimp gratuit jusqu'à 500 contacts)
+
+## 🚀 STRATÉGIE #8 (RÉVOLUTIONNAIRE) : La Création Vidéo en Batch Pour Dominer Tous Les Canaux
+
+### Pourquoi la vidéo est le levier #1 en 2025
+
+**Données clés :**
+- Les posts vidéo génèrent **135% d'engagement de plus** que les posts image
+- 88% des marketeurs affirment que la vidéo offre le meilleur ROI
+- Les thérapeutes avec contenu vidéo actif obtiennent **3x plus de demandes** que ceux sans vidéo
+
+Pourtant, **95% des thérapeutes ne créent pas de vidéos régulièrement**. Pourquoi ?
+
+1. Manque de temps (3-4h par vidéo en méthode traditionnelle)
+2. Barrières techniques (matériel, montage, publication)
+3. Syndrome de l'imposteur face caméra
+4. Ne savent pas quoi dire
+
+→ **Solution** : [Syndrome de l'imposteur face caméra : comment le vaincre](/blog/syndrome-imposteur-camera-therapeutes)
+
+### La révolution : créer 20-40 vidéos en 2 jours au lieu de 6 mois
+
+Imaginez avoir **6 mois de contenu vidéo prêt à publier** après un seul weekend de production intensive.
+
+C'est exactement ce que permet la méthode de batch video creation en séminaire immersif.
+
+**Le concept révolutionnaire :**
+
+Au lieu de créer vos vidéos seul(e), face à votre téléphone, en procrastinant pendant des mois, vous :
+
+✅ Rejoignez un **séminaire de 2 jours** avec 6 autres thérapeutes/coachs
+✅ Vous **interviewez mutuellement** devant des caméras professionnelles
+✅ Produisez **20-40 vidéos** en format interview (le format le plus performant)
+✅ Bénéficiez d'un **coaching technique ET stratégique** en direct
+✅ Repartez avec tout le contenu + intégration à une communauté d'entraide
+
+→ **Méthode complète** : [Créer 20 vidéos en 2 jours](/blog/creer-20-videos-therapeutes-methode-complete)
+
+**Pourquoi cette méthode est 10x plus efficace :**
+
+1. **Gain de temps massif :** 16h de production vs 96h étalées sur 6 mois
+2. **Zéro angoisse caméra :** vous conversez avec un pair, pas seul face à un objectif
+3. **Qualité professionnelle garantie :** éclairage, son, cadrage gérés par des experts
+4. **Positionnement automatique en expert :** être interviewé(e) = crédibilité instantanée
+5. **Multiplication de visibilité :** chaque vidéo publiée sur 3 comptes
+
+**Témoignage de Claire, naturopathe :**
+
+> *"J'ai repoussé la création vidéo pendant 2 ans par peur du regard des autres et manque de temps. En 2 jours de séminaire Sphèris, j'ai créé 32 vidéos. Quatre mois après, mon Instagram est passé de 200 à 2400 abonnés, et 35% de mes nouveaux clients me découvrent via mes Reels. Mon seul regret : ne pas l'avoir fait plus tôt."*
+
+### Comment cette stratégie décuple toutes les autres
+
+La vidéo n'est pas une stratégie isolée. Elle **alimente et amplifie les 7 autres** :
+
+📍 **SEO Local** : Vidéos sur votre site = temps de visite x3 = meilleur ranking Google
+🤝 **Prescripteurs** : Envoyez vos vidéos aux partenaires
+💬 **Bouche-à-oreille** : Les vidéos sont 12x plus partagées que le texte
+🌐 **Site web** : Conversion doublée avec vidéo de présentation
+🎤 **Conférences** : Vos vidéos comme support de prospection
+📱 **Réseaux sociaux** : Contenu pour 6-12 mois = régularité garantie
+📧 **Newsletter** : Vidéos = taux d'ouverture +40%
+
+### Le ROI réel de cette stratégie
+
+**Investissement :** 800€ pour le séminaire de 2 jours
+
+**Retour sur investissement :**
+- 20-40 vidéos créées = **20-40€ par vidéo** (vs 1000-3000€ avec une agence)
+- Économie de **80 heures** = 2000€ de temps de consultation
+- En moyenne, **4-6 nouveaux clients** dans les 3 mois = 1200-3000€ de CA
+
+**ROI dès le premier mois : rentabilisé 2-4x**
+
+**👉 En savoir plus :** [spherislab.fr/seminaires](https://spherislab.fr/seminaires)
+
+## Plan d'Action : Par Où Commencer Maintenant ?
+
+Vous avez maintenant **8 stratégies éprouvées**. Mais par où démarrer pour ne pas vous éparpiller ?
+
+### Mois 1-2 : Les fondations (10h)
+
+✅ **Stratégie #1 :** Créer et optimiser votre Google Business Profile (2h)
+✅ **Stratégie #4 :** Améliorer votre site web (homepage + 1 page problématique) (4h)
+✅ **Stratégie #7 :** Lancer votre newsletter avec lead magnet (4h)
+
+**Résultat attendu :** Vous êtes trouvable et crédible en ligne.
+
+### Mois 3-4 : L'amplification (15h)
+
+✅ **Stratégie #2 :** Créer 3-5 partenariats prescripteurs (8h)
+✅ **Stratégie #3 :** Mettre en place le programme de parrainage (2h)
+✅ **Stratégie #6 :** Publier 4 posts/mois sur 1 réseau social (5h/mois)
+
+**Résultat attendu :** Vous générez des demandes régulières.
+
+### Mois 5-6 : L'accélération (800€ + 2 jours)
+
+✅ **Stratégie #8 :** Participer au séminaire de création vidéo (16h sur 2 jours)
+✅ **Stratégie #5 :** Organiser 1-2 conférences locales (6h)
+
+**Résultat attendu :** Vous dominez votre marché local, liste d'attente constituée.
+
+## Conclusion : La Visibilité N'Est Plus Optionnelle en 2025
+
+Être un excellent thérapeute ne suffit plus. Si vos clients idéaux ne savent pas que vous existez, vous ne pourrez jamais les aider.
+
+Les 7 stratégies éprouvées de cet article (SEO local, prescripteurs, bouche-à-oreille digital, site optimisé, conférences, réseaux sociaux, newsletter) sont la base.
+
+Mais si vous voulez vraiment vous démarquer et **multiplier votre visibilité par 3-5x en quelques mois**, la vidéo n'est plus optionnelle. C'est le levier #1 de croissance en 2025.
+
+Le problème : créer des vidéos régulièrement seul(e) est chronophage, stressant, et techniquement intimidant.
+
+La solution : produire 20-40 vidéos d'un coup en séminaire immersif, éliminer 6 mois de procrastination, et bénéficier d'un accompagnement expert + communauté de pairs.
+
+**Votre prochaine action :**
+
+Si vous voulez transformer radicalement votre visibilité et arrêter de dépendre uniquement du bouche-à-oreille aléatoire, candidatez au prochain séminaire Sphèris de création vidéo pour thérapeutes et coachs.
+
+👉 **[Candidater maintenant](https://spherislab.fr/seminaires)** (places limitées à 7 participants par session)
+
+---
+
+## À lire ensuite
+
+- [Créer 20 vidéos en 2 jours : la méthode complète](/blog/creer-20-videos-therapeutes-methode-complete)
+- [Syndrome de l'imposteur face caméra : comment le vaincre](/blog/syndrome-imposteur-camera-therapeutes)
+- [Personal branding pour thérapeutes : guide 2025](/blog/personal-branding-therapeutes-video)
+- [30 idées de vidéos courtes pour thérapeutes](/blog/30-idees-videos-courtes-therapeutes)
+1e:["$","section",null,{"className":"py-16 px-4","children":["$","div",null,{"className":"max-w-7xl mx-auto","children":["$","div",null,{"className":"grid lg:grid-cols-[1fr_280px] gap-12","children":[["$","article",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"text-xl text-slate-600 leading-relaxed mb-8 pb-8 border-b border-slate-200","children":"Guide complet 2025 pour thérapeutes et coachs : 7 stratégies éprouvées pour se faire connaître, développer son cabinet et attirer des clients idéaux. Visibilité locale, réseaux sociaux, SEO et méthode innovante."}],["$","div",null,{"className":"mb-8","children":["$","$L1f",null,{"title":"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)","url":"http://localhost:3000/blog/se-faire-connaitre-therapeute-2025"}]}],["$","div",null,{"className":"prose prose-lg prose-slate max-w-none prose-headings:scroll-mt-24 prose-a:text-primary-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-xl prose-img:shadow-lg","children":["$","$L20",null,{"content":"$21"}]}],"$L22","$L23","$L24"]}],"$L25"]}]}]}]
+26:I[88559,["/_next/static/chunks/faf2ffaea9ba24dd.js","/_next/static/chunks/1fee95e8945bb5a3.js","/_next/static/chunks/e787e8e2b7cac42b.js","/_next/static/chunks/fffa514563cfe879.js","/_next/static/chunks/ecbf9eacc9620121.js"],"default"]
+22:["$","div",null,{"className":"mt-12 pt-8 border-t border-slate-200","children":[["$","h3",null,{"className":"text-sm font-semibold text-slate-600 mb-3","children":"Tags :"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","visibilité",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","visibilité"]}],["$","span","marketing",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","marketing"]}],["$","span","seo",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","seo"]}],["$","span","réseaux sociaux",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","réseaux sociaux"]}],["$","span","développement cabinet",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","développement cabinet"]}],["$","span","stratégie digitale",{"className":"px-3 py-1 text-sm bg-slate-100 text-slate-700 rounded-full","children":["#","stratégie digitale"]}]]}]]}]
+23:["$","div",null,{"className":"mt-8 pt-8 border-t border-slate-200","children":["$","$L1f",null,{"title":"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)","url":"http://localhost:3000/blog/se-faire-connaitre-therapeute-2025"}]}]
+24:["$","section",null,{"className":"mt-16 pt-16 border-t border-slate-200","children":[["$","h2",null,{"className":"text-3xl font-bold text-slate-900 mb-8","children":"Articles similaires"}],["$","div",null,{"className":"grid sm:grid-cols-2 lg:grid-cols-3 gap-6","children":[["$","$L10","reseaux-sociaux-ethique-therapeutes",{"href":"/blog/reseaux-sociaux-ethique-therapeutes","className":"group block bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all","children":[["$","div",null,{"className":"relative h-40 w-full bg-slate-100","children":["$","$L19",null,{"src":"https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=630&fit=crop","alt":"Réseaux Sociaux pour Thérapeutes : Le Guide Éthique et Déontologique 2025","fill":true,"className":"object-cover group-hover:scale-105 transition-transform"}]}],["$","div",null,{"className":"p-4","children":[["$","div",null,{"className":"flex items-center gap-3 text-xs text-slate-500 mb-2","children":[["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-3 h-3","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":"5 février 2025"}]]}],["$","div",null,{"className":"flex items-center gap-1","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3 h-3","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":"9 min de lecture"}]]}]]}],["$","h3",null,{"className":"font-bold text-slate-900 mb-2 line-clamp-2 group-hover:text-primary-600 transition-colors","children":"Réseaux Sociaux pour Thérapeutes : Le Guide Éthique et Déontologique 2025"}],["$","p",null,{"className":"text-sm text-slate-600 line-clamp-2 mb-3","children":"Guide complet des règles éthiques et déontologiques pour thérapeutes sur les réseaux sociaux. Cadre légal par profession, exemples conformes, erreurs à éviter."}],["$","div",null,{"className":"flex items-center text-primary-600 font-semibold text-sm","children":[["$","span",null,{"children":"Lire"}],["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-right w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform","aria-hidden":"true","children":[["$","path","1ays0h",{"d":"M5 12h14"}],["$","path","xquz4c",{"d":"m12 5 7 7-7 7"}],"$undefined"]}]]}]]}]]}]]}]]}]
+25:["$","aside",null,{"children":["$","$L26",null,{"headings":[{"id":"statistiques-cles-a-retenir","text":"Statistiques clés à retenir","level":2},{"id":"strategie-1-maitriser-le-referencement-local-seo-local","text":"Stratégie #1 : Maîtriser le Référencement Local (SEO Local)","level":2},{"id":"pourquoi-le-seo-local-est-votre-priorite-absolue","text":"Pourquoi le SEO local est votre priorité absolue","level":3},{"id":"les-5-actions-concretes-pour-dominer-le-seo-local","text":"Les 5 actions concrètes pour dominer le SEO local","level":3},{"id":"resultats-attendus-du-seo-local","text":"Résultats attendus du SEO local","level":3},{"id":"strategie-2-developper-un-reseau-de-prescripteurs-actifs","text":"Stratégie #2 : Développer un Réseau de Prescripteurs Actifs","level":2},{"id":"le-pouvoir-meconnu-des-partenariats-professionnels","text":"Le pouvoir méconnu des partenariats professionnels","level":3},{"id":"comment-identifier-les-bons-prescripteurs-potentiels","text":"Comment identifier les bons prescripteurs potentiels","level":3},{"id":"la-methode-en-4-etapes-pour-creer-un-partenariat-prescripteur","text":"La méthode en 4 étapes pour créer un partenariat prescripteur","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-3-optimiser-le-bouche-a-oreille-digital","text":"Stratégie #3 : Optimiser le Bouche-à-Oreille Digital","level":2},{"id":"pourquoi-le-bouche-a-oreille-traditionnel-ne-suffit-plus","text":"Pourquoi le bouche-à-oreille traditionnel ne suffit plus","level":3},{"id":"les-3-leviers-du-bouche-a-oreille-digital-amplifie","text":"Les 3 leviers du bouche-à-oreille digital amplifié","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-4-creer-un-site-web-optimise-pour-la-conversion","text":"Stratégie #4 : Créer un Site Web Optimisé Pour la Conversion","level":2},{"id":"pourquoi-votre-site-actuel-ne-convertit-probablement-pas","text":"Pourquoi votre site actuel ne convertit probablement pas","level":3},{"id":"les-7-elements-non-negociables-d-un-site-therapeute-performant","text":"Les 7 éléments non-négociables d'un site thérapeute performant","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-5-animer-des-conferences-et-ateliers-gratuits","text":"Stratégie #5 : Animer des Conférences et Ateliers Gratuits","level":2},{"id":"le-pouvoir-de-la-visibilite-physique-locale","text":"Le pouvoir de la visibilité physique locale","level":3},{"id":"les-3-formats-qui-marchent-le-mieux","text":"Les 3 formats qui marchent le mieux","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-6-publier-regulierement-sur-les-reseaux-sociaux-mais-intelligemment","text":"Stratégie #6 : Publier Régulièrement sur les Réseaux Sociaux (Mais Intelligemment)","level":2},{"id":"les-reseaux-sociaux-qui-fonctionnent-vraiment-pour-les-therapeutes-en-2025","text":"Les réseaux sociaux qui fonctionnent vraiment pour les thérapeutes en 2025","level":3},{"id":"la-regle-des-80-20-pour-ne-pas-s-epuiser","text":"La règle des 80/20 pour ne pas s'épuiser","level":3},{"id":"le-calendrier-editorial-minimal-viable-4-posts-mois","text":"Le calendrier éditorial minimal viable (4 posts/mois)","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-7-creer-une-newsletter-pour-fideliser-et-reactiver","text":"Stratégie #7 : Créer une Newsletter Pour Fidéliser et Réactiver","level":2},{"id":"pourquoi-l-email-marketing-est-la-strategie-la-plus-rentable","text":"Pourquoi l'email marketing est la stratégie la plus rentable","level":3},{"id":"comment-construire-votre-liste-email-sans-etre-intrusif","text":"Comment construire votre liste email sans être intrusif","level":3},{"id":"le-contenu-newsletter-qui-genere-des-reservations","text":"Le contenu newsletter qui génère des réservations","level":3},{"id":"resultats-attendus","text":"Résultats attendus","level":3},{"id":"strategie-8-revolutionnaire-la-creation-video-en-batch-pour-dominer-tous-les-canaux","text":"🚀 STRATÉGIE #8 (RÉVOLUTIONNAIRE) : La Création Vidéo en Batch Pour Dominer Tous Les Canaux","level":2},{"id":"pourquoi-la-video-est-le-levier-1-en-2025","text":"Pourquoi la vidéo est le levier #1 en 2025","level":3},{"id":"la-revolution-creer-20-40-videos-en-2-jours-au-lieu-de-6-mois","text":"La révolution : créer 20-40 vidéos en 2 jours au lieu de 6 mois","level":3},{"id":"comment-cette-strategie-decuple-toutes-les-autres","text":"Comment cette stratégie décuple toutes les autres","level":3},{"id":"le-roi-reel-de-cette-strategie","text":"Le ROI réel de cette stratégie","level":3},{"id":"plan-d-action-par-ou-commencer-maintenant","text":"Plan d'Action : Par Où Commencer Maintenant ?","level":2},{"id":"mois-1-2-les-fondations-10h","text":"Mois 1-2 : Les fondations (10h)","level":3},{"id":"mois-3-4-l-amplification-15h","text":"Mois 3-4 : L'amplification (15h)","level":3},{"id":"mois-5-6-l-acceleration-800-2-jours","text":"Mois 5-6 : L'accélération (800€ + 2 jours)","level":3},{"id":"conclusion-la-visibilite-n-est-plus-optionnelle-en-2025","text":"Conclusion : La Visibilité N'Est Plus Optionnelle en 2025","level":2},{"id":"a-lire-ensuite","text":"À lire ensuite","level":2}]}]}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+27:I[6665,["/_next/static/chunks/63eac25a6d4d3b52.js","/_next/static/chunks/1600b6f2dce49891.js"],"IconMark"]
+18:[["$","title","0",{"children":"Se Faire Connaître Comme Thérapeute en 2025 : Guide Complet | Sphèris Lab | Sphèris Lab"}],["$","meta","1",{"name":"description","content":"Guide complet 2025 pour thérapeutes et coachs : 7 stratégies éprouvées pour se faire connaître, développer son cabinet et attirer des clients idéaux."}],["$","meta","2",{"name":"author","content":"Sphèris Lab"}],["$","meta","3",{"name":"keywords","content":"visibilité,marketing,seo,réseaux sociaux,développement cabinet,stratégie digitale"}],["$","meta","4",{"name":"creator","content":"Sphèris Lab"}],["$","meta","5",{"name":"publisher","content":"Sphèris Lab"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","9",{"name":"google-site-verification","content":"votre-code-google-search-console"}],["$","meta","10",{"property":"og:title","content":"Se Faire Connaître Comme Thérapeute en 2025 : Guide Complet | Sphèris Lab"}],["$","meta","11",{"property":"og:description","content":"Guide complet 2025 pour thérapeutes et coachs : 7 stratégies éprouvées pour se faire connaître, développer son cabinet et attirer des clients idéaux."}],["$","meta","12",{"property":"og:url","content":"http://localhost:3000/blog/se-faire-connaitre-therapeute-2025"}],["$","meta","13",{"property":"og:site_name","content":"Sphèris Lab"}],["$","meta","14",{"property":"og:locale","content":"fr_FR"}],["$","meta","15",{"property":"og:image","content":"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Se Faire Connaître Comme Thérapeute en 2025 : Le Guide Complet (7 Stratégies Éprouvées + 1 Révolutionnaire)"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"property":"article:published_time","content":"2025-01-30"}],["$","meta","21",{"property":"article:author","content":"Sphèris Lab"}],["$","meta","22",{"property":"article:tag","content":"visibilité"}],["$","meta","23",{"property":"article:tag","content":"marketing"}],["$","meta","24",{"property":"article:tag","content":"seo"}],["$","meta","25",{"property":"article:tag","content":"réseaux sociaux"}],["$","meta","26",{"property":"article:tag","content":"développement cabinet"}],["$","meta","27",{"property":"article:tag","content":"stratégie digitale"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"Se Faire Connaître Comme Thérapeute en 2025 : Guide Complet | Sphèris Lab"}],["$","meta","30",{"name":"twitter:description","content":"Guide complet 2025 pour thérapeutes et coachs : 7 stratégies éprouvées pour se faire connaître, développer son cabinet et attirer des clients idéaux."}],["$","meta","31",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=630&fit=crop"}],["$","link","32",{"rel":"icon","href":"/icon?b980b2db09a95fac","alt":"$undefined","type":"image/png","sizes":"32x32"}],["$","link","33",{"rel":"apple-touch-icon","href":"/apple-icon?a604625ab538ed9","alt":"$undefined","type":"image/png","sizes":"180x180"}],["$","$L27","34",{}]]
+14:null

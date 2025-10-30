@@ -6,6 +6,7 @@ import Programme from '@/components/Programme'
 import Ecosysteme from '@/components/Ecosysteme'
 import Tarifs from '@/components/Tarifs'
 import FAQSection from '@/components/FAQSection'
+import RelatedArticlesSection from '@/components/RelatedArticlesSection'
 import Contact from '@/components/Contact'
 import { seminairesFAQ } from '@/data/faqData'
 
@@ -26,6 +27,12 @@ export default function SeminairesPage() {
       <Ecosysteme />
       <Tarifs />
       <FAQSection faqs={seminairesFAQ} />
+      <RelatedArticlesSection
+        title="Ressources Complémentaires"
+        subtitle="Découvrez nos articles pour maximiser l'impact de votre présence vidéo"
+        filterByTags={['création vidéo', 'batch creation', 'séminaires', 'interviews croisées']}
+        limit={3}
+      />
       <Contact />
     </>
   )

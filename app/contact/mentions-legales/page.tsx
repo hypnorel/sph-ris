@@ -16,17 +16,14 @@ export default function MentionsLegalesPage() {
         <h2>Éditeur du site</h2>
         <p>
           Le site <strong>{SITE_CONFIG.name}</strong> est édité par :<br />
-          <strong>Aurélien Rignault</strong><br />
-          Auto-entrepreneur<br />
-          SIRET : {SITE_CONFIG.siret}<br />
-          Adresse : {SITE_CONFIG.address}<br />
+          <strong>Sphèris Lab</strong><br />
           Email : <a href={`mailto:${SITE_CONFIG.email}`}>{SITE_CONFIG.email}</a><br />
           Téléphone : {SITE_CONFIG.phone}
         </p>
 
         <h2>Directeur de la publication</h2>
         <p>
-          <strong>Aurélien Rignault</strong><br />
+          <strong>Sphèris Lab</strong><br />
           Email : <a href={`mailto:${SITE_CONFIG.email}`}>{SITE_CONFIG.email}</a>
         </p>
 

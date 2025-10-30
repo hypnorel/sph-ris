@@ -1,0 +1,77 @@
+name: Scheduled Blog Publication
+
+on:
+  schedule:
+    # Runs every day at 10:00 AM Paris time (9:00 AM UTC)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check for articles to publish
+        id: check_articles
+        run: |
+          # Get current date in YYYY-MM-DD format
+          CURRENT_DATE=$(date -u +"%Y-%m-%d")
+          echo "Current date: $CURRENT_DATE"
+
+          # Count articles with dates <= today
+          ARTICLES_COUNT=$(find content/blog -name "*.mdx" -type f -exec grep -l "date: \"" {} \; | while read file; do
+            ARTICLE_DATE=$(grep "^date:" "$file" | sed 's/date: "\(.*\)"/\1/' | tr -d ' ')
+            if [[ "$ARTICLE_DATE" <= "$CURRENT_DATE" ]]; then
+              echo "$file"
+            fi
+          done | wc -l)
+
+          echo "articles_count=$ARTICLES_COUNT" >> $GITHUB_OUTPUT
+          echo "Found $ARTICLES_COUNT articles to publish"
+
+      - name: Build Next.js site
+        if: steps.check_articles.outputs.articles_count > 0
+        run: npm run build
+        env:
+          NODE_ENV: production
+
+      - name: Export static site
+        if: steps.check_articles.outputs.articles_count > 0
+        run: |
+          # If you're using static export
+          if grep -q '"output": "export"' next.config.js 2>/dev/null || grep -q 'output: "export"' next.config.mjs 2>/dev/null; then
+            echo "Static export detected, build already exported"
+          else
+            echo "Standard build completed"
+          fi
+
+      - name: Deploy to GitHub Pages
+        if: steps.check_articles.outputs.articles_count > 0
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          publish_branch: gh-pages
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy: Scheduled publication ${{ github.run_number }}'
+
+      - name: Notify completion
+        if: steps.check_articles.outputs.articles_count > 0
+        run: |
+          echo "✅ Deployment completed successfully"
+          echo "📅 Published ${{ steps.check_articles.outputs.articles_count }} articles"
